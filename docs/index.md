@@ -1,4 +1,6 @@
 # Website Monitoring Brief Record for 2021
+A biweekly brief on all news about data specifically related to the work of the IPBES task force on knowledge and dat.a  
+
 Curated by Joy A. Kumagai (joy.kumagai@senckenberg.de)
 
 ### Issue 5
