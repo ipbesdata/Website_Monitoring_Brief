@@ -3,6 +3,23 @@ A biweekly brief on all news about data specifically related to the work of the 
 
 Curated by Joy A. Kumagai (joy.kumagai@senckenberg.de)
 
+### Issue 6
+Date: March 29th, 2021
+
+
+1.	The [Allen Coral Atlas]( https://allencoralatlas.org/) has produced three newly mapped regions: Central Indian Ocean, Great Barrier Reef & Torres Strait, and Western Australia, bringing their mapping extent to almost 70% of the world’s shallow water coral reefs. 
+
+2.	There is a [new layer on Global Forest Watch]( https://data.globalforestwatch.org/datasets/net-forest-carbon-flux) which provide spatially explicit data on carbon fluxes from forests [announced here]( https://blog.globalforestwatch.org/data-and-research/forest-carbon-flux-data-explained/)  
+
+3.	Global synthesis real-time crop conditions are [now available on MapX]( https://www.mapx.org/news/geoglam/) on a monthly basis   
+
+4.	A [new ARSET training class]( https://appliedsciences.nasa.gov/join-mission/training/english/arset-satellite-observations-and-tools-fire-risk-detection-and) consisting of six lessons on using satellite observations and tools for fire risk, detection, and analysis will occur soon in English and Spanish   
+
+5.	The Ecosystem Services Partnership updated their Ecosystem Service Valuation Database [announced here]( https://www.es-partnership.org/ecosystem-services-valuation-database-latest-version/)  
+
+6.	The United Nations as adopted a [new framework (SEEA EA)]( https://seea.un.org/ecosystem-accounting) to integrate natural capital in economic reporting [announced here]( https://www.un.org/en/desa/un-adopts-landmark-framework-integrate-natural-capital-economic-reporting#:~:text=contribution%20to%20economy-,UN%20adopts%20landmark%20framework%20to%20integrate%20natural%20capital%20in%20economic,prosperity%20and%20human%20well%2Dbeing) 
+
+
 ### Issue 5
 Date: March 16th, 2021
 
