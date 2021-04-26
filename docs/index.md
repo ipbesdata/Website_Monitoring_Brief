@@ -3,6 +3,22 @@ A biweekly brief on all news about data specifically related to the work of the 
 
 Curated by Joy A. Kumagai (joy.kumagai@senckenberg.de)
 
+### Issue 7
+Date: April 26th, 2021
+
+1.	The World Resources Institute hosts Aqueduct, a website with tools to visualize water stress and flood risk areas and much more with downloadable data accessible [here]( https://www.wri.org/aqueduct)
+
+2.	A new data management plan PID (persistent identifier) has been developed by [DMPTools](https://dmptool.org/) announced [here]:(https://blog.datacite.org/announcing-dmp-ids/)
+
+3.	A [new blog post from Global Forest Watch]( https://blog.globalforestwatch.org/data-and-research/global-tree-cover-loss-data-2020/) examining the differences in primary rainforest deforestation between 2019 and 2020 
+
+4.	This year’s [World Happiness Report]( https://worldhappiness.report/?mc_cid=15bd410e35&mc_eid=1811606ec3) was released this past month with a focus on how COVID-19 has impacted lives around the world. 
+
+5.	The Second World Ocean Assessment [was released]( https://www.un.org/regularprocess/woa2launch) covering environmental, economic and social aspects to support decisions and actions for SDG 14 and implementation of the UN Decade of Ocean Science for Sustainable Development.
+
+6.	The UN Statistics Division is hosting [this event](https://unstats.un.org/unsd/events/?Id=578) on April 29th, 2021 to launch a cloud-service that uses artificial intelligence for ecosystem accounting, the ARIES for SEEA Explorer. 
+
+
 ### Issue 6
 Date: March 29th, 2021
 
