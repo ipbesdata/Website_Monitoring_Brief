@@ -1,7 +1,7 @@
 # Website Monitoring Brief Record for 2021
 A biweekly brief on all news about data specifically related to the work of the IPBES task force on knowledge and data.  
 
-Please feel free to distribute the brief to your relevant networks and colleagues acknowledging the original collection was preformed by Joy Kumagai from the technical support unit on knowledge and data within IPBES. We welcome any suggestions for future content relevant for the brief. 
+Please feel free to distribute the brief to your relevant networks and colleagues. We welcome any suggestions for future content relevant for the brief. 
 
 Curated by Joy A. Kumagai (joy.kumagai@senckenberg.de)
 
