@@ -1,7 +1,21 @@
 # Website Monitoring Brief Record for 2021
 A biweekly brief on all news about data specifically related to the work of the IPBES task force on knowledge and data.  
 
+Please feel free to distribute the brief to your relevant networks and colleagues acknowledging the original collection was preformed by Joy Kumagai from the technical support unit on knowledge and data within IPBES. We welcome any suggestions for future content relevant for the brief. 
+
 Curated by Joy A. Kumagai (joy.kumagai@senckenberg.de)
+
+### Issue 8
+Date: May 11th, 2021
+
+1.	GBIF has opened the 2021 Ebbe Nielsen Challenge with the aim of recognizing innovative entries that leverage biodiversity data and tools from the GBIF network to advance open science, more details [here]( https://www.gbif.org/news/3D4vDeTzJ4UrTuYZ8SiPVY/2021-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity)
+
+2.	 The Intergovernmental Oceanographic Commission recently published [a new report]( https://unesdoc.unesco.org/ark:/48223/pf0000376708) on the ocean’s ability to contribute to climate regulation and its future 
+
+3.	The high-level virtual event to celebrate the launch of the Ocean Decade will take part on June 1st, more details [here]( https://www.oceandecade-conference.com/en/)
+
+4.	Global Forest Watch has produced a new monitoring tool for rain forests through RADD alerts explained [here]( https://www.globalforestwatch.org/blog/data-and-research/radd-radar-alerts/) and available [here](https://gfw.global/3ssHfXs) 
+
 
 ### Issue 7
 Date: April 26th, 2021
