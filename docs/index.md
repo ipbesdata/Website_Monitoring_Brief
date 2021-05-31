@@ -5,6 +5,27 @@ Please feel free to distribute the brief to your relevant networks and colleague
 
 Curated by Joy A. Kumagai (joy.kumagai@senckenberg.de)
 
+
+### Issue 9
+Date: May 31st, 2021
+
+1.	Dave Thau, a member of the IPBES task force on knowledge and data, has released the first 2 pieces of a [multi-part series on Medium]( https://medium.com/g-ai-a) addressing how we manage data in conservation
+
+2.	Global fishing watch has released a new tool called [the Global Fishing Watch Marine Manager]( https://globalfishingwatch.org/marine-manager) to help support the design, management and monitoring of existing and new MPAs. Announcement [here]( https://globalfishingwatch.org/impacts/technology-marine-management/)
+
+3.	The protected planet report (2020) was released on May 19th and is available [here](https://livereport.protectedplanet.net/) which analyzes progress towards Aichi Target 11. A quick summary is available [here](https://www.unep-wcmc.org/news/world-met-target-for-protected-area-coverage-on-land--but-quality-must-improve) as well 
+
+4.	Registration is now available for the GO FAIR Festival 2021 from June 21-23. More information and registration details can be found [here]( https://www.go-fair.org/events/fair-festival-2021/)
+
+5.	Tomorrow, 1 June, the First International Ocean Decade Conference will begin with the [High-Level Launch of the Ocean decade](https://www.oceandecade-conference.com/en/) 
+6.	FAO released for the first time soil nutrient budget data for the time period between 1961-2018 announced [here]( http://www.fao.org/food-agriculture-statistics/data-release/data-release-detail/en/c/1397745/)
+
+7.	GBIF records (nearly 1.3 billion species occurrence records) are now available for use through the Microsoft Planetary Computer data catalogue announced [here]( https://www.gbif.org/news/4Uyr7RpdcoeavzLBGRqX7k/gbif-forecast-increasing-chance-of-clouds-for-species-occurrence-data) 
+
+8.	NASA-ARSET has a new three part series of trainings on using Google Earth Engine for land Monitoring Applications described [here]( https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications) 
+9.	GO FAIR is also hosting a webinar on FAIR Workflows on June 16th 2021 more information [here]( https://gofair.us/events/2021-06-16-FAIR-Workflows.html)
+
+
 ### Issue 8
 Date: May 11th, 2021
 
