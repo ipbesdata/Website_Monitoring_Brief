@@ -6,6 +6,25 @@ Please feel free to distribute the brief to your relevant networks and colleague
 Curated by Joy A. Kumagai (joy.kumagai@senckenberg.de)
 
 
+### Issue 10
+Date: June 15th 2021 
+
+1.	The joint IPCC/IPBES workshop report is available on the ipbes website [here]( https://www.ipbes.net/events/launch-ipbes-ipcc-co-sponsored-workshop-report-biodiversity-and-climate-change)
+
+2.	The Sustainable Development Report for 2021 was released yesterday [here]( https://dashboards.sdgindex.org/chapters) with an accompanying [interactive dashboard](https://dashboards.sdgindex.org/map)
+
+3.	A new platform, [Ocean+](https://habitats.oceanplus.org/), launched on World Oceans Day. The platform provides global and national statistics on marine and coastal habitats. 
+
+4.	OpenAIRE announced its third conference for all topics surrounding open science will take place September 20th-24th. Registration is free and more information is available [here]( https://www.opensciencefair.eu/)
+
+5.	The International Seabed Authority joined the OBIS network on June 8th announced [here]( https://obis.org/2021/06/10/isa/) with the aim to publish biodiversity data collected by deep-sea mining contractors
+
+6.	The Intergovernmental Oceanographic Commission of UNESCO has published a new database called the Harmful Algal Event Database (HAEDAT) available [here](http://doi.org/10.25607/0wdrmq) with summary statistics viewable [here]( https://obis.org/dataset/62ddad25-2a19-485d-9bae-7eb3a40a71c5)
+
+7.	The Forest Peoples Programme published [a briefing](https://www.forestpeoples.org/en/briefing-paper/2021/re-thinking-nature-based-solutions) that looks at key areas where nature-based solutions need more clarity and rigour to tackle the environmental crisis and uphold human rights
+
+8.	A short [article]( https://marine.copernicus.eu/artificial-intelligence-ocean-monitoring-part-ii) on how Copernicus Marine Service is using artificial intelligence to add value to environmental datasets - specifically ocean variables 
+
 ### Issue 9
 Date: May 31st, 2021
 
