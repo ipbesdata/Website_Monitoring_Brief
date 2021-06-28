@@ -1,0 +1,9 @@
+name: "Website Monitoring Brief"
+navbar:
+  title: "Website Monitoring Brief"
+  left:
+    - text: "Home"
+      href: README.html
+    - text: "Monitoring Briefs"
+      href: index.html
+output_dir: "."
