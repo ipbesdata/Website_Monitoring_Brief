@@ -1,16 +1,22 @@
 # Website Monitoring Brief Record for 2021
 
-A biweekly brief on all news about data specifically related to the work of the IPBES task force on knowledge and data.
-
-Please feel free to distribute the brief to your relevant networks and colleagues. We welcome any suggestions for future content relevant for the brief.
-
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
 ### Issue 11
 
-Date: June 28th 2021
+Date: June 29th 2021
 
-1. 
+1. [Part three](https://marine.copernicus.eu/news/artificial-intelligence-marine-monitoring-part-iii) of how the Copernicus Marine Service uses artificial intelligence to add value to environmental datasets – specifically on artificial neural networks 
+
+2.	The Forest Peoples Programme published a [briefing](https://www.forestpeoples.org/en/convention-biological-diversity-cbd/briefing-paper/2021/biodiversity-and-finance-building-common) focused on biodiversity and finance
+3.	The Ecosystem Services Partnership is starting a new working group on big data and digital communication. More information is available [here](https://www.es-partnership.org/new-thematic-wg-on-big-data-digital-communication/)
+
+4.	A new report is available [here](http://nlai.blue/wp-content/uploads/2021/06/NLAI_Blue_Economy_In_Practice.pdf) showcasing 70 case studies where governments and other agencies are successfully contributing to Blue Economy approaches 
+
+5.	UNEP/GRID-Geneva and UNEP developed [a global geospatial tool for reducing disaster risks]( https://pedrr.org/global2/) through ecosystem restoration and protection 
+
+6.	The ocean health index turns 10! Here’s [10 takeaways](https://www.nceas.ucsb.edu/news/10-takeaways-10-years-ocean-health-index) the team released
+
 
 ### Issue 10
 
