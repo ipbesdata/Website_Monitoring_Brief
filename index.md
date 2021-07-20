@@ -2,6 +2,23 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 12
+
+Date: July 19th 2021
+
+1.	The UN Convention on Biological Diversity (CBD) released the first draft of a new global biodiversity framework announced [here](https://www.cbd.int/article/draft-1-global-biodiversity-framework). 
+
+2.	A new dynamic data platform called [ResourceWatch](https://blog.resourcewatch.org/) has been developed with dashboards dedicated to eight different topics of interest 
+
+3.	The Copernicus Marine Services [released a new version of the MyOcean viewer announced here](https://marine.copernicus.eu/news/myocean-viewer-a-tool-for-visualising-ocean-data) which includes additional features. Additionally, they released two new ocean data viewers to increase accessibility for the public   
+
+4.	An unprecedented [analysis of harmful algal bloom events worldwide]( https://ioc.unesco.org/news/unprecedented-analysis-global-harmful-algal-blooms-launched-ioc) was released two months ago by UNESCO’s Intergovernmental Oceanographic Commission 
+
+5.	The third International Living Norway colloquium: The ethics and technical know-how of open science in ecology and evolution will take place on the 25th-26th of October in 2021, additional information available [here]( https://livingnorway.no/colloquium_2021/) 
+
+6.	Within the SDG dashboard released earlier this year, there is a spillover index [presented here](https://dashboards.sdgindex.org/map/spillovers) for each country which assesses spillovers along three dimensions
+
+
 ### Issue 11
 
 Date: June 29th 2021
