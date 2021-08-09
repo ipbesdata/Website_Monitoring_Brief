@@ -2,6 +2,24 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 13
+
+Date: August 9th 2021
+
+1.	The GOOS Observations Coordination Group launched a new [Ocean Observing Report Card for 2021](https://www.ocean-ops.org/reportcard2021/) based on the status of the global in situ observing system 
+
+2.	The Global Mangrove Alliance released a new report, [The State of the World’s Mangroves 2021](https://www.mangrovealliance.org/wp-content/uploads/2021/07/The-State-of-the-Worlds-Mangroves-2021-FINAL-1.pdf), compiling research and case studies from projects all over the world
+
+3.	A database of article processing charges for open access papers is available from OpenAPC [here](https://treemaps.openapc.net/apcdata/openapc/#publisher/)  
+
+4.	A quick [3 part series is available](https://www.go-fair.org/2021/08/02/fair-implementation-profile-3-part-video-series/) which describes the [FAIR Implementation Profile](https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/) developed by GO FAIR  
+
+5.	A new three-day ARSET training was announced covering species distribution modeling with remote sensing. More information is available [here](https://appliedsciences.nasa.gov/join-mission/training/english/arset-species-distribution-modeling-remote-sensing)
+
+6.	UNESCO’s IOC has announced the official launch of their [Ocean Image Bank](https://www.theoceanagency.org/ocean-image-bank), an online library of thousands of high-quality ocean images made freely available for download and use 
+
+7.	Global Fishing Watch has developed new back-end technology to quickly load and visualize their map-based products on their website for their updated maps described [here](https://globalfishingwatch.org/data/new-map-2021/)
+
 ### Issue 12
 
 Date: July 19th 2021
