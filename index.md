@@ -2,6 +2,18 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 14
+
+Date: August 24th 2021
+
+1.	On Wednesday June 16th, 2021, EarthCube hosted a workshop event where Dr. Jennings discussed the relationship between the CARE Principles for Indigenous Data Governance and the FAIR Principles. The abstract and recording can be found [here](https://gofair.us/events/2021-06-16-CARE-Principles.html)
+
+2.	A [new paper was published](https://www.nature.com/articles/s41893-021-00753-z?proof=tNature) which presents a new Multidimensional Biodiversity Index (MBI) to connect biodiversity science to the political agenda, announced [here](https://www.unep-wcmc.org/news/towards-a-policy-smart-and-multidimensional-biodiversity-measure ) 
+
+3.	Global Fishing Watch has partnered with the FAO of the United Nations to support its endorsed ocean decade action, “Digital innovation hand-in-hand with fisheries and ecosystems scientific monitoring,” announced [here](https://globalfishingwatch.org/transparency/transparent-ocean-data-can-drive-digital-innovation-to-reveal-human-activity-at-sea/)  
+
+4.	UNESCO and the German Federal Agency for Nature Conservation have published new guidelines on a methodology for evaluating the impact of protected areas on the local economy. More information [here](http://whc.unesco.org/en/news/2323) 
+
 ### Issue 13
 
 Date: August 9th 2021
