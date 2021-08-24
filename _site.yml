@@ -4,6 +4,6 @@ navbar:
   left:
     - text: "Home"
       href: README.html
-    - text: "Monitoring Briefs"
+    - text: "2021 Briefs"
       href: index.html
 output_dir: "."
