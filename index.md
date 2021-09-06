@@ -2,6 +2,25 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 15
+
+Date: September 6th 2021
+
+1.	The [Post 2020 Indicators website](https://www.post-2020indicators.org/) has been released and announced [here](https://www.unep-wcmc.org/news/monitoring-global-biodiversity-goals-and-targets--a-new-website-offers-insight), which aims to facilitate and inform discussions on measurable goals and targets by providing negotiators with the best information available on nature indicators
+
+2.	Force 11 [announced](https://www.force11.org/article/call-proposals-force2021) that its annual conference will be held online from December 7-9th 2021 under the theme “FORCE2021: Joining Forces to Advance the Future of Research Communications” 
+
+3.	CO-OPERA has produced a scientific blog called [The road to FAIR](https://roadtofair.hypotheses.org/) which addresses the challenges of implementing FAIR principles in various domains. The blog is [open to contributions](https://roadtofair.hypotheses.org/advice-for-contributors-2) 
+
+4.	UN Biodiversity Lab’s new concept note, Mapping Nature for People and Planet, is available [here](https://unbiodiversitylab.org/wp-content/uploads/2021/03/Mapping-Nature-for-People-and-Planet-2-min.pdf)
+
+5.	The Ocean Decade is hosting another event focused on “A Predicted Ocean” from 15 – 17 September 2021 with the core event occurring on September 15th at 20:00 CEST. Details are available [here](https://www.oceandecade-conference.com/en/a-predicted-ocean.html)
+
+6.	There is a new ARSET training on “Monitoring Coastal and Estuarine Water Quality: Transitioning from MODIS to VIIRS. More information [here](https://appliedsciences.nasa.gov/join-mission/training/english/arset-monitoring-coastal-and-estuarine-water-quality-transitioning)
+
+7.	Planet collaborated with the city Bhubaneswar and its state agency to use satellite data to spot early signs of unauthorized government land use and encroachment in India, described [here](https://www.planet.com/pulse/using-satellite-data-to-spot-early-signs-of-unauthorized-government-land-use-and-encroachment-in-india/) 
+
+
 ### Issue 14
 
 Date: August 24th 2021
