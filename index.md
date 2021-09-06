@@ -20,7 +20,6 @@ Date: September 6th 2021
 
 7.	Planet collaborated with the city Bhubaneswar and its state agency to use satellite data to spot early signs of unauthorized government land use and encroachment in India, described [here](https://www.planet.com/pulse/using-satellite-data-to-spot-early-signs-of-unauthorized-government-land-use-and-encroachment-in-india/) 
 
-
 ### Issue 14
 
 Date: August 24th 2021
