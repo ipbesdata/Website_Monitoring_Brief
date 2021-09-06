@@ -234,3 +234,5 @@ Date: January 8th, 2021
 4.  [This article](https://www.unep-wcmc.org/news/20-positives-for-nature-from-2020) on 20 positives developments for nature that took place in 2020
 
 5.  An intriguing study on how noise and light pollution impacts the timing of bird reproduction and how this interacts with food availability and climate change [summarized here](https://www.nasa.gov/feature/esnt/2020/noise-and-light-pollution-from-humans-alter-bird-reproduction)
+
+.
