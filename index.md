@@ -2,6 +2,26 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 16
+
+Date: September 20th 2021
+
+1.	A [new tool](https://sealevel.nasa.gov/ipcc-ar6-sea-level-projection-tool) allows users to visualize and download the sea level projection data from the IPCC 6th Assessment Report (AR6) [described here](https://sealevel.nasa.gov/data_tools/17)
+
+2.	World bank produced an interesting [article here]( https://blogs.worldbank.org/digital-development/sustainable-development-goals-and-open-data) on how open data can help achieve each of the sustainable development goals 
+
+3.	GBIF has published a new guide on sharing DNA-derived occurrence data available [here](https://docs.gbif.org/publishing-dna-derived-data/1.0/en/)
+
+4.	GBIF has improved the processing and quality of DNA-derived occurrences through a collaboration with the European Nucleotide Archive described in [this article](https://www.gbif.org/news/3jpFT9gysj9zwcupx1gOKU/cross-infrastructure-collaboration-with-ena-improves-processing-quality-of-dna-derived-occurrences)
+
+5.	UNEP-WCMC launched a new platform for navigating ecosystem-based adaptation tools announced [here](https://www.unep-wcmc.org/news/new-platform-for-navigating-ecosystem-based-adaptation-tools-launched) 
+
+6.	UNEP-WCMC produced a new MPA Guide announced [here](https://www.unep-wcmc.org/news/5-insights-from-the-new-mpa-guide-that-can-help-improve-ocean-conservation) which functions as a science-based tool and framework to assist in identifying different types of MPAs
+
+7.	The FAIR Island Project received funding to examine the impact of implementing optimal research data management policies and requirements at a working field station [announced here](https://uc3.cdlib.org/2021/09/16/fair-island-project-receives-nsf-funding/)
+
+8.	The European Commission just released a new report that sheds light on the open access policy for Horizon 2020 grants [announced here](https://www.openaire.eu/the-use-of-open-data-sources-to-monitor-the-european-commission-s-open-access-policy-and-the-role-of-openaire)
+
 ### Issue 15
 
 Date: September 6th 2021
