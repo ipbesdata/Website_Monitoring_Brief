@@ -2,6 +2,21 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 17
+
+Date: October 4th 2021
+
+1.	The Allen Coral Atlas has completed its first global coral reef maps announced [here](https://allencoralatlas.org/blog/mapping-the-worlds-coral-reefs/)
+
+2.	The new [Global SDG Indicators Data Platform](https://unstats.un.org/sdgs/unsdg) has been launched
+
+3.	Ocean Visions have developed [a set of roadmaps](https://oceanvisions.org/roadmaps/) from experts across multiple disciplines to catalyze action around ocean-based carbon dioxide removal technologies 
+
+4.	The [20th International Semantic Web Conference](https://iswc2021.semanticweb.org/) is taking place online from 24-28 October this year. If interested, registration is still open
+
+5.	The [Ocean State Report 5](https://marine.copernicus.eu/news/ocean-state-report-5-summary-now-available) from the Copernicus Marine Services and Mercator Ocean International was released last month
+
+
 ### Issue 16
 
 Date: September 20th 2021
