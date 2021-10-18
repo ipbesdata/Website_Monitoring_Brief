@@ -2,6 +2,21 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 18
+
+Date: October 18th 2021
+
+1.	MyOcean viewer, a visualization tool provided by Copernicus Marine, has new features including generating high resolution graphs and time series announced [here](https://marine.copernicus.eu/news/discover-latest-special-features-myocean-viewer)
+
+2.	The [Ecosystem Services Valuation Database](https://www.esvd.net/) was officially launched on the 14th of October by the Ecosystem Services Partnership which includes 4500 standardized values in dollars per hectare
+
+3.	OBIS and UNESCO's Marine World Heritage sites have launched a two-year project on eDNA to study biodiversity within these sites announced [here](https://www.obis.org/2021/10/18/ednaexpeditions/). The project’s website can be found [here](https://ednaexpeditions.org/)
+
+4.	The National Ecosystem Assessment Initiative at UNEP-WCMC launched [a new website](https://www.ecosystemassessments.net/) to support countries undertaking ecosystem assessments announced [here](https://www.unep-wcmc.org/news/new-national-ecosystem-assessment-initiative-platform-to-support-countries-around-the-world)
+
+5.	Version 2.0 of the [UN Biodiversity Lab](https://unbiodiversitylab.org/) was [launched](https://www.unep-wcmc.org/news/launch-of-un-biodiversity-lab-20--spatial-data-and-the-future-of-our-planet) on 4th of October, which is free and open source and now has over 400 global spatial data layers
+
+
 ### Issue 17
 
 Date: October 4th 2021
