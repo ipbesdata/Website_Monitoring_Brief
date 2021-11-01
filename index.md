@@ -2,6 +2,21 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 19
+
+Date: November 1st 2021
+
+1.	OpenAIRE Explore has made [OpenAIRE Research Graph](https://graph.openaire.eu/) publicly available which uses a semantic graph database approach to enable discovery, access, and enhancement discussed [here](https://www.openaire.eu/blogs/explore-search-open-science-scholarly-works)
+
+2.	Five new data portals for GBIF are available and [listed here](https://www.gbif.org/news/6RG9WSU3knIxyhcDUBQTJY/first-five-hosted-portals-emerge-from-gbif-pilot-programme), which were developed through a pilot program at GBIF and include features not yet available on gbif.org  
+
+3.	Today completed Earth Overshoot Day’s 100 days of possibility. Check out their [gallery of possible solutions]( https://www.overshootday.org/100-days-of-possibility/) to use existing technology to change our business as usual practices
+
+4.	If you are interested in the Decade of Ocean Science for Sustainable Development, [here](https://www.oceandecade.org/news/ocean-decade-events-at-climate-cop26-glasgow/) is a short list of Ocean Decade Events at COP 26
+
+5.	An informative [article is available from GoFAIR](https://www.go-fair.org/2021/10/28/triple-project-session-fair-data-in-ssh/) which explores FAIR Data in Social Sciences and Humanities 
+
+
 ### Issue 18
 
 Date: October 18th 2021
