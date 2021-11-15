@@ -2,6 +2,24 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 20
+
+Date: November 15th 2021
+
+1.	A new report, “[Nature-based solutions for climate change mitigation](https://www.unep-wcmc.org/system/comfy/cms/files/files/000/001/989/original/NBS_Document_04.11.2021_Web.pdf),” by UNEP and IUCN announced [here](https://www.unep-wcmc.org/news/in-order-to-keep-global-warming-below-15c-a-significant-contribution-from-nature-based-solutions-is-both-necessary-and-possible) was released calling to attention the emissions reductions that nature-based solutions can deliver
+
+2.	GBIF will host a [virtual science-policy symposium](https://www.gbif.org/event/5F0JBfJgGORf3pzyusksKa/impact-and-action-a-virtual-science-policy-symposium) called **Impact and Action** on 9 December 2021 for experts to examine the role and needs of the biodiversity data ecosystem
+
+3.	FAO has developed a new database announced [here](https://www.fao.org/food-agriculture-statistics/data-release/data-release-detail/en/c/1454718/) on the share of agri-food systems in total greenhouse gas emissions between 1990-2019 with a plan to update it annually
+
+4.	A dashboard is being created by a horizon 2020 project, called [DESIRA OpenAIRE community dashboard](https://rural-digital-europe.openaire.eu/) which brings together publications and research outcomes related to digitization and it’s socio-economic impact in rural areas, agriculture and forestry in Europe described [here](https://www.openaire.eu/desira-digitising-economic-and-social-impacts-in-rural-areas)
+
+5.	Registration is now open for [FORCE11’s 2021 annual conference](https://www.force11.org/meetings/force2021) held online on 7-9 December. The conference schedule is available [here](https://force2021.sched.com/)
+
+6.	The [World Development Report 2021: Data for better lives]( https://www.worldbank.org/en/publication/wdr2021) was released this year which explores the potential of the data landscape to improve lives, the potential harm that can be done, and a call for a new social contract that enables the use and reuse of data
+
+
+
 ### Issue 19
 
 Date: November 1st 2021
