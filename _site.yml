@@ -6,4 +6,6 @@ navbar:
       href: README.html
     - text: "2021 Briefs"
       href: index.html
+    - text: "2022 Briefs"
+      href: index_2020.html
 output_dir: "."

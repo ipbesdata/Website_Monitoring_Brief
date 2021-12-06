@@ -2,6 +2,26 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 21
+
+Date: December 6th 2021
+
+1.  UNEP-WCMC released a new report, “Creating a Nature-Positive Future for People and Planet, announced [here](https://www.unep-wcmc.org/news/creating-a-nature-positive-future-for-people-and-planet) which main consideration or the implementation of protected and conserved area targets. Report is available [here](https://www.undp.org/publications/creating-nature-positive-future-contribution-protected-areas-and-other-effective-area#modal-publication-download) 
+
+2.  FAO published the 2021 edition of the World Food and Agriculture Statistical Yearbook [announced here](https://www.fao.org/newsroom/detail/an-indispensable-resource-for-food-agriculture-031121/en). The [digital report]( https://www.fao.org/3/cb4477en/online/cb4477en.html) includes infographics and interactive charts
+
+3.  Global Fishing Watch is partnering with Trygg Mat Tracking to develop an innovative risk assessment tool to help insures combat illegal, unreported and unregulated fishing announced [here](https://globalfishingwatch.org/press-release/new-technology-insurers-to-risk/) 
+
+4.  GBIF is co-hosting a [virtual science-policy symposium](https://www.gbif.org/event/5F0JBfJgGORf3pzyusksKa/impact-and-action-a-virtual-science-policy-symposium) on December 9th called Impact and Action focused on how to strengthen and consolidate scientific impact in the next two decades
+
+5.  The GOOS Essential Ocean Variables are mentioned within a newly approved World Meteorological Congress Unified [Data Policy](https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/ckeditor/files/Cg-Ext2021-d04-1-WMO-UNIFIED-POLICY-FOR-THE-INTERNATIONAL-approved_en_0.pdf?4pv38FtU6R4fDNtwqOxjBCndLIfntWeR) announced [here](https://www.goosocean.org/index.php?option=com_content&view=article&id=394:the-new-wmo-unified-data-policy-implications-for-ocean-data&catid=13&Itemid=125)
+
+6.  Tomorrow is the launch of the Sustainable Ocean Plan Guide and a new Action Coalition at 13:00 GMT from the High Level Panel for a Sustainable Ocean Economy. Register [here]( https://wri.zoom.us/webinar/register/2816366257755/WN_ZkdobXNaRUONCMkdbJxcpQ)
+
+7.  The Ocean Decade Creative Communication Toolkits were [launched](https://www.oceandecade.org/news/new-ocean-decade-creative-communication-toolkits-launched-making-it-easier-than-ever-to-help-raise-ocean-awareness-and-inspire-action/) at the end of November. The [toolkits](https://www.theoceanagency.org/toolkits) are free online communication resources and currently focus on the ocean as a whole and three ecosystems: coral reefs, mangroves, and seagrass 
+
+8.  The key findings of the European Commission’s [She Figures 2021 report]( https://op.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/67d5a207-4da1-11ec-91ac-01aa75ed71a1) are summarized [here]( https://op.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/63e51181-4da2-11ec-91ac-01aa75ed71a1) showcasing that women are still under-represented in research and innovation careers
+
 ### Issue 20
 
 Date: November 15th 2021

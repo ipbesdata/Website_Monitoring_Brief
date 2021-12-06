@@ -4,4 +4,4 @@ Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senc
 
 ### Issue 1
 
-Date: TBA
+Date: To be created
