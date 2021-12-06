@@ -6,13 +6,13 @@ Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senc
 
 Date: December 6th 2021
 
-1.  UNEP-WCMC released a new report, “Creating a Nature-Positive Future for People and Planet, announced [here](https://www.unep-wcmc.org/news/creating-a-nature-positive-future-for-people-and-planet) which main consideration or the implementation of protected and conserved area targets. Report is available [here](https://www.undp.org/publications/creating-nature-positive-future-contribution-protected-areas-and-other-effective-area#modal-publication-download) 
+1.  UNEP-WCMC released a new report, “Creating a Nature-Positive Future for People and Planet, announced [here](https://www.unep-wcmc.org/news/creating-a-nature-positive-future-for-people-and-planet) which details the main considerations of the implementation of protected and conserved area targets. The report is available [here](https://www.undp.org/publications/creating-nature-positive-future-contribution-protected-areas-and-other-effective-area#modal-publication-download) 
 
 2.  FAO published the 2021 edition of the World Food and Agriculture Statistical Yearbook [announced here](https://www.fao.org/newsroom/detail/an-indispensable-resource-for-food-agriculture-031121/en). The [digital report]( https://www.fao.org/3/cb4477en/online/cb4477en.html) includes infographics and interactive charts
 
 3.  Global Fishing Watch is partnering with Trygg Mat Tracking to develop an innovative risk assessment tool to help insures combat illegal, unreported and unregulated fishing announced [here](https://globalfishingwatch.org/press-release/new-technology-insurers-to-risk/) 
 
-4.  GBIF is co-hosting a [virtual science-policy symposium](https://www.gbif.org/event/5F0JBfJgGORf3pzyusksKa/impact-and-action-a-virtual-science-policy-symposium) on December 9th called Impact and Action focused on how to strengthen and consolidate scientific impact in the next two decades
+4.  GBIF is co-hosting a [virtual science-policy symposium](https://www.gbif.org/event/5F0JBfJgGORf3pzyusksKa/impact-and-action-a-virtual-science-policy-symposium) on December 9th called *Impact and Action* focused on how to strengthen and consolidate scientific impact in the next two decades
 
 5.  The GOOS Essential Ocean Variables are mentioned within a newly approved World Meteorological Congress Unified [Data Policy](https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/ckeditor/files/Cg-Ext2021-d04-1-WMO-UNIFIED-POLICY-FOR-THE-INTERNATIONAL-approved_en_0.pdf?4pv38FtU6R4fDNtwqOxjBCndLIfntWeR) announced [here](https://www.goosocean.org/index.php?option=com_content&view=article&id=394:the-new-wmo-unified-data-policy-implications-for-ocean-data&catid=13&Itemid=125)
 
