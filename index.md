@@ -6,7 +6,7 @@ Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senc
 
 Date: January 10th 2022
 
-1.	The European Commission adopted new rules on Open Source Software that will enable its software solutions to be publicly accessible in one place where there are benefits for citizens, companies or public services. More information can be found [here](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6649)
+1.	The European Commission adopted new rules on open source software that will enable its software solutions to be publicly accessible in one place where there are benefits for citizens, companies or public services. More information can be found [here](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6649)
 
 2.	The [Urban Nature Atlas](https://una.city/) is a knowledgebase showcasing nature-based solutions in cities worldwide. The project originally began in 2017 with a focus on European cities, but has since expanded to include case studies from around the globe
 
@@ -15,7 +15,7 @@ Date: January 10th 2022
 4.	FAO released a new [SDG indicators domain in FAOSTAT](https://www.fao.org/faostat/en/#data/SDGB) so one can easily download the available indicator data related to the SDGs under FAO custodianship, announced [here](https://www.fao.org/food-agriculture-statistics/resources/resources-detail/en/c/1460968/) 
 
 5.	The Global Ocean Health Index has turned 10 and has a new website, announced [here](https://oceanhealthindex.org/news/2021-scores/) accompanied with information and trends for 2011-2021. 
-6.	EarthCube, a community dedicated to the advancement of geoscience research, has produced a series of FAIR [training](https://www.earthcube.org/fair-training-materials) and [implementation](https://www.earthcube.org/implementing-fair) materials that are very informative and helpful
+6.	EarthCube, a community dedicated to the advancement of geoscience research, has produced a series of FAIR [training](https://www.earthcube.org/fair-training-materials) and [implementation](https://www.earthcube.org/implementing-fair) materials that are informative and helpful
 
 7.	UNEP published its’ [highlights of the year](https://www.unep-wcmc.org/news/highlights-of-year--unep-wcmcs-key-contributions-to-global-ambitions-on-nature-in-2021). Take a look for a reminder of some key publications and initiatives
 
