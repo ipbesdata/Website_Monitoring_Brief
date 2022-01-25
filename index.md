@@ -2,6 +2,25 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 2
+
+Date: January 25th 202
+
+1.	The GOFAIR BiodiFAIRse [will be working on a case study](https://www.go-fair.org/2022/01/12/biodifairse-establishes-new-concept-to-better-scale-workflows/) which will investigate how the global open science cloud could be used to create a complete “GEO BON Biodiversity change detection and attribution cycle” by using FAIR tools
+
+2.	The World Economic Forum led a collaboration which published a [new report](https://www.weforum.org/reports/biodivercities-by-2030-transforming-cities-relationship-with-nature) named “BiodiverCities by 2030: Transforming cities’ relationship with Nature,” which argues for investment in nature-based solutions in cities globally
+
+3.	Maptiler has produced a single raster image of the entire world at ~10m/pixel [announced here](https://www.maptiler.com/news/2022/01/free-access-to-10m-global-satellite-map/) that can be used for your own projects. The dataset can be downloaded [here](https://data.maptiler.com/downloads/dataset/satellite-2021/?_gl=1*3s67qx*_ga*NjU4NTc3MzMxLjE2NDE4MDk3Mzk.*_ga_K4SXYBF4HT*MTY0MzEyNzc5OC4yLjEuMTY0MzEyNzkyMi42MA..&_ga=2.227210078.2111086492.1643118863-658577331.1641809739#1.39/-62.6/-97.5)
+
+4.	GBIF has a new feature where one can search and filter species occurrence records based on their global extinction risk as classified by the ICUN Red List of Threatened Species, announced [here](https://www.gbif.org/news/3vu7HxLgHTqKtSF69oNqNr/new-feature-enables-search-of-occurrence-data-by-global-iucn-red-list-category)
+
+5.	OpenAIRE provides a service ([Open science observatory](https://osobservatory.openaire.eu/home)) to understand the European open research landscape and track trends for open access to a variety of resources
+
+6.	Planet (formerly PlanetLabs) has deployed 44 new satellites on a successful launch on SpaceX Falcon 9 Rocket reported [here](https://www.planet.com/pulse/44-superdove-satellites-successfully-launch-on-spacex-falcon-9-rocket/)
+
+7.	UNESCO has updated their website available [here](http://whc.unesco.org/)
+
+
 ### Issue 1
 
 Date: January 10th 2022
