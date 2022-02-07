@@ -2,9 +2,28 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 3
+
+Date: February 7th 2022
+
+1.	An improved method for measuring rural poverty has been developed with Oxford University announced [here](https://www.fao.org/newsroom/detail/fao-rural-poverty-RMPI/en) called the Rural Multidimensional Poverty Index described in [this report](https://www.fao.org/documents/card/en/c/cb8269en)
+
+2.	[A training](https://www.sparkblue.org/unbiodiversitylab) will be held on 9 February 2022 on using the UN Biodiversity Lab 2.0 co-hosted by UNDP and UNEP
+
+3.	Stakeholders (including you) have been [invited](https://sdgs.un.org/news/2022-un-ocean-conference-global-online-stakeholder-consultation-inputs-concept-paper) to contribute inputs by 21 February to the concept papers of the eight interactive dialogues of the 2022 UN Ocean Conference that will occur in Portugal this summer
+
+4.	All Copernicus Marine data now have digital object identifiers (DOIs) announced [here](https://marine.copernicus.eu/news/digital-object-identifier-copernicus-marine-data)
+
+5.	Global Fishing Watch has [released the names of the five winners](https://globalfishingwatch.org/press-release/xview3-winners-announced/) of their competition to find the best open-source algorithm to detect illegally fishing dark vessels. The prize of $100,000 will only be released once they publish their solutions as open source code
+
+6.	Map Tiler [released a short description](https://www.maptiler.com/news/2022/01/making-global-satellite-imagery-cloud-free/) of how they created their high resolution cloudless map of the world
+
+7.	An interesting [article](https://www.go-fair.org/2022/02/04/reproducibility-in-ai-and-what-computing-professionals-should-know-for-supporting-researchers/) that discusses reproducibility in artificial intelligence, specifically how differences in computing environments can impact reproducibility
+
+
 ### Issue 2
 
-Date: January 25th 202
+Date: January 25th 2022
 
 1.	The GOFAIR BiodiFAIRse [will be working on a case study](https://www.go-fair.org/2022/01/12/biodifairse-establishes-new-concept-to-better-scale-workflows/) which will investigate how the global open science cloud could be used to create a complete “GEO BON Biodiversity change detection and attribution cycle” by using FAIR tools
 
