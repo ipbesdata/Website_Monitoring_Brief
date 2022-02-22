@@ -2,6 +2,21 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 4
+
+Date: February 22nd 2022
+
+1.	[OpenAIRE](https://www.openaire.eu/new-openaire-training-platform-announcment) will soon unveil a new free learning platform which will cover topics of open science and best practices for research data management in a variety of languages
+
+2.	DataCite will have a spring seminar focused on steps that can be taken to encourage diverse research communities toward open data with a first webinar titled “FORAGE: the hunt for existing data citations.” More information can be found [here](https://blog.datacite.org/datacite_mdc_webinar_series/)
+
+3.	The world bank [announced](https://blogs.worldbank.org/opendata/new-home-world-banks-global-poverty-and-inequality-data) the launch of the beta version of its new [Poverty and Inequality Platform](https://blogs.worldbank.org/opendata/new-home-world-banks-global-poverty-and-inequality-data), an online analysis tool that provides information on poverty estimates at a variety of scales
+
+4.	GBIF will have a [community webinar on 2 March](https://www.gbif.org/event/iUCyfB4B3Kd9BpsDPslwX/gbif-community-webinar-introducing-the-gbif-data-use-club) focused on introducing the GBIF Data Use Club which will highlight research, tools, and techniques for using open data on biodiversity
+
+5.	If you are interested in reading something different, the world economic forum published an article about the [3 skills you need to thrive in a post-pandemic world](https://www.weforum.org/agenda/2022/02/futures-literary-skills-post-pandemic/)
+
+
 ### Issue 3
 
 Date: February 7th 2022
