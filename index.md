@@ -16,7 +16,7 @@ Date: March 7th 2022
 
 5.	ARSET is hosting a [training on using the UN Biodiversity Lab](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-un-biodiversity-lab-monitor-pulse-planet), split into three lectures and two advanced labs starting on 14 April 2022
 
-6.	[Here](https://www.oceandecade.org/news/international-ocean-data-conference-2022-concludes-with-new-commitments-on-achieving-a-global-ocean-digital-ecosystem/) are the key takeaways from the International Ocean Data Conference 2022 in Poland last month. One highlight is that the community recognized the need for the wider application of FAIR and CARE princples 
+6.	[Here](https://www.oceandecade.org/news/international-ocean-data-conference-2022-concludes-with-new-commitments-on-achieving-a-global-ocean-digital-ecosystem/) are the key takeaways from the International Ocean Data Conference 2022 in Poland last month. One highlight is that the community recognized the need for the wider application of FAIR and CARE principles 
 
 7.	There’s three days left to contribute your inputs on the themes of the interactive dialogues for the UN 2023 Water Conference. More information can be found [here](https://sdgs.un.org/basic-page/united-nations-2023-water-conference-global-online-stakeholder-consultation-theme)
 
