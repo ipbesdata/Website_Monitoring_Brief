@@ -2,6 +2,24 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 5
+
+Date: March 7th 2022
+
+1.	The International Associated for Ecology is hosting [a conference in Geneva]( https://intecol2021.org/) this summer. There will be a thematic session on “sharing ecological data: FAIR and CARE principles” organized by Rainer and Aidin. The call for abstracts is open until 31 March 2022
+
+2.	The Summary for Policymakers of the [IPCC Working Group II report](https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/), *Climate Change 2022: Impacts, Adaptation and Vulnerability* was approved on 27 February 2022, announced [here](https://www.ipcc.ch/2022/02/28/pr-wgii-ar6/)
+
+3.	The World Bank and the International Monetary Fund collaborated to use AIS data and machine learning and spatial data processing techniques to produce new, open-access datasets on [high-frequency seaborne trade estimates](https://comtrade.un.org/data/ais) and [global shipping traffic density](https://datacatalog.worldbank.org/search/dataset/0037580/Global-Shipping-Traffic-Density) described on [this blog](https://blogs.worldbank.org/opendata/using-marine-spatial-data-inform-development-work-and-public-policies)
+
+4.	CODATA and RDA are working together [through the Data Together partnership](https://www.go-fair.org/2021/03/29/data-together-fostering-cooperation-among-open-science-platforms/) to develop open research infrastructures including CODATA’s Global Open Science Cloud and RDA’s Global Open Research Commons
+
+5.	ARSET is hosting a [training on using the UN Biodiversity Lab](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-un-biodiversity-lab-monitor-pulse-planet), split into three lectures and two advanced labs starting on 14 April 2022
+
+6.	[Here](https://www.oceandecade.org/news/international-ocean-data-conference-2022-concludes-with-new-commitments-on-achieving-a-global-ocean-digital-ecosystem/) are the key takeaways from the International Ocean Data Conference 2022 in Poland last month. One highlight is that the community recognized the need for the wider application of FAIR and CARE princples 
+
+7.	There’s three days left to contribute your inputs on the themes of the interactive dialogues for the UN 2023 Water Conference. More information can be found [here](https://sdgs.un.org/basic-page/united-nations-2023-water-conference-global-online-stakeholder-consultation-theme)
+
 ### Issue 4
 
 Date: February 22nd 2022
