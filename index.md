@@ -2,6 +2,23 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 6
+
+Date: March 22nd 2022
+
+1.	Global Forest Watch developed [an integrated layer of deforestation](https://www.globalforestwatch.org/blog/data-and-research/integrated-deforestation-alerts/), combining data from their three different deforestation alert layers
+
+2.	The [local biodiversity outlooks website](https://localbiodiversityoutlooks.net/) was updated and now includes [an interactive map](https://localbiodiversityoutlooks.net/case-studies/interactive-map/) of case studies for exploration 
+
+3.	The [DMPTool website](https://dmptool.org/) was updated with an improved authentication process and new public plans page to enable easy access to sample data management plans. More information on what has changed can be found [here](https://coffeehouse.dataone.org/2022/03/10/things-to-know-about-the-updated-dmptool-website/)
+
+4.	The World Bank Group redesigned its [Gender Data Portal](https://genderdata.worldbank.org/) announced in [this article](https://blogs.worldbank.org/opendata/how-data-can-accelerate-equality). The portal now offers more than 900 gender indicators spanning raw data to synthesized data stories and information on data availability 
+
+5.	[CITES recently launched](https://cites.org/eng/new_wildlife_data_visualisation_platform_reveals_trends_international_trade_endangered_species_09032022) a new, interactive tool for visualizing data and trends in the international trade in endangered species available [here](https://tradeview.cites.org/)
+
+6.	UNESCO issued a [new summary for policymakers for effective management for multiple ocean stressors](http://dx.doi.org/10.25607/OBP-1724) announced [here](https://www.oceandecade.org/news/unesco-issues-new-scientific-summary-for-policymakers-for-effective-management-of-multiple-ocean-stressors/)
+
+
 ### Issue 5
 
 Date: March 7th 2022
