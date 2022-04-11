@@ -2,6 +2,25 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 7 
+
+Date: April 11th 2022
+
+1.	UNEP-WCMC has [announced](https://www.unep-wcmc.org/en/news/for-nature-and-people-unep-wcmc-unveils-new-strategy-for-2022-25) its new strategy for 2022-2025 focused on “Nature and People” in four priority impact areas. The full strategy can be found [here](https://production-wordpress.unep-wcmc.org/content/uploads/2022/04/UNEP-WCMC_Strategy_2022-25online.pdf)
+
+2.	The UNEP Climate Finance Unit and the UNEP-WCMC launched the [Land Use Impact Hub](https://landuseimpacthub.com/en) and its [Positive Impact Indicators Directory](https://landuseimpacthub.com/en/kpis) announced [here](https://www.unep-wcmc.org/en/news/unep-launches-new-sustainable-land-use-finance-impact-directory) a few days ago to help track the environmental and social impacts of investments in land-use
+
+3.	Global Fishing Watch has [produced a new technique](https://globalfishingwatch.org/data/ais-viirs-reveals-dark-fleet/) to reveal fishing vessels that are not broadcasting their positions through AIS, by using nighttime satellite imagery
+
+4.	Tomorrow, GBIF will have a community webinar on diversifying the GBIF data model specifically discussing possibilities to extend capabilities of the Darwin Core. The agenda, description, and registration can be found [here](https://www.gbif.org/event/33MQ8ZI9xuC98AekewiMr8/gbif-community-webinar-diversifying-the-gbif-data-model)
+
+5.	The European Commission, partnering with other organizations, [announced](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1977) the start of the Destination initiative to help tackle climate change and build a new digital twin of Earth 
+
+6.	The Society for Ecological Restoration and Climate Focus co-led the development of a sector-wide [Restoration Project Information Sharing Framework](https://cdn.ymaws.com/www.ser.org/resource/resmgr/publications/restoration-project-informat.pdf) announced [here](https://www.es-partnership.org/restoration-project-information-sharing-framework/) designed to support a coordinated global tracking of trends in ecosystem restoration 
+
+7.	If you have five minutes, GBIF published two short animated videos on [DNA derived data](https://www.gbif.org/dna) and [One Health’s](https://www.gbif.org/health) intersections with the biodiversity data GBIF shares
+
+
 ### Issue 6
 
 Date: March 22nd 2022
