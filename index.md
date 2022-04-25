@@ -2,6 +2,27 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 8 
+
+Date: April 25th 2022
+
+1.	GO-FAIR posted [a short recap of their webinar](https://www.go-fair.org/2022/04/13/webinar-fair-for-sensitive-data-a-short-recap/), “FAIR for Sensitive Data”: A Short Recap, which includes links to the presentations and slides
+
+2.	Force11 has developed detailed recommendations for developing ethics standards and best practices for data publications announced [here](https://force11.org/post/announcing-new-research-data-publishing-ethics-resources-policy-templates-for-repos-publishers/). The working group also developed two policy templates for use by data repositories and publishers
+
+3.	UNESCO launched an emergency plan to boost 19 World Heritage listed reef’s resilience and is partnering with the UN-led Global Fund for Coral Reefs to set up investment for these strategies announced [here](http://whc.unesco.org/en/news/2428). Read more about it [here](https://www.oceandecade.org/news/unesco-makes-commitment-to-foster-science-for-sustainable-ocean-management-in-the-pacific/) on the ocean decade website
+
+4.	Ocean Decade [launched a new call](https://www.oceandecade.org/news/ocean-decade-launches-new-call-for-decade-actions-no-03-2022/) for decade actions this month
+
+5.	The Global Climate Observing System (GCOS) [is holding a public review](https://gcos.wmo.int/en/news/public-review-new-global-climate-observing-system-gcos-2022-implementation-plan) of their new GCOS Implementation Plan which intends to guide the development and improvement of the global climate system. Register for the review [here](https://apps.ipcc.ch/comments/gcos/fod/register.php)
+
+6.	OpenAIRE has [announced]( https://www.openaire.eu/openaire-embraces-posi-principles) their commitment to work to systematically align with all [Principles of Scholarly Infrastructure](https://openscholarlyinfrastructure.org/) criteria and ensure their scholarly infrastructure remains open for all
+
+7.	The recording of the GBIF community webinar on diversifying the GBIF data model specifically focused on the capabilities of the Darwin Core can be found [here](https://www.gbif.org/composition/HjlTr705BctcnaZkcjRJq/data-model)
+
+8.	GBIF produced another short animated video on [GBIF and climate change](https://www.gbif.org/climate) 
+ 
+
 ### Issue 7 
 
 Date: April 11th 2022
