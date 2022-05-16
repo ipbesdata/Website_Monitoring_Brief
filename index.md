@@ -2,6 +2,28 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 9
+
+Date: May 16th 2022
+
+1.	Global forest watch [published statistics](https://www.globalforestwatch.org/blog/data-and-research/global-tree-cover-loss-data-2021/) for forest loss in 2021 and [an additional article](https://www.globalforestwatch.org/blog/data-and-research/2021-tree-cover-loss-data-explained/) explaining the new data
+
+2.	UNESCO will create an online geographic information system to better protect World Heritage properties announced [here](http://whc.unesco.org/en/news/2433)
+
+3.	[Plazi announced](http://plazi.org/posts/2022/05/arcadia-fund-supports-plazi/) it will further develop its Biodiversity Literature Repository established in collaboration with Zenodo with a sizeable grant from the Arcadia Fund 
+
+4.	Open-AIRE and the European Marine Biological Resource Center (EMBRC) are [collaborating to develop a dashboard](https://www.openaire.eu/embrc-openaire-collaborating-on-open-science) for EMBRC research outputs, including information tracking EMBRC’s contributions to Open Science
+
+5.	Aurora and OPENAIRE are collaborating to map research output to the sustainable development goals, including text classification services that enables everyone to map academic texts in multiple languages to the sustainable development goals. Find out more [here](https://www.openaire.eu/aurora-and-openaire-collaboration) 
+
+6.	The Copernicus satellite Sentinel-6A has now taken over as the reference for sea surface height measurements, providing the world’s most precise data on sea level. More information [here](https://marine.copernicus.eu/news/sentinel-6a-satellite-sea-level-wave-data)
+
+7.	Copernicus Marine Service hosted a marine data hackathon named OceanChallenge4Africa in the beginning of April to promote a sustainable ocean. The innovative winners are announced [here](https://marine.copernicus.eu/news/throwback-oceanchallenge4africa-marine-data-hackathon)
+
+8.	UNEP-WCMC in collaboration with UNDP and UNEP FI (finance initiative) released a [new report](https://www.unepfi.org/publications/are-you-ready-for-nature-related-disclosure/) investigating if business are ready for nature-related financial disclosures. More information is available [here](https://www.unep-wcmc.org/en/news/how-keen-and-ready-is-business-for-nature-related-financial-disclosure)
+
+9.	GBIF produced another short animated video on [GBIF and conservation](https://www.gbif.org/conservation)
+
 ### Issue 8 
 
 Date: April 25th 2022
