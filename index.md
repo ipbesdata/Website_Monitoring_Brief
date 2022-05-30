@@ -2,6 +2,25 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 10 
+
+Date: May 30th 2022
+
+1.	The alliance for biodiversity knowledge will have an [opening webinar](https://www.allianceforbio.org/event-details/consultation-on-primary-biodiversity-data-and-the-post-2020-global-biodiversity-framework) on 21 July to kick off a two-week moderated consolation announced [here](https://www.gbif.org/news/1SjsruPFix90JJLYOadimQ/july-consultation-to-explore-the-role-of-biodiversity-data-in-the-post-2020-framework). This consultation will focus on improving data models and standards for improved usability, addressing spatial, temporal, and taxonomic biases in primary biodiversity data, and increasing transparency for indicator development 
+
+2.	UNEP-WCMC has launched a [new online platform](https://naturecommitments.org/) to raise awareness and inspire action by non-governmental organizations, local communities, and business to protect, sustainably manage, and restore land and water announced [here](https://www.unep-wcmc.org/en/news/new-online-platform-showcases-civil-society-local-authority-and-business-pledges-for-nature)
+
+3.	This is the last week to [submit a review](https://gcos.wmo.int/en/news/public-review-new-global-climate-observing-system-gcos-2022-implementation-plan) of the Global Climate Observing System (GCOS) Implementation Plan which intends to guide the development and improvement of the global climate system
+
+4.	[FAO has released](https://www.fao.org/newsroom/detail/fao-unveils-new-public-tool-based-on-agricultural-census-data/en) a new domain, “[Structural Data from Agricultural Censuses](https://www.fao.org/faostat/en/#data/WCAD)” which presents national reports that track how large farms are, who works on them and who owns them 
+
+5.	[REV Ocean has signed](https://www.revocean.org/ocean-principles/) the [Sustainable Ocean Principles](https://unglobalcompact.org/take-action/ocean) of the United Nationals Global Compact, which is a framework for responsible business practices in the Ocean across sectors and geographies
+
+6.	GBIF has an open call for its network members and data publishers to apply for hosted data portals building on a pilot phase conducted in 2021. More information is available [here]( https://www.gbif.org/news/5D3ijLXMbpiZDBj0y0z1J/gbif-launches-hosted-portal-service)
+
+7.	GBIF produced another short animated video on [data sharing from the private 
+sector](https://www.gbif.org/composition/4AiiddbcjhjkW6Va4vl7ii/data-sharing-from-the-private-sector) 
+
 ### Issue 9
 
 Date: May 16th 2022
