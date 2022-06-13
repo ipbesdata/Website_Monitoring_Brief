@@ -2,6 +2,26 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 11
+
+Date: June 13th 2022
+
+1.	A series of educational resources for research data management are now available on [the website of the FAIR office Austria](https://fair-office.at/lernen-sie-mehr/?lang=en) announced [here](https://www.go-fair.org/2022/06/09/open-training-material-collection-on-rdm-topics-online/) 
+
+2.	Global Fishing Watch is using satellite radar and machine learning to reveal undetected dark fleets that do not broadcast their location explained [here](https://globalfishingwatch.org/press-release/technology-highlights-hidden-vessels/)
+
+3.	NASA has started a new mission, “Transform to Open Science (TOPS).” [TOPS](https://science.nasa.gov/open-science/transform-to-open-science) aims to accelerate the engagement of the scientific community in open science practices
+
+4.	A mobile app, [Fin Finder, was just released](https://cites.org/eng/news/ai-helps-fight-illegal-trade-shark-ray-fins) that uses AI to help customs officers in Asia identify illegally traded species of sharks and rays 
+
+5.	GBIF [has started a Data Use Club](https://www.gbif.org/news/6oAwMjseEj65vjiUmGBeYD/join-the-gbif-data-use-club) which provides quarterly training seminars and webinars about data use. It is envisioned as an open forum where a global community of biodiversity data users can share knowledge, access technical support and develop data skills 
+
+6.	The [2022 Sustainable Development Report](https://dashboards.sdgindex.org/) was published 
+
+7.	The [UNdata portal](https://unstats.un.org/home/undatamodernization/) will be modernized and anyone can participate in [this survey](https://forms.office.com/r/wLFsiwyNPr) to provide feedback
+
+
+  
 ### Issue 10 
 
 Date: May 30th 2022
