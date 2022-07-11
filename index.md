@@ -2,6 +2,26 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 12
+
+Date: July 11th 2022
+
+1.	The summary for policy makers of the sustainable use assessment [approved by the IPBES plenary](https://ipbes.net/media_release/Sustainable_Use_Assessment_Published) was released on Friday. You can download it [here](https://doi.org/10.5281/zenodo.6425599)
+
+2.	The summary for policy makers of the values assessment [approved by the IPBES Plenary](https://ipbes.net/media_release/Values_Assessment_Published) was released today. You can download it [here](https://doi.org/10.5281/zenodo.6522392)
+
+3.	The Marine Stewardship Council’s new [fisheries standard was approved](https://www.msc.org/media-centre/news-opinion/news/2022/06/24/msc-board-approves-new-fisheries-standard) following a four-year comprehensive review of the standard
+
+4.	 The FAO’s State of the World’s Fisheries and Aquaculture Report [was released](https://www.fao.org/publications/sofia/2022/en/) last month. A short summary can be found [here](https://www.msc.org/media-centre/news-opinion/news/2022/07/04/five-things-need-to-know-about-the-state-of-the-world's-fisheries-2022)
+
+5.	[DataCite Commons](https://commons.datacite.org/) has a new function, “Repository Search” where you can search repositories to find one that best suits your needs explained [here](https://blog.datacite.org/how-to-find-a-repository-for-your-research-outputs/)
+
+6.	MapTiler [produced a detailed hillshading Plugin](https://www.maptiler.com/news/2022/06/detailed-hillshading-anywhere-in-the-world/) for the latest version of QGIS, that presents hillshading anywhere on earth
+
+7.	The [Sustainble Development Goals Report for 2022](https://unstats.un.org/sdgs/report/2022/) was released last week
+
+8.	OpenAIRE and the DARIAH ERIC announced the strengthening of their collaboration to ensure scholarly content types that are important for the arts and humanities communities (e.g. audiovisual data, encoded documents, etc) become visible in the biggest publicly owned scholarly discover system. More info [here](https://www.openaire.eu/dariah-eu-and-openaire-strengthening-our-collaboration)
+
 ### Issue 11
 
 Date: June 13th 2022
