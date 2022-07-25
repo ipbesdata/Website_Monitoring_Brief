@@ -2,6 +2,26 @@
 
 Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
 
+### Issue 13
+
+Date: July 25th 2022
+
+1.	Global Fishing Watch’s APIs are now available to all registered users announced [here](https://globalfishingwatch.org/data/our-apis-portal/). They also created a new R Package, [“gfwr”](https://github.com/GlobalFishingWatch/gfwr) to access the data 
+
+2.	GOOS and OBIS have developed a new portal called the [GOOS BioEco Portal](https://bioeco.goosocean.org/), which is an online platform providing information on sustained ocean observing programs explained [here](https://www.goosocean.org/index.php?option=com_content&view=article&id=413:goos-bioeco-portal-the-place-to-go-for-information-on-biological-and-ecosystem-observations&catid=13&Itemid=125). Registered users can upload, edit, and manage any of their contribution's metadata as well
+
+3.	Planet now offers three variables: soil water content, land surface temperature, and vegetation biomass at 100m or less resolution introduced [here](https://www.planet.com/pulse/introducing-planetary-variables-soil-water-content-land-surface-temperature-and-vegetation-biomass/) 
+
+4.	The key messages and results regarding Horizon Europe Open Science requirements for publications can be found [here](https://www.openaire.eu/horizon-europe-os-requirements-in-practice-webinar-results-key-messages) 
+
+5.	Arset is offering an online three-day training on evaluating ecosystem services with remote sensing. More information is available [here](https://appliedsciences.nasa.gov/join-mission/training/english/arset-evaluating-ecosystem-services-remote-sensing)
+
+6.	OpenAire has released a new [catalogue of their services](http://catalogue.openaire.eu/home) that presents an intuitive and effective way to find information and services with minimal effort announced [here](https://www.openaire.eu/introducing-the-new-openaire-catalogue-of-services)
+
+7.	The Copernicus Marine Service launched a significant update to its satellite ocean color products and now provides an hourly global wind satellite product explained [here](https://marine.copernicus.eu/news/july-2022-product-release-clearer-and-reorganised-offer)
+
+8.	OBIS is starting a new [eDNA initiative](https://www.obis.org/2022/07/13/eDNA_expeditions/) that aims to collect eDNA from 25 marine World Heritage sites and make the resulting data openly accessible to the site management and will comply with the FAIR data management principles
+  
 ### Issue 12
 
 Date: July 11th 2022
