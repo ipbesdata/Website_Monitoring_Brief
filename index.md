@@ -1,6 +1,129 @@
 # Website Monitoring Brief Record for 2022
 
-Curated by Joy A. Kumagai ([joy.kumagai\@senckenberg.de](mailto:joy.kumagai@senckenberg.de){.email})
+Curated by Renske ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de){.email})
+
+### Issue 14
+
+Date: November 4th 2022
+
+### News and articles
+**Biodiversity**
+
+1. A new [WWF Living Planet Report](https://wwfint.awsassets.panda.org/downloads/embargo_13_10_2022_lpr_2022_full_report_single_page_1.pdf) reveals a devastating [69% drop in wildlife populations](https://www.unep-wcmc.org/en/news/new-report-reveals-devastating-69-drop-in-wildlife-populations).
+
+2. As the [CITES Tree Species Programme draws to a close](https://cites.org/eng/news/a-celebration-of-the-cites-tree-species-project), there is hope for a better future for some of the world’s threatened tree species and a recognition that local communities play a critical role in the future conservation of trees.
+
+3. 7 of the southern African countries reaffirm [commitment to combatting elephant poaching](https://cites.org/eng/news/southern-africa-reaffirms-commitment-to-combatting-elephant-poaching) ahead of CITES CoP 19.
+
+4. [Study praises community-led environmental monitoring efforts](https://www.unep-wcmc.org/en/news/study-praises-community-led-environmental-monitoring-efforts-and-calls-for-state-level-funding-and-protections) by local community members, such as environmentally interested fisherman, hunters, farmers, forest product collectors and other resource users, and calls for state level funding and protections.
+
+5. During the 8th Meeting of the Parties, [16 resolutions and guidelines aimed to improve the conservation status of 255 migratory waterbirds](https://www.unep-wcmc.org/en/news/nations-flock-together-to-commit-to-strengthening-flyway-conservation-for-migratory-waterbirds) were successfully adopted.
+
+6. The [IUCN Africa protected areas congress](https://www.unep-wcmc.org/en/news/the-africa-protected-areas-congress-a-commitment-to-african-led-conservation%E2%80%AF) took place in Rwanda. A broad and powerful range of stakeholders (from Indigenous and community leaders, governments, non-governmental organizations, citizens and protected area managers) discussed the role of protected areas in conserving nature, safeguarding Africa’s iconic wildlife, delivering vital life-supporting ecosystem services and promoting sustainable development while conserving Africa’s cultural heritage and traditions.
+
+7. Planet’s Nonprofit Program aims to [reduce the barriers that nonprofits face](https://www.planet.com/pulse/moving-from-awareness-to-action-with-the-nonprofit-program/) (tight budgets and having to rely on publicly available data that is often outdated and insufficient) by providing a customized offering of its imagery and services.
+
+**Climate**
+
+1. A [new report from UN Climate Change](https://climatechampions.unfccc.int/climate-plans-remain-insufficient-more-ambitious-action-needed-now/
+) shows that countries are bending the curve of global greenhouse gas emissions downward, but underlines that these efforts remain insufficient to limit global temperature rise to 1.5 degrees Celsius by the end of the century.
+
+2. [A warmer world: are we ready?](https://sdg-action.org/a-warmer-world-are-we-ready%ef%bf%bc/ ) Even the most optimistic predictions show a significantly warmer planet by 2100. Rather than focussing on quick fixes, as many current plans do, countries must pursue climate-resilient development strategies that address the systematic nature of the climate crisis.
+
+3. [The world cannot wait](https://sdg-action.org/the-world-cannot-wait%ef%bf%bc/) – About the climate action needed for a sustainable future; 5 priorities that should guide climate action.
+
+4. New climate movements, such as the school strikes inspired by Greta Thunberg and Extinction Rebellion, call to listen to science, but what do they actually mean by ‘science’? Telling the truth, uniting behind the science – [Climate coalitions and science’s place in society](https://blogs.lse.ac.uk/impactofsocialsciences/2022/10/13/telling-the-truth-uniting-behind-the-science-climate-coalitions-and-sciences-place-in-society/).
+
+5. [Four key takeaways from meetings with an invigorated climate and sustainable development agenda](https://www.planet.com/pulse/from-climateweek-to-cop27-cop15-and-beyond-notes-on-the-road-ahead/) from the ClimateWeek, COP27 and COP15 meetings.
+
+**Oceans**
+
+1. UNESCO and its Oceanographic Commission are all about [pooling knowledge and resources to learn more about our oceans](https://www.oceandecade.org/news/saving-the-ocean-one-bottle-at-a-time-with-unesco/), aiming to deliver very real, concrete solutions to the ocean’s major threats, from pollution to overfishing and so on.
+
+2. The first half of 2022 saw a number of key events and breakthroughs, from the One Ocean Summit in France, to the commitment of UNEP Member States to negotiate an international legally binding agreement to end plastic pollution and the 2022 UN Ocean Conference. [Continuing the ocean ‘super year’: what’s next for the ocean decade?](https://www.oceandecade.org/news/continuing-the-ocean-super-year-whats-next-for-the-ocean-decade/)
+
+**New platforms and initiatives**
+
+1. [New EU project SELINA launched](https://project-selina.eu/): [Biodiversity and ecosystem services experts from 31 countries met in Hannover](https://www.es-partnership.org/new-eu-project-selina-launched-biodiversity-and-ecosystem-services-experts-from-31-countries-met-in-hannover/).
+
+2. [The first global knowledge platform dedicated to climate and health](https://climahealth.info/) was [launched](https://www.who.int/news/item/31-10-2022-who-and-wmo-launch-a-new-knowledge-platform-for-climate-and-health) by the Joint Office of the World Health Organization and World Meteorological Organization with support from the Wellcome Trust.
+
+3. The [One Health Joint Plan of Action](https://www.who.int/publications/i/item/9789240059139) was [launched](https://www.who.int/news/item/17-10-2022-one-health-joint-plan-of-action-launched-to-address-health-threats-to-humans--animals--plants-and-environment) to address health threats to humans, animals, plants and environment.
+
+4. A [regional environmental platform to support periodic reporting](https://wesr-cartagena.unepgrid.ch/) by the Cartagena Convention Secretariat, focussing on the wider Caribbean region, has been [launched](https://www.mapx.org/news/articles/new-regional-environmental-platform-to-support-periodic-reporting-by-the-cartagena-convention-secretariat/), supporting reports on marine pollution and marine biodiversity.
+
+5. REV Ocean, Nekton and OCEEF team up to [document deep sea reefs in the Maldives](https://www.revocean.org/aurelia_seatrials/).
+
+6. The Ocean Visions - UN Decade Collaborative Center for Ocean-Climate Solutions, a new international center, will support [collaborative solutions to improve health of world’s oceans](https://www.oceandecade.org/news/new-international-center-will-support-collaborative-solutions-to-improve-health-of-worlds-oceans/).
+
+7. Global Fishing Watch welcomes partnership with Papua New Guinea to [share vessel tracking data](https://globalfishingwatch.org/press-release/papua-new-guinea-to-share-vessel-data/).
+
+8. A [short overview of the major scientific advances for nature](https://www.unep-wcmc.org/en/news/showcasing-unep-wcmcs-major-scientific-advances-for-nature) by UNEP-WCMC.
+
+9. NCEAS and the NOAA RESTORE Science Program launched their newest synthesis science program: [the Gulf Ecosystem Initiative](https://www.nceas.ucsb.edu/news/familiar-model-uncharted-water-introducing-gulf-ecosystem-initiative), which will fund working groups and postdoctoral research around areas of climate change, fisheries, and natural resource management actions in the Gulf of Mexico.
+
+10. The United Nations have released the [new Global Ocean Observing System Report Card](https://www.goosocean.org/index.php?option=com_content&view=article&id=420:state-of-the-global-ocean-observing-system-in-2022&catid=13&Itemid=125): a high-level annual report providing a deep inside on the state, capacity and value of our GOOS.
+
+11. A reflection on the UN recognition of [the human right to a clean, healthy and sustainable environment - a new pathway for nature and people](https://www.unep-wcmc.org/en/news/un-recognition-of-the-human-right-to-a-clean-healthy-and-sustainable-environment-a-new-pathway-for-nature-and-people).
+
+
+**Open access week (24-31 October 2022)**
+
+1. The IUCN organized 5 webinars related to open science and publishing. Each webinar was recorded, as soon as the links to the presentations are available, they will be shared in an upcoming monitoring brief.
+
+2. [EUTOPIA Open Research Portal](https://eutopia.openaire.eu/) was [launched](https://www.openaire.eu/eutopia-open-research-portal-goes-live) last week as part of the Open Access Week. EUTOPIA is an alliance of 10 universities, aiming to prepare European youth for the local and global challenges of the future; by focussing on sustainability, inclusion, external collaboration and international cooperation.
+
+3. [DOAJ and OpenAIRE announced a new partnership](https://www.openaire.eu/making-research-more-accessible) which will promote collaboration and discovery between the two parties by sharing metadata and enriching it.
+
+4. [The CTO of OpenAIRE is co-leading an international team](https://www.openaire.eu/developing-core-scholarly-infrastructure
+) that has been awarded a grant from the Mellon Foundation to develop core scholarly infrastructure for the community governed sharing of quality, interoperable, open-access book usage data.
+
+5. An integrated national data ecosystem supports the social contract for data by allowing [trustworthy data sharing and the use (and reuse) of a country’s data resources](https://blogs.worldbank.org/digital-development/integrated-national-data-ecosystems-next-stage-digital-transformation) at the national, sub-national or sectoral levels, introducing the next stage of digital transformation.
+
+6. UGSS and NOAA have partnered through the Ocean Biodiversity Information System - USA and National Centers for [Environmental Information to streamline ocean data collection](https://www.usgs.gov/news/science-snippet/marine-biodiversity-data-how-usgs-and-noaa-are-collaborating-make-data-more), making data more accessible now and into the future.
+
+**News and updates about applications**
+
+1. A walk-through an R script written to scrape download links from a webpage, download the pdfs found at those links, and then extract data from the downloaded documents, using [RVEST and TABULIZER](https://oceanhealthindex.org/news/scraping_webpages_and_pdfs/).
+
+2. The [new OpenAIRE Monitor](https://www.openaire.eu/the-new-openaire-monitor-brand-new-dashboards-and-features) is an on-demand service built upon the OpenAIRE Research Graph with the mission to fulfill the needs: brand new dashboards and features.
+
+3. With [MapX](https://app.mapx.org/?project=MX-YBJ-YYF-08R-UUR-QW6&language=en) it is now possible to [attribute tables directly from the MapX interface](https://www.mapx.org/news/news/new-module-for-editing-attribute-tables-from-mapx/), for example when one wants to add indicator values for a new year.
+
+4. [MapTiler](https://www.maptiler.com/satellite/) Aerial updates 2022: [updated aerial images covering entire countries](https://www.maptiler.com/news/2022/09/aerial-maps-updated-across-europe-and-new-zealand/) such as Italy, Spain, Portugal and New Zealand with pixel resolutions up to 4 cm have been added to the MapTiler Cloud and Data services.
+
+5. [Digging up the oceans’ past](https://www.zooniverse.org/projects/geosar/digging-up-the-oceans-past): An [interactive project concerning transcribing data and metadata](https://www.obis.org/2022/09/07/zooniverse/) of a chosen historical marine survey from expedition logbooks, old book collections and papers from institutional libraries.
+
+**Indices and indicators**
+
+1. The Ocean Health Index has decided to update the [habitat subgoal of biodiversity](https://oceanhealthindex.org/news/tidal_flats/) by adding tidal flat ecosystems, such as sand, rock or mud flats, to complement the existing habitat types.
+
+2. Blue ecosystems, such as coral reefs, seagrasses, and mangroves, are threatened by global climate change. The Allen Coral Atlas launched the [world’s first reef monitoring capability](https://allencoralatlas.org/blog/atlas-launches-reef-threats/).
+
+3. [Copernicus Marine Service and Biodiversity Monitoring](https://marine.copernicus.eu/news/copernicus-marine-service-and-biodiversity-monitoring) provides the most relevant variables needed to monitor marine ecosystems and their health (e.g. salinity, temperature, turbidity) in different formats as key inputs to diverse applications developed for directives on ocean health and its biodiversity.
+
+**FAIR and CARE principles**
+1. Local Contexts is an organization dedicated to supporting Indigenous communities to manage their intellectual and cultural property, cultural heritage, environmental data and genetic resources within digital environments. Now they have developed [Tranditional Knowledge and Biocultural Labels](https://blog.datacite.org/grounding-indigenous-rights-in-datacite-metadata/) with Indigenous communities as a tool for Indigenous communities to express already existing community rules, governance and protocols for  using, sharing and circulating knowledge and data.
+
+**Recordings of previously held webinars and online/hybrid conferences**
+
+1. [Webinar 1 on artificial intelligence and conservation by WWF: Where we are now](https://vimeo.com/759226004) (October 11th 2022). An one hour overview of how artificial intelligence has been used in conservation practices, such as the implementation in predictive models (where historical data or samples are used to train a model that can accurately predict the label of unseen data) and decision-making/optimization methods (deciding which actions to take, and specifying the constraints and objectives to design a method for effective resource allocation). 
+
+2. [Webinar 2 on artificial intelligence and conservation by WWF: Prediction](https://vimeo.com/765823745) (October 31st 2022). An one hour overview of how artificial intelligence is being used in prediction models. For example: how to learn poacher behaviour from real-world data, which is based on patrol effort features and geospatial features (such as animal density, distance to town and nearest road).
+
+3. The online (hybrid) sessions of the [FAIR Convergens Symposium hosted by CODATA](https://vimeo.com/user91439529 ), 24 - 26 October 2022: ‘Data policy in times of crisis’, ‘FAIR Implementation Profiles: what have we learnt?’ and ‘Catalizing Convergence in ENVRI-FAIR using FIPs’. These sessions include discussions about the difficulties to make data FAIR, the questions whether all data needs to be FAIR, or if FAIR metadata is enough, and the suggestion that instead of data sharing, data visiting should be encouraged. 
+
+**Agenda for upcoming conferences, webinars and events**
+
+*9 November 2022*, 15:00 - 17:00 CET: [Exploring camera-trap data](https://www.gbif.org/event/f68927-b5c1-4ac8-a4ac-7d47645/exploring-camera-trap-data), zoom webinar, organized by GBIF
+
+*14 - 25 November 2022*: [Conference of the Parties 19 or the World Wildlife Conference](https://cites.org/eng/news/whats-coming-to-the-world-wildlife-conference) in Panama City. The [final 52 proposals](https://cites.org/sites/default/files/eng/cop/19/doc/E-CoP19-89-01.pdf) will be discussed, and all decisions will be streamed live via their [YouTube channel](https://www.youtube.com/c/CITES) 
+
+*16 November 2022*, 17:00 - 18:00 CET time: [Webinar 3 on artificial intelligence and conservation by WWF](https://wwfus.zoom.us/webinar/register/WN_NUpYzmHVRiuM7Hpt_8HcZw), part 3: Ethics
+
+*15 December 2022*: [Extended deadline](https://www.gbif.org/news/2Z7fge80XcPXfdas6iysh7/call-for-data-papers-to-fill-gaps-on-freshwater-species) for data papers to fill gaps on freshwater species. GBIF will sponsor the article processing charges for the first sixteen manuscripts accepted by the Journal of Limnology to describe datasets with clear research relevance for species inhabiting or dependent on freshwater habitats, more than 5000 presence records new to GBIF.org, high-quality data and metadata and published under an open CC0 designation or CC BY 4.0 license.
+
+*20-21 March 2023*: [International Ocean Data Conference](https://oceandataconference.org/) - II, at the UNESCO headquarters in Paris, France (hybrid event)
 
 ### Issue 13
 
