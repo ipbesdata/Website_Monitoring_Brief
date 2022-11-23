@@ -2,6 +2,67 @@
 
 Curated by Renske ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de){.email})
 
+### Issue 15
+
+Date: November 23th 2022
+
+### News and articles
+**Biodiversity**
+1. [New guidance to help maximise climate change mitigation through the restoration of natural areas](https://www.unep-wcmc.org/en/news/new-guidance-to-help-maximise-climate-change-mitigation-through-the-restoration-of-natural-areas).
+
+2. [New assessment of global wildlife trade trends sets benchmark for future monitoring](https://www.unep-wcmc.org/en/news/new-assessment-of-global-wildlife-trade-trends-sets-benchmark-for-future-monitoring)
+
+3. [The CITES secretatiat has published the first-ever World Wildlife Trade Report](https://cites.org/sites/default/files/documents/E-CoP19-Inf-24.pdf), giving [insights and analysis into the global trade in animals and plants that are regulated under this treaty](https://cites.org/eng/news/first-world-wildlife-trade-report). It is the first report of its kind that is designed to help inform conservation policies and pratices for governments, organisations, businesses and trade bodies as well as the media and the general public.
+
+4. [Planet and Justdiggit enable nature-based solutions to regreen the land](https://www.planet.com/pulse/seeing-african-restoration-from-space-planet-and-justdiggit-enable-nature-based-solutions-to-regreen-the-land/); previously dry and parched land is now sprouting green grasses and young trees, as can see on satellite images. Rainwater is used to revive the land and to support restored and thriving African native ecosystems. 
+
+**Climate**
+1. [Action must ramp up massively if the SDGs are to be realized and climate catastrophe averted](https://sdg-action.org/ideas-into-action/). In the aftermath of the pandemic, it's the second year in a row without any progress being made on the Sustainable Development Goals, and some countries are even witnessing a regression on achievement. [Commitments for forests are far of from what is needed](https://www.unep-wcmc.org/en/news/new-research-shows-commitments-for-forests-are-nowhere-near-what-is-needed-to-reach-paris-agreement-ambition) to reach the Paris Agreement ambition.   
+
+2. Research shows how [new global targets to protect and restore nature can help tackle climate change](https://www.unep-wcmc.org/en/news/research-shows-how-new-global-targets-to-protect-and-restore-nature-can-help-tackle-climate-change). By calculating the CO2 emissions countries could save if they conserve and restore ecosystems on land, calls for coordinated action on climate change and nature loss have been strenghtened. 
+
+3. Researchers have conducted [initial studies scoping the potential for some of the most important zoonotic diseases to make the jump into humans as a result of the legal and illegal wildlife trade](https://www.unep-wcmc.org/en/news/study-scopes-potential-of-global-wildlife-trade-to-harbour-zoonotic-disease).
+
+4. [People and planet together: why women and girls are at the heart of climate action](https://blogs.worldbank.org/climatechange/people-and-planet-together-why-women-and-girls-are-heart-climate-action), a blog by the World Bank.
+
+**Oceans**
+1. [Indonesia is making progress in sustainable fishing](https://www.msc.org/media-centre/news-opinion/news/2022/11/15/indonesia-government-moves-closer-to-sustainable-blue-economy-commitments) with three tuna fisheries MSC certified and multiple fishery improvement projects underway. However, [the long-term sustainability of the world’s most important tuna stocks (in the Western Central Pacific Ocean) will be at risk](https://www.msc.org/media-centre/news-opinion/news/2022/11/21/worlds-most-important-tuna-stocks-long-term-sustainability-risk) if governments fail to implement protective management measures. 
+2. [A report on the study of the effects of climate change on the Mediterranean Ocean](https://www.goosocean.org/index.php?option=com_content&view=article&id=434:when-a-cruise-through-the-mediterranean-sea-is-not-exactly-a-holiday&catid=13&Itemid=125).
+
+3. Marine litter in the Mediterranean Sea: [using observation satellites to monitor plastic in the ocean](https://marine.copernicus.eu/news/touring-europes-coasts-marine-litter-mediterranean). 
+
+4. New research [displays intentionally disabling of automatic identification system devices](https://globalfishingwatch.org/press-release/analysis-shows-vessels-identification-switched-off/) to provide insights into illegal, unreported and unregulated fishing activity.  
+
+5. [UNESCO finds that some iconic World Heritage glaciers will disappear by 2050](https://www.oceandecade.org/news/unesco-finds-that-some-iconic-world-heritage-glaciers-will-disappear-by-2050/)
+
+6. [Scientists warn that it's make-or-break time for Africa's oceans](https://www.oceandecade.org/news/scientists-warn-that-its-make-or-break-time-for-africas-oceans/)
+
+**New platforms and initiatives**
+1. The international Consortium on Combating Wildlife Crime launched its [Vision 2030 which will support efforts to combat wildlife crime](https://cites.org/eng/news/towards-a-world-free-of-wildlife-crime-iccwc-launches-vision-2030). 
+
+2. Quadripartite launches a [new platform to tackle antimicrobial resistance threat to human and animal health and ecosystems](https://www.who.int/news/item/18-11-2022-quadripartite-launches-a-new-platform-to-tackle-antimicrobial-resistance-threat-to-human-and-animal-health-and-ecosystems)
+
+**News and updates about applications**
+1. [Vital wildlife trade portal species+](https://www.unep-wcmc.org/en/news/vital-wildlife-trade-portal-species-now-available-as-a-mobile-app) now available as mobile app.
+
+**Journals and publishing**
+1. [A new book titled 'The Predator Effect'](https://blogs.lse.ac.uk/impactofsocialsciences/2022/11/21/just-how-important-is-the-problem-of-predatory-publishing/) by Simon Linacre urges the scholarly communications industry to focus on the real world negative impacts that can be caused by predatory journals: when journals pretend to be scholarly and peer reviewed, but instead present articles that have not been validated and may contain disinformation. 
+
+**FAIR and CARE principles**
+1. Metadata is at the heart of DOIs and open scholarly infrastructure. Currently, the metadata schema of DataCite contains 6 required properties (DOI, creator, title, publication year, publisher and resource type) and 14 optional properties, making the schema flexible and easily usable. However, sharing rich metadata improve discoverability. [DataCite reports about three different projects to improve metadata](https://blog.datacite.org/towards-richer-metadata-perspectives-from-three-datacite-projects/); FAIR workflows, ISGN ID and NFDI4Ing. 
+
+2. FAIR is everytwhere: [a proof of concept study on implementing FAIR workflows](https://blog.datacite.org/fair-is-everywhere/). 
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. [Data Use Club Practical Sessions: Data Quality](https://www.gbif.org/event/2CAcHI4oxVK5ZgMnFszNUD/data-use-club-practical-sessions-data-quality). A recorded session from November 16th by GBIF, on the frequent cases of data quality issues that users should be aware of in order to effectively use their data. 
+
+2. The third session of the [WWF seminars on artificial intelligence and conservation: Ethics](https://vimeo.com/771752163). 
+
+**Agenda for upcoming conferences, webinars and events**
+30 November 2022: [Pre-COP15 webinar: make nature count](https://www.es-partnership.org/wp-content/uploads/2022/11/Pre-COP-webinar-MAKE-NATURE-COUNT-2.pdf), 14:00-15:30 CET. 
+
+24-31 January 2023: An [online training on using remote sensing to monitor the earth](https://appliedsciences.nasa.gov/join-mission/training/english/arset-connecting-citizen-science-remote-sensing). 
+
 ### Issue 14
 
 Date: November 4th 2022
