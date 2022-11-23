@@ -59,9 +59,10 @@ Date: November 23th 2022
 2. The third session of the [WWF seminars on artificial intelligence and conservation: Ethics](https://vimeo.com/771752163). 
 
 **Agenda for upcoming conferences, webinars and events**
-30 November 2022: [Pre-COP15 webinar: make nature count](https://www.es-partnership.org/wp-content/uploads/2022/11/Pre-COP-webinar-MAKE-NATURE-COUNT-2.pdf), 14:00-15:30 CET. 
 
-24-31 January 2023: An [online training on using remote sensing to monitor the earth](https://appliedsciences.nasa.gov/join-mission/training/english/arset-connecting-citizen-science-remote-sensing). 
+*30 November 2022*: [Pre-COP15 webinar: make nature count](https://www.es-partnership.org/wp-content/uploads/2022/11/Pre-COP-webinar-MAKE-NATURE-COUNT-2.pdf), 14:00-15:30 CET. 
+
+*24-31 January 2023*: An [online training on using remote sensing to monitor the earth](https://appliedsciences.nasa.gov/join-mission/training/english/arset-connecting-citizen-science-remote-sensing). 
 
 ### Issue 14
 
