@@ -2,6 +2,67 @@
 
 Curated by Renske ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de){.email})
 
+### Issue 16
+
+Date: December 6th 2022
+
+
+### News and articles
+**Biodiversity**
+1. [Financing reforestation and nature-based solutions at scale](https://climatechampions.unfccc.int/from-saplings-to-forests-from-challenge-to-opportunity-financing-reforestation-and-nbs-at-scale/).
+
+2. [What to expect at this year's UN biodiversity conference: COP15](https://climatechampions.unfccc.int/what-to-expect-at-this-years-un-biodiversity-conference-cop15/): the importance and key issues of this year's conference. [Local Biodiversity Outlooks presents the perspectives and experiences of indigenous peoples and local communities on the current socio-ecological crisis and outlines why they must play a central role in the development and implementation of global biodiversity policy](https://localbiodiversityoutlooks.net/local-biodiversity-outlooks-at-the-cbd-cop15/).
+
+3. The [CITES CoP will bring a record number of species to be regulated by CITES](https://cites.org/eng/news/record-number-of-species-to-be-regulated-by-cites-after-cop19), after adopting 46 proposals of the 52 put forward.  
+
+4. [What's next for biodiversity data in the finance sector](https://www.unep-wcmc.org/en/news/whats-next-for-biodiversity-data-in-the-finance-sector). Recently, financial institutions increasingly started to understand the urgent need to protect and restore biodiversity. Now they need data and tools to rapidly turn conversations into effective changes.  
+
+**Climate**
+1. ["What is inefficient, insufficient and unfair?" and the '1% for 1.5°C' proposal](https://climatechampions.unfccc.int/what-is-inefficient-insufficient-and-unfair/): Mahmoud Moohieldin's speech at the closing event of the COP27.
+
+2. In recent years, there has been made progress in addressing youth unemployment, poverty and hunger, but there is been limited investment in youth empowerment. However, empowered youth influence a sustainable future: [young people must be allowed to help create the world they will have to live in](https://climatechampions.unfccc.int/young-people-must-be-allowed-to-help-create-the-world-they-will-have-to-live-in/). 
+
+3. [Clean cooking (using cleaner fues and energy-efficient equipment) named as critical breakthrough to halve emissions by 2030](https://climatechampions.unfccc.int/clean-cooking-named-as-a-critical-breakthrough-to-halve-emissions-by-2030/). The [Clean Cooking Systems Strategy](https://cleancooking.org/reports-and-tools/clean-cooking-systems-strategy-horizon-1-update/) identified high-priority funding and financing opportunities to rapidly unlock a first wave of capital. 
+
+4. The [NICFI Satellite Data Program continues to use high-resolution satellite imagery to help fight deforestation and combat climate change](https://www.planet.com/pulse/data-program-continues-to-use-high-resolution-satellite-imagery-to-help-fight-deforestation-and-combat-climate-change/). 
+
+**Oceans**
+1. [Highlights from COP27: Ocean observations](https://www.goosocean.org/index.php?option=com_content&view=article&id=439:highlights-from-cop27-ocean-observations-an-essential-pillar-for-the-climate-observing-system&catid=13&Itemid=125) - an essential pillar for the climate observing system. The outcomes take the [global ocean community forward on collective action to tackle climate change](https://www.oceandecade.org/news/cop27-outcomes-take-the-global-ocean-community-forward-on-collective-action-to-tackle-climate-change/). 
+
+2. A landmark [agreement to adopt state-of-the-art conservation measures to safeguard stocks of Atlantic bluefin tuna](https://www.msc.org/media-centre/news-opinion/news/2022/11/22/seminal-moment-atlantic-bluefin-tuna-harvest-control-rules) has been reached by regional fisheries management organisation the [International Commission for Conservation of Atlantic Tuna](https://www.iccat.int/en/).
+
+3. [Restoring, preserving, and proteting the integrity and resilience of our ocean for future generations](https://climatechampions.unfccc.int/marine-protected-areas-restoring-preserving-and-protecting-the-integrity-and-resilience-of-our-ocean-for-future-generations/). The ocean has absorved over 90% of the excess heat from greenhouse gas emissions, and Marine Protected Areas can build ecological resilience by lessening the impact of non-climate change stressors such as water pollution, overfishing and habitat destruction.
+
+4. The Copernicus Marine Service catalogue, now called [the Marine DataStore, provides better usability to its users: it integrates a user inferface that allows users to search all Ocean Monitoring Indicators as well as the marine data products](https://marine.copernicus.eu/news/myocean-viewer-and-catalogue-ux-update), with an entry point directly in the MyOcean viewer. The Marine DataStore now also offers [temperature data from the One Ocean Expedition](https://marine.copernicus.eu/news/temperature-data-one-ocean-expedition-available-copernicus-marine-service-catalogue).
+
+5. The [11th International Aquarium Congress strengthens the role of aquariums, museums and zoos in the global Ocean Decade movement](https://www.oceandecade.org/news/iac-2022-strengthens-the-role-of-aquariums-museums-and-zoos-in-the-global-ocean-decade-movement/), after discussing priorities to take action as part of the UN Decade of Ocean Science for Sustainable Development.
+
+**News and updates about applications**
+1. [MapTilet customers can now request sub-meter satellite imagery](https://www.maptiler.com/news/2022/12/satellite-imagery-on-demand/), or raw GeoTIFFs, for specific areas of interest anywhere on the earth, making it possible to monitor developing situations, from wildfires to infrastructure. 
+
+2. A [Wiki has been released to help users make the most of all MapX features](https://www.mapx.org/news/news/new-mapx-wiki/), including about 60 sections to learn and master MapX concepts and tools. 
+
+**FAIR and CARE principles**
+1. [Episciences, an overlay journal platform to host and disseminate diamond open access publications from all disciplines, integrates the Open Science Lens page enhancer](https://www.openaire.eu/episciences-integrates-open-science-lens-page-enhancer): a way to [easily locate and explore information of relevance to Open Science](https://www.openaire.eu/open-science-in-a-click-through-the-openaire-open-science-lens). 
+
+2. [GoTriple, a new collaboration between the OpenAIRE and TRIPLE teams, is a platform to serve as a single access point for all social sciences and humanities relevant stakeholders](https://www.openaire.eu/fostering-social-sciences-and-humanities-research) (researchers, universities, libraries, citizens and service providers) to find and reuse resources easily. 
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. [The recording of the event 'Supporting EU's biodiversity targets by bridging the science-policy divide'](https://ebcd.org/events/hybrid-event-supporting-eus-biodiversity-targets-by-bridging-the-science-policy-divide/) that took place on the 15th of November 2022, is available.  
+
+### Agenda for upcoming conferences, webinars and events
+*9 December 2022*, 00.15 CET): [Building capacity to deliver open biodiversity data for research and decisions in support of the Global Biodiversity Framework](https://www.gbif.org/event/2v70LU056qOmOuPpsZxaRE/cop-15-side-event-building-capacity-to-deliver-open-biodiversity-data-for-research-and-decisions-in-support-of-the-global-biodiversity-framework), a GBIF-hosted side event at COP-15 in Montréal, Canada
+[Copyright for Open Science (C4OS) series](https://www.openaire.eu/copyright-for-open-science-c4os-series): 
+
+*15 December 2022*, 17:00 - 18:30 CET: [The European Context of copyright reform for Open Science](https://zoom.us/meeting/register/tJcldeGuqTotE9HtS5zgLl3GjrKQnSfAtC_o) (online workshop)
+
+*19 January 2023*, 19:00 - 20:30 CET: [C4OS in the US: From fair use to statutory licensing](https://zoom.us/meeting/register/tJItdOysrToiG9HLaYuJWfayiFltyNwxtE17) (online workshop)
+
+*24-31 January 2023*: An [online training program by NASA on using remote sensing to monitor the earth](https://appliedsciences.nasa.gov/join-mission/training/english/arset-connecting-citizen-science-remote-sensing). 
+
+*9 February 2023*, 11:30 - 16:30 CET: [Open Access C4OS: a global perspective](https://www.openaire.eu/copyright-for-open-science-c4os-series), an in person meeting at Onassis Stegi (Liechtenstein). More information on registration and the agenda follow in early January 2023.
+
+
 ### Issue 15
 
 Date: November 23th 2022
