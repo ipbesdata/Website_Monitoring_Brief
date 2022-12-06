@@ -52,7 +52,8 @@ Date: December 6th 2022
 
 ### Agenda for upcoming conferences, webinars and events
 *9 December 2022*, 00.15 CET): [Building capacity to deliver open biodiversity data for research and decisions in support of the Global Biodiversity Framework](https://www.gbif.org/event/2v70LU056qOmOuPpsZxaRE/cop-15-side-event-building-capacity-to-deliver-open-biodiversity-data-for-research-and-decisions-in-support-of-the-global-biodiversity-framework), a GBIF-hosted side event at COP-15 in Montréal, Canada
-[Copyright for Open Science (C4OS) series](https://www.openaire.eu/copyright-for-open-science-c4os-series): 
+
+[Copyright for Open Science (C4OS) series](https://www.openaire.eu/copyright-for-open-science-c4os-series): with 3 workshops, on 15 December 2022, 19 January 2023 and 9 February 2023:
 
 *15 December 2022*, 17:00 - 18:30 CET: [The European Context of copyright reform for Open Science](https://zoom.us/meeting/register/tJcldeGuqTotE9HtS5zgLl3GjrKQnSfAtC_o) (online workshop)
 
