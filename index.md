@@ -1,6 +1,6 @@
 # Website Monitoring Brief Record for 2022
 
-Curated by Renske ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de){.email})
+Curated by Renske ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
 ### Issue 16
 
