@@ -2,6 +2,84 @@
 
 Curated by Renske ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
+### Issue 17
+
+Date: December 20th 2022
+
+### News and articles
+**Biodiversity**
+1. The [UN Biodiversity Conference (COP 15)](https://www.unep.org/un-biodiversity-conference-cop-15) was held in Montreal, Canada, from 7 - 19 December, where governments from around the world came to agree on a new set of goals to guide global action through 2030 to halt and reverse nature loss. The documents can be found [here](https://www.cbd.int/conferences/2021-2022/cop-15/documents). 
+
+2. A [report on biodiversity and artificial intelligence](https://gpai.ai/projects/responsible-ai/environment/biodiversity-and-AI-opportunities-recommendations-for-action.pdf) was developed in the context of the RAISE (Responsible AI Strategy for the Environment) project, covering a variety of subjects, including 'using AI to understand the drivers of biodiversity loss' and 'using AI to support policy action on biodiversity'.
+
+3. Four possible futures: [modelling the state of China's biodiversity by 2035](https://www.unep-wcmc.org/en/news/four-possible-futures-modelling-the-state-of-chinas-biodiversity-by-2035). China is one of the most biodiverse countries in the world, but nearly half of all wild animal populations in the country are declining, and an estimated 11% of all plants are listed as threatened. The [China Biodiversity Outlook](https://environmental-partnership.org/wp-content/uploads/2022/09/China-Biodiversity-Outlook.pdf) used powerful land-use and biodiversity models and policy outcome scenarios to predict the state of the biodiversity in China by 2035.
+
+4. A new report, launched by UNEP with UNEP-WCMC [details the wide-ranging benefits of five inspirational European projects on restoration initiatives](https://www.unep-wcmc.org/en/news/bringing-nature-back-new-report-showcases-five-powerful-european-restoration-initiatives), with the aim of accelerating similar action across the continent and worldwide. 
+
+5. UNEP-WCMC is conducting a [scoping study for 'global knowledge support services for biodiversity', to connect existing biodiversity knowledge hubs and other biodiversity-related data providers and tools to support national institutions](https://www.unep-wcmc.org/en/news/opportunity-to-shape-global-knowledge-support-systems-for-biodiversity) - and welcomes the views of countries and non-governmental organisations on the potential parameters of these support services.
+
+
+**Climate**
+1. Youth raise awareness to World Heritage and Climate change through storyboards: [Results of the Patrimonito Storyboard Competition 2022](https://whc.unesco.org/en/news/2502). The competition received 710 storyboards from 47 State Parties. 
+
+2. UNESCO has piloted an [online course on climate change adaptation and resilience in two natural World Heritage sites in Africa](https://whc.unesco.org/en/news/2505). The outcome reveals the vulnerability of sites to the unfolding climate variability and future impacts of climate change, but also offers options to reduce risks.
+
+3. A blog post with an [overview of the raw CMIP6 data and products derived from this data](https://oceanhealthindex.org/news/cmip_2_what_is_this/). The objective of the Coupled Model Intercomparison Project (CMIP) is to better understand climate change.
+
+4. The Pacific Institute is on a [mission to create and advance solutions to the world's most pressing water challenges](https://climatechampions.unfccc.int/water-resilience-coalition-mainstream-biodiversity-planning/) with a long-term strategic goal to catalyse the transformation to water resilience in the face of climate change by 2030.
+
+5. [Natural protected areas in Mexico: a strategic front for climate change mitigation and adaptation](https://www.globalforestwatch.org/blog/data-and-research/natural-protected-areas-mexico-climate-change-mitigation-adaptation/). In Mexico, tree cover loss is the main direct cause of degradation of terrestrial ecosystems and loss of biodiversity. Three areas from different protection caterogies were compared to visualize the role of natural protected areas. 
+
+**Oceans**
+1. [Urgent collaboration between nations needed to save marine life, from tropical reefs to deep sea ecosystems](https://www.goosocean.org/index.php?option=com_content&view=article&id=441:urgent-collaboration-between-nations-needed-to-save-marine-life-from-tropical-reefs-to-deep-sea-ecosystems&catid=13&Itemid=125). 
+
+2. [Breakthrough agreement provides safeguards to key tuna stocks in the Western Central Pacific](https://www.msc.org/media-centre/news-opinion/news/2022/12/07/breakthrough-agreement-provides-safeguards-to-key-tuna-stocks-in-the-western-central-pacific). The Western Central Pacific Fisheries Commission reaffirmed its commitment to put in place harvest strategies for all tuna species in the WCPO before stocks fall below sustainable levels. 
+
+3. The [inequities of species declines: sharks versus tunas and billfish](https://www.msc.org/media-centre/news-opinion/news/2022/12/14/the-inequities-of-species-declines-sharks-versus-tunas-and-billfish). Monitoring and management actions by regional fisheries management organisations in the late 2000's has led to improvements in many populations of oceanic tunas and billfishes. However, ocean sharks, which are subject to bycatch in these same fisheries, have not seen any recoveries, and continue to decline.
+
+4. The [results from the 11th year of measuring the global Ocean Health Index have been published](https://oceanhealthindex.org/news/2022-scores/). The overall score was similar to previous years, with the highest scores for regions that tend to be uninhabited islands or islands with a small human population. Since 2012 some scores have increased, such as clean waters, but scores for iconic species, species condition and tourism and recreation have decreased. 
+
+5. On December 16th, [the Surface Water Ocean Topography (SWOT) satellite mission was launched](https://marine.copernicus.eu/news/changing-game-sea-level-monitoring-swot-and-sl-tac), which will study nearly all of the water on the surface of the earth. 
+
+**New platforms and initiatives**
+1. The [Global Biodata Coalition](https://globalbiodata.org/) has named [GBIF a Global Core Biodata resource](https://www.gbif.org/news/6PHdgoyIF6RmI7u4VOouuD/gbif-named-a-global-core-biodata-resource), highlighting its fundamental importance to research across the life sciences.
+
+2. UNEP and UNEP/GRID-Geneva released a [new online platform](https://www.mapx.org/news/news/new-online-platform-to-support-ecosystem-based-disaster-risk-reduction/) dedicated to the ["Opportunity mapping" approach](https://app.mapx.org/static.html?language=en&views=MX-8VFPV-AT98G-CJT4Y), which aims at [combining global datasets on ecosystm distribution and hazard exposure to highlight areas where ecosystem restoration and/or protection can be used to protect the greatest number of people globally](https://opportunity-mapping.unepgrid.ch/).
+
+3. [Researchers, conservation experts and economists have announced the launch of a major new European project to transform how business and finance sectors integrate and make better decisions for nature](https://www.unep-wcmc.org/en/news/launch-of-eu-project-sustain-to-drive-integration-of-nature-in-business-strategies): the [Strenghtening Understanding and Strategies of Business to Assess and Integrate Nature (SUSTAIN) project](https://capitalscoalition.org/project/sustain-project/), led by the [Capitals Coalition](https://capitalscoalition.org/) and funded by the EU. It will run for 3 years with the ambition to facilitate transformative changes within the global economy to halt and reverse biodiversity loss.
+
+4. Environmental scientists have carried out the [first standardised global review of the potential risks and benefits to people and nautre from planned road and rail projects](https://www.unep-wcmc.org/en/news/global-study-weighs-up-environmental-risks-and-economic-benefits-of-major-transport-projects). The study reveals that holistic planning of major road and railway infrastructure can better protect nature, mitigate emissions and enhance economic benefit.
+
+5. The EOSC Observatory is a policy intelligence tool for monitoring policies, practices, and impacts related to EOSC and Open Science at national and institutional levels in Europe. The EOSC Observatory will help align policies and practices, identify gaps between policies and practices and provide actionable recommendations to policy makers on EOSC (Europen Open Science Cloud) and Open Science.
+
+**News and updates about applications**
+1. [Integration of MapX with MANARA, the UN data and knowledge management hub](https://www.mapx.org/news/news/integration-of-mapx-with-manara-the-un-data-and-knowledge-management-hub/).
+
+2. A new version of a mapping [app Mapeo for ICCAs has been developed to help Indigenous peoples and local communities map, monitor and support their conservation activities and land rights](https://www.unep-wcmc.org/en/news/new-mapping-app-to-support-indigenous-peoples-and-local-communities-to-showcase-their-conservation-efforts). The app helps users to create digital maps and gather images and information on key features within their territories and ares, which can be used for their advocacy purposes and fed into major global conservation databases for better visibility at the global level. 
+
+**FAIR and CARE principles**
+1. [The EOSC Observatory is a policy intelligence tool for monitoring policies, practices, and impacts related to EOSC and Open Science](https://www.openaire.eu/introducing-the-eosc-observatory) at national and institutional levels in Europe. The EOSC Observatory will help align policies and practices, identify gaps between policies and practices and provide actionable recommendations to policy makers on EOSC (Europen Open Science Cloud) and Open Science.
+
+2. A blog by a project lead at DataCite on the [gap between acknowledging and practicing FAIR](https://blog.datacite.org/mind-the-gap-what-to-expect-when-practicing-fair/). Despite the straightforward principles, practicing FAIR is not, as all aspects of FAIR require a lot of time and decisions. 
+
+3. [DataCite streamlined the process for sharing metadata schema ideas](https://blog.datacite.org/updating-our-metadata-schema-suggestions-process/).  
+
+4. [A blog post](https://coffeehouse.dataone.org/2022/12/06/a-summary-of-research-data-documentation-methods/) on [various research data documentation methods and when to use them](https://authors.library.caltech.edu/117936/).
+
+### Agenda for upcoming conferences, webinars and events
+19 January 2023, 19:00 - 20:30 CET: C4OS in the US: From fair use to statutory licensing (online workshop)
+
+*24 - 31 January 2023*: [ARSET - Connecting citizen science with remote sensing](https://appliedsciences.nasa.gov/join-mission/training/english/arset-connecting-citizen-science-remote-sensing)
+
+9 February 2023, 11:30 - 16:30 CET: Open Access C4OS: a global perspective, an in person meeting at Onassis Stegi (Liechtenstein). More information on registration and the agenda follow in early January 2023.
+
+*22 - 24 February 2023*: Virtual workshop by EuropaBON on Essential Biodiversity Variable workflows. The agenda and registration form will be available in January 2023.
+
+*15 - 17 May 2023*: [Course on Integrated ecosystem services assessment to value and capture the benefits of landscape restoration, nature conservation and sustainable land management](https://www.es-partnership.org/esp-asia-ro-organises-training-on-integrated-ecosystem-services-assessment/#more-15784) in Tapei, Taiwan.
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+
 ### Issue 16
 
 Date: December 6th 2022
