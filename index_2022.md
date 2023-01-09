@@ -1,9 +1,3 @@
----
-editor_options:
-  markdown:
-    wrap: 72
----
-
 # Website Monitoring Brief Record for 2022
 
 Curated by Renske
