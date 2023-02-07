@@ -3,6 +3,82 @@
 Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
+### Issue 3
+
+Date: February 7th, 2023
+
+### News and articles
+**Biodiversity**
+1. [Amazon's least-deforested areas are due to 'vital role' of Indigenous peoples](https://climatechampions.unfccc.int/9820-2/). Only 5% of net forest loss in the Brazilian Amazon occurs in Indigenous territories and protected areas, even though these areas contain more than half of the region's forest. In 2018, Indigenous territories and other protected areas held 206m hectares of forest, 52% of the total forested area measured in 2000.
+
+2. [World Wildlife Day 2023](www.wildlifeday.org) website, themed 'Partnerships for Wildlife Conservation' was [launched](https://cites.org/eng/news/world-wildlife-day-2023-website-launched), with information on the events planned and the history behind World Wildlife Day.
+
+3. On [World Wetlands Day](https://www.worldwetlandsday.org/), the 2nd of February, the [first comprehensive assessment on peatlands](https://www.unep.org/resources/global-peatlands-assessment-2022) was [launched](https://www.unep-wcmc.org/en/news/peatlands-matter-how-the-global-peatlands-assessment-can-drive-restoration-action). Peatlands are a unique type of wetland ecosystem, represent incredible biodiversity, and despite only covering 3-4% of the terrestrial surface, peatlands store up to 1/3 of the world's soil carbon.
+
+4. The [2023 Ebbe Nielsen Challenge has opened](https://www.gbif.org/news/21vzChUiLS19gDFpOzozBp/2023-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity), which aims to recognise innovations that leverage biodiversity data and tools from the GBIF network to advance open science. Individuals and teams can prepare tools and techniques that improve the access, usefulness and quality of open biodiversity data, and submit this by the 22nd of August 2023.
+
+**Climate**
+1. [Establishing the "Carbon Law for Nature"](https://climatechampions.unfccc.int/establishing-the-carbon-law-for-nature/). The Carbon Law, proposed in 2017, states that emissions should have every decade, until net zero will be reached by 2050. Protecting and restoring nature is essential to reaching this goal, and therefore, the roadmap established a new "Carbon Law for Nature".  
+
+2. [5 Ways financial leaders can bring us closer to net zero](https://climatechampions.unfccc.int/5-ways-financial-leaders-can-bring-us-closer-to-net-zero/), as reaching net zero by 2030 requires ambitious commitments, and the private sector has a critical role to play.
+
+**Oceans**
+1. [New Copernicus Marine reprocessed sea level data based on in situ coastal observations](https://marine.copernicus.eu/news/new-copernicus-marine-reprocessed-sea-level-data-based-situ-coastal-observations). Around 11% of the global population live on land less than 10 meters above sea level, where they are exposed to coastal hazards, such as flooding. Improved quality of historical datasets will facilitate the assessment of existing operational models and reanalysis, the calibration of satellite altimetry data, or research studies addressing climate change impact on coastal sea level extremes, tides and mean sea levels.
+
+2. [New Sea Surface Salinity (SSS) products from the Soil Moisture and Ocean Salinity (SMOS) satellite](https://marine.copernicus.eu/news/new-sea-surface-salinity-sss-products-soil-moisture-and-ocean-salinity-smos-satellite): an essential variable in oceanography, influencing ocean circulation, climate and marine ecosystems. Understanding and monitoring SSS is crucial for understanding and predicting changes in ocean systems and their impacts on marine life and the Earth's climate.
+
+3. [Ocean Super Year: plenty achieved, much still to do](https://oceandecade.org/news/ocean-super-year-plenty-achieved-much-still-to-do/), 2022 has been a year of promise for the ocean's well-being, widely themed as the 'super year' for the ocean, due to the many conferences where ocean health was the focus of attention. This year the ocean will remain an important topic, starting at the IMPAC5 in Vancouver, which is taking place from 3 to 9 February. 
+
+**News and updates about applications**
+1. [Upgraded Attribution free maps](https://www.maptiler.com/news/2023/01/upgraded-attribution-free-maps/). Planet Lite has been upgraded with enhanced features, such as improved boundaries and the addition of Wikidata and GeoNames IDs to place names, and is now compatible with the MapTiler Planet v3.14 schema. 
+
+
+**FAIR and CARE principles**
+
+1. [RAISE Project: a game changer for OS](https://www.openaire.eu/raise-project-a-game-changer-for-os): RAISE (Research Analysis Identifier System) will provide the infrastructure for a distributed crowdsourced data processing system, moving from open data to open access data for processing. RAISE recognises the fact that their is inherent value in processing data and not just owning the data. 
+
+2. [SciLake: a scientific lake for the research ecosystem](https://www.openaire.eu/scilake-a-scientific-lake-for-the-research-ecosystem) aiming to introduce and establish the concept of the scientific lake, a research ecosystem where scientific knowledge is contextualised, connected, interoperable, and accessible overcoming challenges related to the heterogeneity and large interconnectivity of the underlying data.
+
+**Recordings of previously held webinars and online/hybrid conferences**
+
+1. [Event recap - C4OS in the US: From Fair Use to Statutory Licensing](https://www.openaire.eu/event-recap-c4os-in-the-us-from-fair-use-to-statutory-licensing). [The second part](https://www.youtube.com/watch?v=iFhoCH97phY) of the Copyright for Open Science (C4OS) explored the US landscape aiming at mapping and outlining the current US context in terms of Open Access / Open Science and the publishing industry.
+
+2. The [WWF Pandas and Prose webinar with Karen Baker and Dave Thau](https://youtu.be/H1OEJmFA1tg), discussing Karen's book: 'The Sounds of Life: How digital technology is bringing us closer to the worlds of animals and plants'.
+
+3. The [launch event of the Biodiversity Risk Filter](https://riskfilter.org/biodiversity/home).
+
+## Agenda for upcoming conferences, webinars and events
+*7 February 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Indigenous AI](https://wwfus.zoom.us/webinar/register/WN_oPbJlubeS9OhkGQtnnH_Vg), Session 5 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*8 February 2023*: 15:00 - 16:00 CET: [Data Use Club Practical Sessions: The API and introduction to rgbif and pygbif](https://www.gbif.org/event/1tpJPYktwQ8b9B0P0Gzoxs/data-use-club-practical-sessions-the-api-and-introduction-to-rgbif-and-pygbif), a webinar giving an overview of the GBIF API and accompanying documentation and key R and Python packages and their associated functions.
+
+*9 February 2023*, 11:30 - 16:30 CET: [Open Access C4OS: a global perspective](https://form.jotform.com/230084150107341), a hybrid workshop, in person at Onassis Stegi (Liechtenstein) or online using Zoom. 
+
+*13 February 2023*, 16:00 - 17:00 CET: [Towards FAIR digital twins - 2nd session](https://biodt.eu/events/towards-fair-digital-twins-2nd-session?utm_source=twitter.com&utm_medium=social&utm_campaign=webinar_13_february). 
+
+*22 - 24 February 2023*, 11:00 - 13:00 CET: [EBV (Essential Biodiversity Variables) workflows virtual workshop by EuropaBON](https://europabon.org/workshop/ebv-workflows/index)
+
+*2 March 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Data Integration](https://wwfus.zoom.us/webinar/register/WN_bMD_LNwTToq2KARTIw9ZVQ), Session 6 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*15 March 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Decision Support](https://wwfus.zoom.us/webinar/register/WN_BEuqI4WqQIKg6i3f9YqF_A), Session 7 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*20 - 21 March 2023*: [International Ocean Data Conference](https://oceandataconference.org/) - II, at the UNESCO headquarters in Paris, France (hybrid event)
+
+*27 March - 5 April 2023*: [ARSET - Biodiversity Applications for Airborne Imaging Systems](https://appliedsciences.nasa.gov/join-mission/training/english/arset-biodiversity-applications-airborne-imaging-systems)
+
+*13 April 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Systems/Causality](https://wwfus.zoom.us/webinar/register/WN_OeR5-UVBTpS-AiTFsCdmGQ), Session 8 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*15 - 17 May 2023*: [Course on Integrated ecosystem services assessment to value and capture the benefits of landscape restoration, nature conservation and sustainable land management](https://www.es-partnership.org/esp-asia-ro-organises-training-on-integrated-ecosystem-services-assessment/#more-15784)
+in Taipei, Taiwan.
+
+*16 May 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Closing](https://wwfus.zoom.us/webinar/register/WN_nYemyMztQTq_an3cBgblJw), Session 9 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+
+
 ### Issue 2
 
 Date: January 24th, 2023
