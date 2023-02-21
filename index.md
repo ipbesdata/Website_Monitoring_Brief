@@ -3,6 +3,73 @@
 Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
+### Issue 4
+
+Date: February 21st, 2023
+
+### News and articles
+**Climate**
+1. [New WWF Analysis](https://www.worldwildlife.org/publications/greenhouse-gas-accounting-efforts-undermined-by-disparate-tools-frameworks) shows that [variability in product-level greenhouse gas accounting standards and methodologies can prevent companies, especially in the agriculture sector, from understanding their true emissions as well as their progress in reducing them](https://www.worldwildlife.org/press-releases/new-wwf-analysis-greenhouse-gas-accounting-efforts-undermined-by-disparate-tools-frameworks). 
+
+2. A new UNEP-WCMC study, in collaboration with the Kwame Nkrumah University of Science and Technology and the Alliance of Biodiversity International and the International Centre for Tropical Agriculture and the [CocoaSoils programme](https://cocoasoils.org/), has [scoped potential priority areas for increasing tree cover in cocoa growing areas in Ghana](https://www.unep-wcmc.org/en/news/mapping-the-potential-for-cocoa-agroforestry-in-ghana-for-climate-change-adaptation-and-mitigation), and revealed some of the potential benefits for nature, communities and climate resilience, such as the potential for higher and more sustainable yields over time, the protection of sediment from erosion and the storage of carbon in trees.
+
+3. [Satellites enable disaster management for unprecedented Australian floods](https://www.planet.com/pulse/satellites-enable-disaster-management-for-unprecedented-australian-floods/). Last month, Australia was hit with 'once in a century flooding', resulting in stranded communities and mass evacuations. Planet's satellite imagery data helped gaining situational awareness over the flooded region, in order to make active decisions.
+
+
+**Oceans**
+1. The Ocean Decade Corporate Data Group, which focuses on [creating frameworks and mechanisms to make privately owned ocean science data publicly available for the benefit of humanity was launched](https://oceandecade.org/news/fugro-and-ioc-unesco-launch-working-group-to-unlock-private-sector-ocean-data/). 
+
+2. Through innovative national debt restructuring (debt-for-nature swaps) and blue bond arrangements, [both Aldabra Atoll in the Seychelles and the Belize Barrier Reef Reserve System in Belize are securing sustainable finance to help conserve their marine World Heritage sites](https://whc.unesco.org/en/news/2524) over the next decades.
+
+3. Moving towards a low-emission economy will create millions of 'green jobs' and provide new skills to hundreds of seafarers (which are currently trained on marine oil). [Coordinated global policy-making will be key to match supply and demand for skills and for countries to capitalize on green job opportunities in maritime](https://climatechampions.unfccc.int/why-skills-development-is-critical-to-shippings-green-transition/). 
+
+4. The [sustainable and equitable use of effectively managed ocean resources (which provide coastal resilience, job security, sustainable fishing, equitable tourism, renewable energy and much more) is best ensured through the establishment and maintenance of Marine Protected Areas](https://climatechampions.unfccc.int/why-marine-protection-matters-for-people-and-nature/). The creation of [Canada's first marine bioregion](https://www.canada.ca/en/fisheries-oceans/news/2023/02/first-marine-refuge-within-the-northern-shelf-bioregion-is-established.html) was announced on the coast of British Columbia. 
+
+**New platforms and initiatives**
+1. On the 1st of March, a new project []'PID Network Deutschland - Network for fostering persistent identifiers in science and culture](https://blog.datacite.org/launch-of-the-pid-network-project-understanding-metadata-workflows/) will start. The project aims to establish a network of research organisations interested in the persistent identification of people, organizations, publications, resources and infrastructures, and will run for 3 years.
+
+**News and updates about applications**
+1. [MapTiler Ocean is the latest addition to MapTiler Cloud](https://www.maptiler.com/news/2023/02/map-the-ocean-with-maptiler/). It describes the world's oceans in great detail and brings new possibilities for marine cartography, by providing the average depth of the Ocean floor as a set of continuous polygons with no gaps or overlaps and the possibility to add vector contour lines of the sea floor. 
+
+**FAIR and CARE principles**
+1. If you have a repository at your organization that is based in Europe, [you are invited to take part in the Survey of Open Repositories in Europe](https://www.openaire.eu/survey-of-open-repositories-in-europe), which is being undertaken by OpenAIRE, LIBER, SPARC Europe and COAR, and consists of 40 questions (and will approximately take 15 minutes to complete). 
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. [Artificial Intelligence and Conservation: Indigenous AI](https://vimeo.com/796754410), Session 5 of the Fuller Seminar Series on Artificial Intelligence and Conservation.
+
+2. [Data Use Club Practical Sessions: The API and introduction to rgbif and pygbif](https://www.gbif.org/event/1tpJPYktwQ8b9B0P0Gzoxs/data-use-club-practical-sessions-the-api-and-introduction-to-rgbif-and-pygbif), a webinar giving an overview of the GBIF API and accompanying documentation and key R and Python packages and their associated functions.
+
+3. [Towards FAIR digital twins - 2nd session](https://biodt.eu/events/towards-fair-digital-twins-2nd-session?utm_source=twitter.com&utm_medium=social&utm_campaign=webinar_13_february). 
+
+4. [Implementing the CARE principles in open data repositories](https://t.co/L3Z8bdcy0a) by Stephanie Russo Carrol.
+
+## Agenda for upcoming conferences, webinars and events
+*22 February 2023*, 14:00 - 15:00 CET: [Webinar: SDG Push - advancing integrated approaches to the SDGs](https://www.sparkblue.org/event/webinar-ippn-knowledge-cafe-sdg-push-advancing-integrated-approaches-sdgs). The SDG Push framework aims to provide a country-specific and comprehensive UNDP tool to plan and implement SDG breakthroughs.
+
+*22 - 24 February 2023*, 11:00 - 13:00 CET: [EBV (Essential Biodiversity Variables) workflows virtual workshop by EuropaBON](https://europabon.org/workshop/ebv-workflows/index)
+
+*2 March 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Data Integration](https://wwfus.zoom.us/webinar/register/WN_bMD_LNwTToq2KARTIw9ZVQ), Session 6 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*15 March 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Decision Support](https://wwfus.zoom.us/webinar/register/WN_BEuqI4WqQIKg6i3f9YqF_A), Session 7 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*20 - 21 March 2023*: [International Ocean Data Conference](https://oceandataconference.org/) - II, at the UNESCO headquarters in Paris, France (hybrid event)
+
+*27 March - 5 April 2023*: [ARSET - Biodiversity Applications for Airborne Imaging Systems](https://appliedsciences.nasa.gov/join-mission/training/english/arset-biodiversity-applications-airborne-imaging-systems)
+
+*13 April 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Systems/Causality](https://wwfus.zoom.us/webinar/register/WN_OeR5-UVBTpS-AiTFsCdmGQ), Session 8 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*18 - 20 April 2023*: Online conference by FORCE11 [Thinking/Acting: The Global and the Local](https://force11.org/force2023/). 
+
+*15 - 17 May 2023*: [Course on Integrated ecosystem services assessment to value and capture the benefits of landscape restoration, nature conservation and sustainable land management](https://www.es-partnership.org/esp-asia-ro-organises-training-on-integrated-ecosystem-services-assessment/#more-15784)
+in Taipei, Taiwan.
+
+*16 May 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Closing](https://wwfus.zoom.us/webinar/register/WN_nYemyMztQTq_an3cBgblJw), Session 9 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+
 ### Issue 3
 
 Date: February 7th, 2023
