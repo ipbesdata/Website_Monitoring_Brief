@@ -3,6 +3,88 @@
 Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
+### Issue 5
+
+Date: March 7th, 2023
+
+### News and articles
+**Biodiversity**
+1.  The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) was opened for the world's governments for signature 50 years ago, on 3 March, 1973. Since then, its membership grew from 10 to 184 Parties, who [work together to ensure that animals and plants will not go extinct in the wild by regulating international wildlife trade, thereby guaranteeing that it is legal, sustainable and traceable](https://cites.org/eng/news/celebrating-50-years-of-cites). Roughly 3 months after the CoP19 in Panama City, [hundreds of species are accorded new regulatory measures](https://cites.org/eng/news/new-cites-trade-rules-come-into-effect). There are now [almost 40,000 species listed and therefore regulated under the Convention](https://www.unep-wcmc.org/en/news/celebrating-partnerships-for-conservation), ranging from elephants, crocodiles and tigers, to corals, caviar, orchids and high-value timbers. 10 Years ago on the 3rd of March, was the first World Wildlife Day, and this year on that date, the [legislation to create a U.S. Foundation for International Conservation, that would fund public-private partnerships designed to support large-scale conservation and effective protected area management around the world](https://www.worldwildlife.org/press-releases/wwf-statement-on-legislation-to-create-a-u-s-foundation-for-international-conservation) while also benefiting local communities, was reintroduced. 
+
+2. To eliminate overfishing, illegality and habitat conversion from seafood value chains, a new collaboration of five conservation and biodiversity-focused organizations launched [an initiative that will leverage the power of investors to engage seafood companies on critical nature and biodiversity related impacts and risks](https://www.worldwildlife.org/press-releases/new-investor-collaboration-will-engage-the-seafood-sector-on-key-nature-risks-and-impacts).
+
+3. To [safeguard tropical Africa's iconic species, let's preserve their close relationship with local communities](https://whc.unesco.org/en/news/2527). Over time, rainforest communities in Africa have developed a close relationship with umbrella species (iconic and/or threatened species, whose conservation also protects a wide range of flora and fauna that occur in the same habitat), such as great apes and elephants. This relationship is expressed in various cultural practices that are passed down from generation to generation. Several African governments are considering the inclusion of these practices and beliefs in the UNESCO Convention for the Safeguarding of the Intangible Heritage.
+
+4. [Review reveals how biodiversity data supports research on human diseases](https://www.gbif.org/news/11OGVaJcueG829KraUfezA/review-reveals-how-biodiversity-data-supports-research-on-human-diseases), highlighting the possible benefits of better coordination on data sharing around global disease surveillance. 
+
+**Climate**
+1. To limit global warming, [ocean-based solutions have the potential to reduce the emissions-gap by up to 21%](https://climatechampions.unfccc.int/gigawatt-dreams-to-reality-realizing-the-potential-of-offshore-wind-to-avert-a-climate-crisis/) by 2050: Coastal ecosystems can sequester large amounts of carbon, aquatic food production can provide low-carbon protein to the worlds' growing population, and offshore wind energy, which has the potential to provide more than enough energy to power the world four times over.
+
+2. There is [no Paris Agreement without protecting, restoring, sustaining and managing nature, and this cannot be done without Indigenous Peoples, youth and finance](https://climatechampions.unfccc.int/razan-al-mubarak-there-is-no-paris-agreement-without-protecting-restoring-sustaining-and-managing-nature/). 
+
+**Oceans**
+1. [Avoiding greenwashing and defining emission reductions: how a science-based framework could catalyse maritime's Race to Zero](https://climatechampions.unfccc.int/avoiding-greenwashing-and-defining-emission-reductions/). More than 80% of global trade by volume is carried by sea, but only ~3% of global greenhouse gas emissions is contributed by this sector. In an interview with Jean-Marc Bonello the impact of a science-based framework on the Race to Zero is explained.
+
+2. The [Copernicus Marine Service has implemented a significant upgrade to its main physical analysis and forecasting system](https://marine.copernicus.eu/news/update-ocean-model-copernicus-marine). The improvements include better tracking of pollution, trade and marine navigation (better ship routing), polar environment monitoring (more accurate provision of sea ice conditions), better characterization of oceanic resources, better characterization of oceanic extremes and Marine Heat Waves.
+
+3. [Schmidt Ocean Institute launches a new research vessel that will change the face of ocean exploration](https://oceandecade.org/news/soi-new-research-vessel-change-ocean-exploration/), bringing together breakthrough technology (including a 105 m2 main laboratory, a 150-ton crane, 2 moonpools, equipment for high-resolution ocean depth mapping) and the global marine science community. 
+
+4. [Germany becomes the newest member of the Ocean Decade Alliance](https://oceandecade.org/news/germany-joins-the-ocean-decade-alliance/), bolstering its commitment to the UN Decade of Ocean for Sustainable Development. The Ocean Decade Alliance will support all forms of ocean science to successfully deliver the Ocean Decade's vision and thus contribute to the 2030 Agenda for Sustainable Development.
+
+5. The world's leading art and design university, [the Royal College of Art, has been named a UN Ocean Decade Implementing Partner](https://oceandecade.org/news/royal-college-of-art-new-decade-implementing-partner/). The RCA will focus on tackling three of the challenges identified by the Ocean Decade: protect and restore ecosystems and biodiversity, develop a sustainable and equitable ocean economy, and change humanity's relationship with the ocean by generating measurable, sustainable and human-centred impact on the health of the ocean.  
+
+6. A [key component of marine ecosystems, zooplankton, is changing together with our climate](https://www.goosocean.org/index.php?option=com_content&view=article&id=447:a-key-component-of-marine-ecosystems-is-changing-together-with-our-climate&catid=13&Itemid=125). A new paper shows how various species are affected, and highlights that coordinated, sustained ocean observations will be essential to understand how ecosystems will continue to function in our changing environment.
+
+7. [UN delegates reach history agreement on protecting marine biodiversity in international waters](https://news.un.org/en/story/2023/03/1134157): a text to ensure the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction has been finalized after nearly two decades of talks.
+
+**New platforms and initiatives**
+1. 15 Small Grants Fund recipients, who are funded by the Global Forest Watch, across Central and South America, Africa and Southeast Asia are going to use [satellite-based forest monitoring technologies to raise awareness to build capacity to manage and protect forests and improve forest governance](https://www.globalforestwatch.org/blog/people/2023-global-forest-watch-small-grants-fund-recipients/). Satellite imagery will be used to identify recent forest disturbances, which is crucial to stop deforestation.
+
+2. [DataCite launches Global Access Program with support from CZI](https://blog.datacite.org/datacite-launches-global-access-program-with-support-from-czi/) (Chan Zuckerberg Initiative), which is based on increasing community awareness, supporting and developing infrastructure and lowering financial barriers to access.  
+
+3. A new method was developed to use [deep learning and natural language processing to extract mentions of risk factors of food insecurity from text](https://blogs.worldbank.org/opendata/predicting-food-crisis-outbreaks-using-natural-language-processing-news-streams) of more than 11 million news articles about food-insecure countries published between 1980 and 2020. Almost 170 relevant keywords and phrases were discovered (such as 'drought', 'raising food prices' and 'pests'. Risk indicators of food insecurity were developed based on the occurrence of these keywords in news articles. A machine learning model has been developed that incorporates these news indicators to generate monthly district-level predictions. These predictions can be used to prioritize the allocation of emergency food assistance.
+
+**FAIR and CARE principles**
+1. [OpenAIRE Graph](https://graph.openaire.eu/) is an open resource that aggregates a collection of research data properties within the OpenAIRE Open Science infrastructure. The Graph is one of the largest and most heterogeneous collections of scholarly metadata for research products. A [roadmap with 5 future goals for the Graph was developed](https://www.openaire.eu/openaire-graph-steadily-riding-the-wild-wave-of-open-science): 1) make the Graph well-developed and developer-friendly, 2) Make the Graph more interoperable, 3) Improve its coverage, 4) improve content quality and transparency and 5) make it easy to query and maintain.
+
+2. The [results of the OpenAIRE survey 'Who is managing research data?](https://www.openaire.eu/openaire-survey-who-is-managing-research-data), which has been filled out by 18 people. Based on the answers, proper research data management is being done by a wide variety of roles, often in an informal capacity. 
+
+3. [Three reasons we should place a higher value on meta-research](https://blogs.lse.ac.uk/impactofsocialsciences/2023/02/23/three-reasons-we-should-place-a-higher-value-on-meta-research/) (investigating the process and norms of how knowledge is generated): it provides a high-level synthesis,  and is balanced and introspective. 
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. Seminar 6 of the [WWF webinar series on artificial intelligence and conservation: Data Integration](https://vimeo.com/804036759)
+
+## Agenda for upcoming conferences, webinars and events
+*15 March 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Decision Support](https://wwfus.zoom.us/webinar/register/WN_BEuqI4WqQIKg6i3f9YqF_A), Session 7 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*20 - 21 March 2023*: [International Ocean Data Conference](https://oceandataconference.org/) - II, at the UNESCO headquarters in Paris, France (hybrid event)
+
+*27 March - 5 April 2023*: [ARSET - Biodiversity Applications for Airborne Imaging Systems](https://appliedsciences.nasa.gov/join-mission/training/english/arset-biodiversity-applications-airborne-imaging-systems)
+
+*13 April 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Systems/Causality](https://wwfus.zoom.us/webinar/register/WN_OeR5-UVBTpS-AiTFsCdmGQ), Session 8 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*18 - 20 April 2023*: Online conference by FORCE11 [Thinking/Acting: The Global and the Local](https://force11.org/force2023/). 
+
+*15 - 17 May 2023*: [Course on Integrated ecosystem services assessment to value and capture the benefits of landscape restoration, nature conservation and sustainable land management](https://www.es-partnership.org/esp-asia-ro-organises-training-on-integrated-ecosystem-services-assessment/#more-15784)
+in Taipei, Taiwan.
+
+*16 May 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Closing](https://wwfus.zoom.us/webinar/register/WN_nYemyMztQTq_an3cBgblJw), Session 9 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*22 - 26 May 2023*: [3rd Open Science Train the trainer bootcamp](https://www.openaire.eu/3rd-open-science-train-the-trainer-bootcamp), an online training by OpenAIRE
+
+*13 - 16 June 2023*: [Economic incentives that affect biodiversity conference](https://www.bfn.de/veranstaltungen-ina/economic-incentives-affect-biodiversity-06-2023) on the Isle of Vilm, Germany.
+
+*13 - 17 June 2023*: [EcoSummit Building a sustainable and desirable future: adapting to a changing land and sea-scape](https://www.ecosummitcongress.com/) in Gold Coast, Australia. 
+
+*3 - 7 July, 2023*: [Ecosystem services symposium at Ecological Society of Australia](http://esa2023.org.au/) in Darwin, Australia.
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+*10 - 12 April 2024*: [The 2024 UN Ocean Decade Conference](https://oceandecade.org/news/barcelona-to-host-2024-un-ocean-decade-conference/) in Barcelona, Spain
+
+
 ### Issue 4
 
 Date: February 21st, 2023
