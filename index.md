@@ -3,6 +3,88 @@
 Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
+### Issue 6
+
+Date: March 21st, 2023
+
+### News and articles
+
+**Biodiversity**
+1. [Understanding the dimensions of the Global Biodiversity Framework and our pathway to the 2030 targets and 2050 vision](https://geobon.org/understanding-the-dimensions-of-the-global-biodiversity-framework-and-our-pathway-to-the-2030-targets-and-2050-vision/). The post-2020 GBF is inarguably the most important piece of global biodiversity legislation in over a decade. A new [paper by Alice Hughes in Integrative Conservation discusses the process, strengths and weaknesses of the GBF](https://onlinelibrary.wiley.com/doi/10.1002/inc3.16).
+
+**Climate**
+1. [IPCC lead author Paulina Aldunce: 'What is everyone waiting for?'](https://climatechampions.unfccc.int/ipcc-lead-author-paulina-aldunce-what-is-everyone-waiting-for/): The IPCC opened its 58th session to complete the last elements of its [Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/): the synthesis report and its summary for policymakers. The evidence and urgency scientists provide isn't reflected in decision-making.  
+
+2. [Scientists deliver 'final warning' on climate crisis: act now or it's too late](https://www.theguardian.com/environment/2023/mar/20/ipcc-climate-crisis-report-delivers-final-warning-on-15c). The comprehensive review of human knowledge of the climate crisis, the final part of its sixth assessment report, took eight years to compile, and delivers a clear message: act now, or it will be too late.
+
+3. [Traditional air conditioners and refrigerants contain fluorinated gasses that can leak, deplete the ozone layer and harm the environment](https://eia-international.org/climate/sustainable-cooling-technologies/). Sustainable cooling targets efficiency improvements to cooling solutions alongside measures that lower ambient temperatures in buildings and urban environments. [2022 was the hottest year on record](https://news.un.org/en/story/2022/11/1130237), and as the atmosphere warms, heatwaves, soaring temperatures, droughts and other weather extremes are becoming more frequent and more intense. [Sustainable cooling can help tackle the climate crisis](https://climatechampions.unfccc.int/what-is-sustainable-cooling-and-how-can-it-help-tackle-the-climate-crisis/). 
+
+4. [COP28 presidency launches bid called 'International Youth Climate Delegate Program' to put climate vulnerable youth at the center of climate talks](https://climatechampions.unfccc.int/cop28-launches-program-to-put-marginalised-youth-at-the-centre-of-climate-talks/), stating: 'We may not know what the future holds, but we know who holds the future. It is you - our young people.' The objectives of the program include ensuring that youth views and proposals are fully integrated into global climate policymaking and dialogues; building youth skills, capacity, knowledge and networks, particularly in the most impacted countries, to engage in climate processes and providing a model for the COP process on youth inclusion. [People between 18 and 35, who demonstrate a commitment to climate issues and ideally have experience in the area, can apply to participate in the program until the 7th of April](https://www.cop28.com/en/youth-program).
+
+**Oceans**
+1. [Investor coalition to engage seafood sector on key nature risks](https://sustainablebrands.com/read/finance-investment/investor-coalition-engage-seafood-sector-key-nature-risks). New [WWF research](https://www.wwf.sg/wp-content/uploads/2023/02/Seafood-AM-Report.pdf) shows some banks and investors recognize the potential for environmental, social and governance risks in seafood but most lack robust or actionable policies, as fewer than 5% acknowledge having a process to identify the impacts of their financing activities on nature.
+
+2. [The Global Fund for Coral Reefs](https://globalfundcoralreefs.org/) is a 10-year, $625 million coalition between UN agencies, financial institutions and private philanthropy sources, which supports [business models that can sustainably finance key conservation and development goals for coral reefs via two initiative funds](https://climatechampions.unfccc.int/welcoming-the-global-fund-for-coral-reefs-to-the-race-to-resilience/); the grant fund, which provides technical assistance, capacity development, monitoring and evaluation, and the investment fund that generates de-risked investment capital to maximize the impact of projects incubated by the grant fund. 
+
+3. [Why the High Seas Treaty is a breakthrough for the ocean and the planet](https://climatechampions.unfccc.int/why-the-high-seas-treaty-is-a-breakthrough-for-the-ocean-and-the-planet/). The High Seas Treaty includes an agreement to impose strict protection of the ocean outside national borders and rules for the sustainable use of its resources, to ensure that we are not depleting ocean ecosystems and stipulates that environmental impact assessments must be completed before any new exploitation of marine resources in areas beyond national jurisdictions, and features provisions to allow for equitable sharing of knowledge, technologies and benefits from marine genetic resources. 
+
+4. [Where is your squid coming from? Most likely unregulated waters, according to a new international study](https://globalfishingwatch.org/press-release/where-squid-coming-likely-unregulated-waters-new-study/). Scientists and policymakers have voiced growing concerns about the decline of global squid stocks, but [little has been done to date to target squid fishing activities that are expanding into unregulated species](https://www.science.org/doi/10.1126/sciadv.add8125). Using satellite imagery, vessel tracking and data monitoring, the study found that the fishing conducted by the globalized light-luring squid fishery was extensive, fishing between 149,000 and 151,000 vessel days annually, and that effort increased 68% over the study period from 2017 - 2020.
+
+5. A [new Horizon EU project aims to identify the locations within the European seas where marine protected areas would protect the highest number of species, habitats and ecosystems](https://www.obis.org/2023/03/10/MPA_europe/). This information will support stakeholders involved in marine spatial planning in establishing effective conservation areas. 
+
+**New platforms and initiatives**
+
+1. GEO BON is developing an online platform, 'Bon in a Box' ([introduced with a short (3 minute) video](https://www.youtube.com/watch?v=mLjnjCWwU3w)) that will help countries assess the information they have and guide monitoring to improve knowledge of the trends in biodiversity. There is a [one question questionnaire to assess interest of potential users and contributors](https://docs.google.com/forms/d/e/1FAIpQLSexJu0obGMgMXZYyN4UNgw7LPTsrjhklogvk8YSgW2Mk5DoHg/viewform). 
+
+2. The European Commission adopted the [Euratom Work Programme 2023 - 2025 ](https://research-and-innovation.ec.europa.eu/document/download/57d8f069-9d63-4c55-a56d-53b4b9fad04b_en) implementing the [Euratom Research and Training Programme and supporting nuclear researchers with €132 million](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/researchers-receive-eu132-million-through-new-euratom-research-and-training-work-programme-2023-2025-2023-03-17_en) in funding. This [call for proposals will focus on the safety of Small Modular Reactors, development of nuclear materials and the secure management and disposal of radioactive waste](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=1,0;statusCodes=31094501;programmePeriod=2021%20-%202027;programCcm2Id=43298916;programDivisionCode=null;focusAreaCode=null;destinationGroup=null;missionGroup=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState). 
+
+3. [Planet's satellite data will be leveraged to enhance a unique monitoring solution for the defense and intelligence sector](https://www.planet.com/pulse/planet-and-preligens-partner-to-achieve-near-persistent-monitoring-for-defense-intelligence-analysts/), solving a critically needed data processing gap, accelerating the intelligence cycle and increasing overall situational awareness.
+
+4. The [2023 UN Small Island Developing States Partnerships Awards are now accepting applications](https://sdgs.un.org/SIDSPartnershipsAwards) from all stakeholders. The deadline for applications is on the 28th of April, and the laureates of the Awards will be invited to New York in July 2023 at the Awards ceremony. 
+
+5. The Joint Research Centre through he BIOPAMA program launched a [Massive Online Open Course (MOOC) focused on 'Assessing tourism services in protected areas: value chain and economic analyses'](https://mooc-conservation.org/courses/course-v1:mooc-conservation+01+2022/about), aiming to enable park managers, nature conservation agencies and other stakeholders to improve their capacity in assessing the tourism activities related to their protected areas and their economic and financial impacts. 
+
+**News and updates about applications**
+1. [Generative AI and the unceasing acceleration of academic writing](https://blogs.lse.ac.uk/impactofsocialsciences/2023/03/14/generative-ai-and-the-unceasing-acceleration-of-academic-writing/). The launch of ChatGPT has galvanized a debate around how it could or should be used in research and teaching. Mark Carrigan argues that the dynamic of ChatGPT and generative AIs as efficiency tools opens the door to further growth and acceleration in research outputs, but also raises questions about the value of these products of academic labour. For example, Science and Springer Nature have prohibited that ChatGPT was credited as a co-author on papers. Science's editor-in-chief argued that text produced by Chat-GPT would be seen as plagiarism whereas Nature has allowed their use under specific documented circumstances.  
+
+## Agenda for upcoming conferences, webinars and events
+*27 March 2023*, 13:00 - 14:30 CET and 22:00 - 23:30 CET: An online discussion on a [Global Knowledge Support Service for Biodiversity](https://gkssb.chm-cbd.net/events/webinar-planned-27-march-2023)
+
+*27 - 31 March 2023*: [ESMARCONF2023](https://esmarconf.org/), a free online conference series on evidence synthesis and meta-analysis in R
+
+*27 March - 5 April 2023*: [ARSET - Biodiversity Applications for Airborne Imaging Systems](https://appliedsciences.nasa.gov/join-mission/training/english/arset-biodiversity-applications-airborne-imaging-systems)
+
+*29 March 2023*: [Towards a FAIRer World](https://codata.org/towards-a-fairer-world-implementing-the-unesco-recommendation-on-open-science-to-address-global-challenges-unesco-paris-and-virtual-29-march-2023/), a hybrid symposium on the implementation of the UNESCO recommendation on Open Science to address global challenges
+
+*13 April 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Systems/Causality](https://wwfus.zoom.us/webinar/register/WN_OeR5-UVBTpS-AiTFsCdmGQ), Session 8 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*18 - 21 April 2023*: Online conference by FORCE11 [Thinking/Acting: The Global and the Local](https://force11.org/force2023/). 
+
+*25 April 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Decision Support](https://wwfus.zoom.us/webinar/register/WN_BEuqI4WqQIKg6i3f9YqF_A), Session 7 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*15 - 17 May 2023*: [Course on Integrated ecosystem services assessment to value and capture the benefits of landscape restoration, nature conservation and sustainable land management](https://www.es-partnership.org/esp-asia-ro-organises-training-on-integrated-ecosystem-services-assessment/#more-15784)
+in Taipei, Taiwan.
+
+*16 May 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Closing](https://wwfus.zoom.us/webinar/register/WN_nYemyMztQTq_an3cBgblJw), Session 9 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*22 - 26 May 2023*: [3rd Open Science Train the trainer bootcamp](https://www.openaire.eu/3rd-open-science-train-the-trainer-bootcamp), an online training by OpenAIRE
+
+*13 - 16 June 2023*: [Economic incentives that affect biodiversity conference](https://www.bfn.de/veranstaltungen-ina/economic-incentives-affect-biodiversity-06-2023) on the Isle of Vilm, Germany
+
+*13 - 17 June 2023*: [EcoSummit Building a sustainable and desirable future: adapting to a changing land and sea-scape](https://www.ecosummitcongress.com/) in Gold Coast, Australia. 
+
+*15 - 16 June, 2023*: [Embracing the Open Knowledge practices](https://www.earthobservations.org/odok2023.php) in Geneva, Switzerland
+
+*3 - 7 July, 2023*: [Ecosystem services symposium at Ecological Society of Australia](http://esa2023.org.au/) in Darwin, Australia.
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+*10 - 12 April 2024*: [The 2024 UN Ocean Decade Conference](https://oceandecade.org/news/barcelona-to-host-2024-un-ocean-decade-conference/) in Barcelona, Spain
+
+
+
 ### Issue 5
 
 Date: March 7th, 2023
