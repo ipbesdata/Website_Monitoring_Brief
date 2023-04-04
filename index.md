@@ -3,6 +3,89 @@
 Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
+### Issue 7
+
+Date: April 4th, 2023
+
+### News and articles
+**Biodiversity**
+1. [Exploring the vital role of our forests](https://www.unep-wcmc.org/en/news/exploring-the-vital-role-of-our-forests). Forests are key to combating climate change, purify water and air, prevent natural disasters (by reducing soil erosion, helping decrease the impact of storm surges and tsunamis and reducing the risk of wildfires), provide soil for agriculture and are home to a wealth of biodiversity (80% of amphibian species, 75% of bird species and 68% of mammal species, and 60% of all vascular plant species occur in tropical forests). 
+
+**Climate**
+1. [Leaders urged to heed science and act now to avert climate catastrophe](https://www.worldwildlife.org/press-releases/leaders-urged-to-heed-science-and-act-now-to-avert-climate-catastrophe). WWF scientists call on governments to accelerate action to phase out fossil fuels, slash emissions and restore nature.
+
+2. [Marine ecosystems in a changing climate - Insights from the IPCC's sixth assessment report](https://ocean-climate.org/wp-content/uploads/2023/03/DIFCO-2023-EN-WEB.pdf), a report published by the Ocean & Climate Platform. [Marine ecosystems are critical to climate mitigation and adaptation](https://climatechampions.unfccc.int/marine-ecosystems-in-a-changing-climate-insights-from-the-ipccs-sixth-assessment-report/), and are also increasingly vulnerable to climatic and human stressors, with some already reaching a tipping point. Transformational changes must be carried out to jointly and effectively deploy adaptation and mitigation responses at a large scale, as marine ecosystems provide so many benefits to the living world and are cornerstones of the transition to a more sustainable world.
+
+3. [Climate group: without climate finance for states and regions there can be no net zero](https://climatechampions.unfccc.int/without-climate-finance-for-states-and-regions-there-can-be-no-net-zero-warns-climate-group/). The Climate Group published a [new study](https://www.theclimategroup.org/media/20736/download) discussing mechanisms that state and regional governments can use to raise money to accelerate to net zero and adapt to climate change, and how subnational governments can effectively spend climate finance. As state and regional governments represent over 50% of all environment and climate spending, funding for climate action and policies at subnational level is essential to keep the world on track for 1.5°C of warming. 
+
+4. Race to Zero has released its [Data Explorer](http://www.racetozerodataexplorer.org/), a new [tool, developed by Climate Arc, showcasing climate data from the largest (by revenue) 500 companies in the Race to Zero campaign](https://climatechampions.unfccc.int/race-to-zero-campaign-launches-new-tool-to-enhance-transparency-of-net-zero-commitments/). Nearly two thirds of the companies published a plan to get to net zero by 2050, and almost 80% published historical emissions data. The tool reveals the differences in quantity and quality of the [data published](https://climatechampions.unfccc.int/race-to-zero-data-explorer-faqs/), and finds that about 30% of companies are not reporting the full impact of their activities.
+
+5. Although we are way off-target on the commitment to stabilize temperature rises to 1.5°C, there was also some good news in the report, as [the 1.5°C target is still viable](https://climatechampions.unfccc.int/exponential-roadmap-initiative-and-now-for-the-good-news-from-the-ipcc-report-the-1-5c-target-is-still-viable/). All solutions are already here, are scalable, can be deployed rapidly, and are affordable. The [key to rapid change is to identify the feedback loops where behavioural change and political, economic and technological shifts create self-reinforcing cycles](https://www.reuters.com/business/sustainable-business/comment-now-good-news-ipcc-report-15c-target-is-still-viable-2023-03-22/), driving ever-greater action and a green race to the top.
+
+6. [Global, regional and country temperature change statistics from 1961 - 2022](https://www.fao.org/food-agriculture-statistics/data-release/data-release-detail/en/c/1635307/) show that [in 2022 the mean annual temperatures were warmer than normal in nearly 85% of all countries and territories for which statistics were available](https://www.fao.org/3/cc5064en/cc5064en.pdf). 
+
+
+**Oceans**
+1. The latest [Allen Coral Atlas impact report reveals the highlights from 2022](https://allencoralatlas.org/blog/atlas-2022-impact-report/), including a dynamic [Turbidity dataset](https://allencoralatlas.org/methods/#turbidity), a new [Coral Reef Extent dataset](https://pacific-data.sprep.org/dataset/nauru-coral-reef-data-allen-coral-atlas), [10 habitat mapping regions with custom improvements](https://allencoralatlas.org/methods/#habitatmaps) and [integrated Marine Protected Areas](https://allencoralatlas.org/methods/#mpas).
+
+2. Collective action to create 'the ocean we want', by [officially endorsing 35 new Decade Actions](https://oceandecade.org/news/ocean-decade-announces-wave-of-over-thirty-new-endorsed-actions/) that are collectively working in all ocean basins, strengthening the global momentum for ocean knowledge-based solutions.
+
+3. The [World Register of Marine Species](https://www.marinespecies.org/) (WoRMS) [released its annual list of the top-ten remarkable new marine species](https://oceandecade.org/news/ten-remarkable-new-marine-species-from-2022/) (out of almost 1,700 marine species, including about 300 fossil species) described in 2022.
+
+4. [Insights from the IPCC's sixth assessment report](https://oceandecade.org/news/what-ocean-for-tomorrow-marine-ecosystems-in-a-changing-climate-change-insights-from-the-ipccs-sixth-assessment-report/): '[What ocean for tomorrow?](https://ocean-climate.org/wp-content/uploads/2023/03/DIFCO-2023-EN-WEB.pdf)' In the path to a sustainable future, it is crucial to make the protection of the ocean and its ecosystems a priority.
+
+5. [Public and private sectors to advance ocean observing](https://www.goosocean.org/index.php?option=com_content&view=article&id=448:public-and-private-sectors-to-advance-ocean-observing&catid=13&Itemid=125): "Today ocean observing activities  mostly rely on public funding, but this will not be sufficient to expand a sustained ocean observing system to meet the growing demands for ocean information." A collaboration between the public and private sectors can bring benefits to both sides across the whole ocean observing value chain. 
+
+**News and updates about applications**
+1. [Forest Watcher updates improve managing teams and reporting on data from the field](https://www.globalforestwatch.org/blog/people/forest-watcher-mobile-app-updates/). Available data on recently detected tree cover loss and fires, combined with strong existing knowledge from the community, has made investigating potentially illegal clearings and fires within Buen Jardín de Callaru and many other communities across the tropics more efficient.
+
+**FAIR and CARE principles**
+1. [OpenAire started a podcast](https://www.openaire.eu/let-s-talk-about-open-science) on exploring Open Science principles and practices in Europe, called [Open-ON-AIRE](https://www.openaire.eu/podcasts). In the first episode the human network powering the Open Access Infrastructure for Research in Europe is being discussed, and the second episode revolves around the OpenAIRE Graph and how it can be used to unlock the power of open science data and create new opportunities. Future episodes will explore a range of topics related to Open Science, their challenges and the sollutions to facilitate the transition towards more responsible and transparent scholarly communication. 
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. The [OpenAIRE webinar on Horizon Europe Open Science requirements in practice](https://www.openaire.eu/unpacking-insights-answering-your-questions). 
+
+## Agenda for upcoming conferences, webinars and events
+*13 April 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Systems/Causality](https://wwfus.zoom.us/webinar/register/WN_OeR5-UVBTpS-AiTFsCdmGQ), Session 8 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*18 - 21 April 2023*: Online conference by FORCE11 [Thinking/Acting: The Global and the Local](https://force11.org/force2023/). 
+
+*25 April 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Decision Support](https://wwfus.zoom.us/webinar/register/WN_BEuqI4WqQIKg6i3f9YqF_A), Session 7 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*15 - 17 May 2023*: [Course on Integrated ecosystem services assessment to value and capture the benefits of landscape restoration, nature conservation and sustainable land management](https://www.es-partnership.org/esp-asia-ro-organises-training-on-integrated-ecosystem-services-assessment/#more-15784)
+in Taipei, Taiwan.
+
+*16 May 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Closing](https://wwfus.zoom.us/webinar/register/WN_nYemyMztQTq_an3cBgblJw), Session 9 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*17 May 2023*, 21:00 - 22:00 CET: [Diversity, equity, and justice in environmental data science](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the first Zoom webinar for the annual Environmental Data Science seminar series
+
+*22 - 25 May 2023*: [Impact of human activities on Marine Functional Connectivity](https://oceandecade.org/news/a-large-international-symposium-dedicated-to-marine-connectivity-research/), in Sesimbra, Portugal. 
+
+*22 - 26 May 2023*: [3rd Open Science Train the trainer bootcamp](https://www.openaire.eu/3rd-open-science-train-the-trainer-bootcamp), an online training by OpenAIRE
+
+*31 May 2023*, 21:00 - 22:00 CET: [Doing the work to unsettle ecology: responsibility and accountability for non-Indigenous ecologists](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the second Zoom webinar for the annual Environmental Data Science seminar series
+
+*13 - 16 June 2023*: [Economic incentives that affect biodiversity conference](https://www.bfn.de/veranstaltungen-ina/economic-incentives-affect-biodiversity-06-2023) on the Isle of Vilm, Germany
+
+*13 - 17 June 2023*: [EcoSummit Building a sustainable and desirable future: adapting to a changing land and sea-scape](https://www.ecosummitcongress.com/) in Gold Coast, Australia. 
+
+*14 June 2023*: [Net zero energy pathways that center conservation and communities](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the third (and last) Zoom webinar for the annual Environmental Data Science seminar series
+
+*15 - 16 June, 2023*: [Embracing the Open Knowledge practices](https://www.earthobservations.org/odok2023.php) in Geneva, Switzerland
+
+*3 - 7 July, 2023*: [Ecosystem services symposium at Ecological Society of Australia](http://esa2023.org.au/) in Darwin, Australia.
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+*25 - 27 September 2023*: The Open Science Fair in Madrid, Spain: [Charting the course: Reimaging Open Science for next generations](https://www.opensciencefair.eu/). Registration opens in spring 2023. 
+
+*10 - 13 October 2023*: [Global Conference on Biodiversity and Monitoring by GEO BON](https://geobon.org/geo-bon-global-conference-monitoring-biodiversity-for-action/) in Montreal, Canada. Registration opens in April, call for abstracts: 10 April - 14 May 2023.
+
+*10 - 12 April 2024*: [The 2024 UN Ocean Decade Conference](https://oceandecade.org/news/barcelona-to-host-2024-un-ocean-decade-conference/) in Barcelona, Spain
+
+
 ### Issue 6
 
 Date: March 21st, 2023
