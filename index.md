@@ -3,6 +3,97 @@
 Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
+### Issue 8
+
+Date: April 18th, 2023
+
+### News and articles
+**Biodiversity**
+1. [India's wild tiger numbers continue to grow](https://www.worldwildlife.org/press-releases/india-s-wild-tiger-numbers-continue-to-grow). Since 2010 the number of wild tigers more than doubled from 1411 to 3167 in 2022. Project Tiger was conceptualised with the goal to restore tiger populations and protect their habitats in India, and is now recognised as one of the most successful species-specific conservation programs worldwide.
+
+2. Habitat loss, human population growth and conservation successes lead to humans and wild animals living in closer proximity and sharing the same scarce resources, with hundreds of humans and thousands of animals dying yearly due to human-wildlife conflicts yearly. At the [international conference on Human-Wildlife Conflict and Coexistence in Oxford, UK, the insights, solutions and required collaboration across disciplines and sectors to foster healthy and beneficial co-existence of people and wildlife were discussed and debated](https://cites.org/eng/node/136188). The focus now is on translating the commitments at the international level into concrete actions on the ground supported by sufficient funds to implement and sustain actions, including actions to address human wildlife conflict and promote coexistence. The next challenges will be to connect the funding sources and the areas where funds are the most needed.
+
+**Climate**
+1. [The future of water](https://climatechampions.unfccc.int/future-forward-the-future-of-water/). To address the water crisis in East Java, Indonesia, local communities safeguard springs and clear rivers of rubbish. An Indigenous Minahasa youth from Wuwuk, Minahasa, Sulawesi Utara, Indonesia, made a [short film about the critical contributions that Indigenous peoples and local communities make](https://localbiodiversityoutlooks.net/film-rumamus-ong-gio-honouring-the-sacred-ancestral-ties-to-water/) as guardians of the land, and how they remember the ancestral history of their land and the water sources within it.
+
+2. Record low rainfall pushed the Horn of Africa into a disastrous drought that is precipitating a humanitarian crisis. [Planetary forensics, such as measuring the amount of moisture in the soil, can be used to give a clear environmental signal about the conditions in dry regions](https://www.planet.com/pulse/using-planetary-forensics-to-visualize-historic-drought-in-the-horn-of-africa/). 
+
+**Oceans**
+1. An ambitious goal to mobilise [100 million USD to safeguard the ocean and sustainable seafood supplies](https://www.msc.org/media-centre/news-opinion/news/2023/04/12/100-million-dollar-goal-to-scale-up-sustainable-fishing) to fund innovative research and supporting fisheries at all stages on the path to sustainability over the next decade has been unveiled by the MSC. 
+
+2. [Antarctic summer sea ice minimum, the lowest ever observed](https://marine.copernicus.eu/news/antarctic-summer-sea-ice-minimum-lowest-ever-observed). The sea ice coverage around Antarctica is now just 2.06 million km2, a new record after the previous unprecedented low of 2.17 million km2 observed in 2022. Sea ice decreases could add to the vulnerability of the adjacent ice shelves, making them less stable, and potentially contributing to the global sea level rise.
+
+3. [Ocean Decade launches a new call for Decade Actions, focusing on marine pollution and marine ecosystem restoration and management](https://oceandecade.org/news/ocean-decade-launches-new-cfda5-focusing-on-marine-pollution-and-marine-ecosystems/). There will be 2 online Q&A sessions on the Call for Decade Actions on the 4th and 5th of May. 
+
+**Ecosystem services**
+1. The journal [Forest is calling for contributions for a special issue focussed on innovative frameworks supporting decision-making processes through integrated ecosystem services assessments and sustainable finance principles](https://www.es-partnership.org/a-special-issue-of-forests/) by integrating research, techniques and tools that combine assessments on both ecosystem services and the impact of investments on ecosytems according to the environmental, social and governance criteria. The deadline for submissions is the 31st of October 2023.
+
+**New platforms and initiatives**
+1. The [newly-funded Horizon Europe project B-Cubed](https://cordis.europa.eu/project/id/101059592) will [transform biodiversity monitoring to ensure policymakers can proactively address the impacts of biodiversity change](https://www.eurekalert.org/news-releases/984168). The overarching goal of the project is to make GBIF data ready-to-use for policy by providing GBIF data in data cubes, which are standardised, reproducible and citable. The project envisages a future where primary biodiversity data are seamlessly integrated into monitoring and forecasting such that policy and management can proactively respond to problems while at the same time reduce the costs of monitoring and management, and the negative impacts of biodiversity change.
+
+**News and updates about applications**
+1. [Open Data Management Platform (OpenDMP) has a new version (v1.6.1)](https://www.openaire.eu/opendmp-software-expands), containing new features that enable flexibility on certain DMP actions, new integrations with data services and updates of templates and language files.
+
+2. The world's mangroves sequester more than 31 million tons of carbon in their soils and biomass each year, so the protection and restoration of these environments is critical for supporting biodiversity, combating climate change and helping communities to thrive. The [Blue Carbon Explorer is a Google Earth Engine app that provides detailed maps of mangroves and seagrasses](https://www.planet.com/pulse/the-nature-conservancy-and-planet-collaborate-to-map-blue-carbon/) to help governments evaluate the extent and health of these natural resources by integrating field-collected data from drone and satellite imagery to visualise and identify key areas for restoration and protecting, and prioritise management and conservation activities.
+
+**Indices and indicators**
+1. The [FAOSTAT Macro Indicators database provides macroeconomic indicators at the country and regional levels](https://www.fao.org/food-agriculture-statistics/data-release/data-release-detail/en/c/1637006/) relating to the total economy, agriculture, forestry and fishing, and manufacturing sub-industry, including statistics of 218 countries and territories, covering the period from 1970 to 2021.
+
+**FAIR and CARE principles**
+1. The [Galaxy project](https://galaxyproject.org/), an open-source platform for FAIR data analysis,  allows researchers to [analyse and share scientific data using various user-friendly web-based interfaces as well as interoperable application programming interfaces (APIs)](https://www.openaire.eu/welcoming-an-open-science-webspace-for-the-galaxy-community). 
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. [Data sharing: what do we know and where can we go?](https://blog.datadryad.org/2023/04/12/dryad-in-the-community-data-sharing-what-do-we-know-and-where-can-we-go/), a webinar by OASPA about the different perspectives and policies of data sharing.
+
+2. [Global knowledge support service for biodiversity - webinar 1](https://www.youtube.com/watch?v=LhBFYHlv4Os) by UNEP-WCMC.
+
+3. [Global knowledge support service for biodiversity - webinar 2](https://www.youtube.com/watch?v=YQQSrI5j2Vo) by UNEP-WCMC.
+
+## Agenda for upcoming conferences, webinars and events
+*18 - 21 April 2023*: Online conference by FORCE11 [Thinking/Acting: The Global and the Local](https://force11.org/force2023/).
+
+*24 April 2023*, 20:00 - 21:00 CET: [Pandas & Prose discussion about 'The language of butterflies' by Wendy Williams with WWF's Monica Echeverria](https://www.worldwildlife.org/pages/pandas-and-prose), on Zoom.
+
+*25 April 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Decision Support](https://wwfus.zoom.us/webinar/register/WN_BEuqI4WqQIKg6i3f9YqF_A), Session 7 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*4 May 2023*, 16:00 - 17:00 CET: [First Q&A session on the Call for Decade Actions](https://us06web.zoom.us/meeting/register/tZAsfuCvqzIiGdBEodENHtTOPMjpuY96jqai#/registration)
+
+*5 May 2023*, 9:00 - 10:00 CET: [Second Q&A session on the Call for Decade Actions](https://us06web.zoom.us/meeting/register/tZArdeuhqD4qGdBN5A91jfFcAeO5bDvAj47n#/registration)
+
+*15 - 17 May 2023*: [Course on Integrated ecosystem services assessment to value and capture the benefits of landscape restoration, nature conservation and sustainable land management](https://www.es-partnership.org/esp-asia-ro-organises-training-on-integrated-ecosystem-services-assessment/#more-15784)
+in Taipei, Taiwan.
+
+*16 May 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Closing](https://wwfus.zoom.us/webinar/register/WN_nYemyMztQTq_an3cBgblJw), Session 9 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*17 May 2023*, 21:00 - 22:00 CET: [Diversity, equity, and justice in environmental data science](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the first Zoom webinar for the annual Environmental Data Science seminar series
+
+*22 - 25 May 2023*: [Impact of human activities on Marine Functional Connectivity](https://oceandecade.org/news/a-large-international-symposium-dedicated-to-marine-connectivity-research/), in Sesimbra, Portugal. 
+
+*22 - 26 May 2023*: [3rd Open Science Train the trainer bootcamp](https://www.openaire.eu/3rd-open-science-train-the-trainer-bootcamp), an online training by OpenAIRE
+
+*31 May 2023*, 21:00 - 22:00 CET: [Doing the work to unsettle ecology: responsibility and accountability for non-Indigenous ecologists](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the second Zoom webinar for the annual Environmental Data Science seminar series
+
+*13 - 16 June 2023*: [Economic incentives that affect biodiversity conference](https://www.bfn.de/veranstaltungen-ina/economic-incentives-affect-biodiversity-06-2023) on the Isle of Vilm, Germany
+
+*13 - 17 June 2023*: [EcoSummit Building a sustainable and desirable future: adapting to a changing land and sea-scape](https://www.ecosummitcongress.com/) in Gold Coast, Australia. 
+
+*14 June 2023*: [Net zero energy pathways that center conservation and communities](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the third (and last) Zoom webinar for the annual Environmental Data Science seminar series
+
+*15 - 16 June, 2023*: [Embracing the Open Knowledge practices](https://www.earthobservations.org/odok2023.php) in Geneva, Switzerland
+
+*3 - 7 July, 2023*: [Ecosystem services symposium at Ecological Society of Australia](http://esa2023.org.au/) in Darwin, Australia.
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+*25 - 27 September 2023*: The Open Science Fair in Madrid, Spain: [Charting the course: Reimaging Open Science for next generations](https://www.opensciencefair.eu/). Registration opens in spring 2023. 
+
+*10 - 13 October 2023*: [Global Conference on Biodiversity and Monitoring by GEO BON](https://geobon.org/geo-bon-global-conference-monitoring-biodiversity-for-action/) in Montreal, Canada. Registration opens in April, call for abstracts: 10 April - 14 May 2023.
+
+*10 - 12 April 2024*: [The 2024 UN Ocean Decade Conference](https://oceandecade.org/news/barcelona-to-host-2024-un-ocean-decade-conference/) in Barcelona, Spain
+
+
 ### Issue 7
 
 Date: April 4th, 2023
