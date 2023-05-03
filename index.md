@@ -3,6 +3,91 @@
 Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
+
+### Issue 9
+
+Date: May 3rd, 2023
+
+### News and articles
+
+**Biodiversity**
+1. [Not just fish: rhinos need rivers too](https://www.forbes.com/sites/jeffopperman/2023/04/27/not-just-fish-rhinos-need-rivers-too/?sh=22210221418c). The Kennedy Center's [River Run festival](https://www.kennedy-center.org/whats-on/festivals-series/riverrun/) featured a set of life-size statues of rhinos called 'Survivors'. Although they are not considered to be aquatic animals, they can be thought of as river-dependent. 
+
+2. [An external evaluation of the impacts of the Biodiversity Information for Development programme found increased capacity in mobilization and use of biodiversity data in science and policy](https://www.gbif.org/news/2ahIDwt1HGRq9MbQbKhpwW/external-review-finds-eu-funded-bid-programme-succeeds-in-delivering-its-objectives); 102 projects supported through BBID empowered the GBIF network, filled data gaps, improved data quality and data skills and made broad contributions to the UN Sustainable Development Goals.
+
+**Oceans**
+1. On the 1st of May, 2023, the [new MSC's Fisheries Standard](https://www.msc.org/media-centre/news-opinion/news/2023/05/01/msc-fisheries-standard-version-3.0-comes-into-effect) became operational, which ensures that certified fisheries continue to be recognised as global leaders in sustainability and the protection of marine resources for future generations. 
+
+2. The [Strategy for Reef Resilience in Belize was launched](https://whc.unesco.org/en/news/2551), in order to help safeguard the future of the [Belize Barrier Reef Reserve System](https://whc.unesco.org/en/list/764) from the impacts of climate change.
+
+3. According to estimations, there are 2.2 million species in our oceans, but only 240,000 have been scientifically described. To accelerate species discovery, the [Ocean Census programme has been launched](https://www.revocean.org/oceancensus/), which aims to identify at least 100,000 new marine species in the next decade.
+
+4. Fishing grounds off the coast of West Africa are some of the richest and most diverse in the world. The fishery sector is an important contributor to economic productivity. However, coastal fisheries are increasingly threatened by overfishing, unsustainable management practices and high levels of post-harvest losses, putting local livelihoods, food security and marine biodiversity at risk. Therefore, [MSC partners with FAO to promote sustainable use and management of coastal fisheries in Cabo Verde](https://www.msc.org/media-centre/news-opinion/news/2023/04/19/msc-partners-with-fao-to-promote-sustainable-management-of-coastal-fisheries-cabo-verde-cape-verde). 
+
+5. The [Copernicus Marine Service released new ocean data products](https://marine.copernicus.eu/news/march-2023-release-nutrients-carbon-and-ocean-circulation) (new global nutrient and carbon profiles), ocean monitoring indicators (the [Iberia Biscay Ireland Ocean Heat Content](https://marine.copernicus.eu/access-data/ocean-monitoring-indicators/iberia-biscay-ireland-ocean-heat-content-anomaly-0-2000m), the [Mediterranean Meridional Overturning Circulation](https://marine.copernicus.eu/access-data/ocean-monitoring-indicators/mediterranean-meridional-overturning-circulation-index) and the [Mediterranean Water Mass Formation](https://marine.copernicus.eu/access-data/ocean-monitoring-indicators/mediterranean-water-mass-formation-rates-reanalysis)), and a series of updates. 
+
+**New platforms and initiatives**
+1. The [Zero Food Waste Coalition](https://zerofoodwastecoalition.org/) was [launched in order to bring consumers, businesses and governments together to advocate for ambitious food waste policy solutions](https://www.worldwildlife.org/press-releases/leading-ngos-launch-coalition-to-advocate-for-food-waste-policy) to halve food waste by 2030 in the US, reduce methane emissions from landfills, improve food access and nutrition security (while 40% of America's food production is wasted, millions of Americans live in hunger) and build more sustainable food systems. 
+
+2. The [OBIS2030 project, which aims to provide a biodiversity data hub made of standardized, quality controlled and managed data to create information tailored to decision makers to help them protect and restore marine ecosystems and life in the ocean](https://www.obis.org/2023/04/19/obis2030-datahub/), has been endorsed by the UN Ocean Decade. OBIS2030 plans to identify and evaluate geographic and taxonomic data gaps, and to identify indicator species and ecosystems and strategies for species distribution modeling.
+
+3. A [new Horizon Europe project, MARCO-BOLO (MARine COastal BiOdiversity Long-term Observations)](https://www.obis.org/2023/04/19/marco-bolo-obis/) aims to improve the acquisition, coordination and delivery of marine, coastal and freshwater biodiversity observations to relevant users and to test new tools, technologies and models to better understand biodiversity decline.
+
+**News and updates about applications**
+1. The Allen Coral Atlas launched an [updated version of its coral bleaching monitoring system](https://allencoralatlas.org/blog/advancements-in-coral-bleaching-monitoring/). Satellite data is used to monitor changes more accurately, by taking into account environmental changes and water signals (interference caused by the presence of water on satellite images or distortions in the signals received caused when water reflects light).
+
+2. The [new cblindplot R-package](https://cran.r-project.org/web/packages/colorBlindness/vignettes/colorBlindness.html) is designed to provide a collection of safe colours for plots, such as heatmaps, charts and maps, to [let colour blind people visualise spatial patterns](https://www.sciencedirect.com/science/article/pii/S1574954123000742?via%3Dihub).
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. [Dave Thau discussed WWF's uses of artificial intelligence and machine learning on the podcast 'Me, Myself, and AI'](https://sloanreview.mit.edu/audio/partnerships-in-ai-drive-conservation-efforts-wwfs-dave-thau/).
+
+2. [Wendy William's book 'The language of butterflies' was discussed in an episode of WWF's Pandas and Prose](https://youtu.be/86vfDhfmDuQ)
+
+3. The 8th seminar on [Artificial intelligence and conservation: decision support](https://vimeo.com/821009031) by WWF
+
+## Agenda for upcoming conferences, webinars and events
+*4 May 2023*, 16:00 - 17:00 CET: [First Q&A session on the Call for Decade Actions](https://us06web.zoom.us/meeting/register/tZAsfuCvqzIiGdBEodENHtTOPMjpuY96jqai#/registration)
+
+*5 May 2023*, 9:00 - 10:00 CET: [Second Q&A session on the Call for Decade Actions](https://us06web.zoom.us/meeting/register/tZArdeuhqD4qGdBN5A91jfFcAeO5bDvAj47n#/registration)
+
+*15 - 17 May 2023*: [Course on Integrated ecosystem services assessment to value and capture the benefits of landscape restoration, nature conservation and sustainable land management](https://www.es-partnership.org/esp-asia-ro-organises-training-on-integrated-ecosystem-services-assessment/#more-15784)
+in Taipei, Taiwan.
+
+*16 May 2023*, 10:00 - 11.30 CET: [Monitoring species for conservation: lessons learned on data collection and use](https://iucnsos.org/register-now-for-our-next-webinar-in-may/), a Zoom seminar by the IUCN
+
+*16 May 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Closing](https://wwfus.zoom.us/webinar/register/WN_nYemyMztQTq_an3cBgblJw), Session 9 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*17 May 2023*, 15:00 - 16:00: [Data use club practical sessions: Name matching and the GBIF taxonomic backbone](https://www.gbif.org/event/42jbz2tRyrjzTF5B8pClKa/data-use-club-practical-sessions-name-matching-and-the-gbif-taxonomic-backbone)
+
+*17 May 2023*, 21:00 - 22:00 CET: [Diversity, equity, and justice in environmental data science](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the first Zoom webinar for the annual Environmental Data Science seminar series
+
+*22 - 25 May 2023*: [Impact of human activities on Marine Functional Connectivity](https://oceandecade.org/news/a-large-international-symposium-dedicated-to-marine-connectivity-research/), in Sesimbra, Portugal. 
+
+*22 - 26 May 2023*: [3rd Open Science Train the trainer bootcamp](https://www.openaire.eu/3rd-open-science-train-the-trainer-bootcamp), an online training by OpenAIRE
+
+*31 May 2023*, 21:00 - 22:00 CET: [Doing the work to unsettle ecology: responsibility and accountability for non-Indigenous ecologists](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the second Zoom webinar for the annual Environmental Data Science seminar series
+
+*13 - 16 June 2023*: [Economic incentives that affect biodiversity conference](https://www.bfn.de/veranstaltungen-ina/economic-incentives-affect-biodiversity-06-2023) on the Isle of Vilm, Germany
+
+*13 - 17 June 2023*: [EcoSummit Building a sustainable and desirable future: adapting to a changing land and sea-scape](https://www.ecosummitcongress.com/) in Gold Coast, Australia. 
+
+*14 June 2023*: [Net zero energy pathways that center conservation and communities](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the third (and last) Zoom webinar for the annual Environmental Data Science seminar series
+
+*15 - 16 June, 2023*: [Embracing the Open Knowledge practices](https://www.earthobservations.org/odok2023.php) in Geneva, Switzerland
+
+*3 - 7 July, 2023*: [Ecosystem services symposium at Ecological Society of Australia](http://esa2023.org.au/) in Darwin, Australia.
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+*25 - 27 September 2023*: The Open Science Fair in Madrid, Spain: [Charting the course: Reimaging Open Science for next generations](https://www.opensciencefair.eu/). Registration opens in spring 2023. 
+
+*10 - 13 October 2023*: [Global Conference on Biodiversity and Monitoring by GEO BON](https://geobon.org/geo-bon-global-conference-monitoring-biodiversity-for-action/) in Montreal, Canada. Registration opens in April, call for abstracts: 10 April - 14 May 2023.
+
+*10 - 12 April 2024*: [The 2024 UN Ocean Decade Conference](https://oceandecade.org/news/barcelona-to-host-2024-un-ocean-decade-conference/) in Barcelona, Spain
+
+
 ### Issue 8
 
 Date: April 18th, 2023
