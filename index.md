@@ -4,6 +4,80 @@ Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
 
+### Issue 10
+
+Data: May 16th, 2023
+
+### News and articles
+**Biodiversity**
+1. On Saturday May 13th it was [World Migratory Bird Day](https://www.worldmigratorybirdday.org/news/2023/press-release-world-migratory-bird-day-2023-highlights-impact-growing-water-crisis), a global campaign that aims to raise awareness of migratory birds and the need for international cooperation to conserve them. This year, [the importance of water for migratory birds and calls to protect water resources and aquatic ecosystems were highlighted](https://whc.unesco.org/en/news/2559).
+
+2. [Combating the illegal trade in big cats - 28 countries come together as part of CITES Big Cats Task Force](https://cites.org/eng/news/combating-the-illegal-trade-in-big-cats-28-countries-come-together-as-part-of-cites-big-cats-task-force_04052023), focusing on big cat species that are of highest concern from a conservation and illegal trade perspective: cheetah, mainland clouded leopard, Sunda clouded leopard, lion, jaguar, leopard, tiger and snow leopard. Big cats are affected by illegal international trade and have been targeted for their furs, teeth, bones and other body parts, as well as for live animal trade. The [outcome from the CITES Big Cats Task Force meeting](https://cites.org/sites/default/files/EST/Big_Cat_Task_Force_Final_outcome_document.pdf) will be presented to the 77th meeting of the CITES Standing Committee in Geneva, Switzerland, in November 2023.
+
+3. A [new interactive website showcasing the latest scientific research on the health of and the benefits provided by four important marine systems, kelp, coral reefs, seagrass meadows and mangroves](https://www.unep.org/interactives/why-blue-ecosystems-matter/) was [launched by the UN Environmental Programme](https://www.unep-wcmc.org/en/news/understanding-how-mangrove-loss-threatens-biodiversity). 
+
+4. [Accessing GBIF-mediated occurrence data to conserve evolutionary distinct and globally endangered (EDGE) species](https://data-blog.gbif.org/post/accessing-occurrence-data-to-conserve-edge-species/) in a exploratory study looking at data availability and species occurrence identification outside existing protected areas for EDGE species in Benin, Ecuador and Vietnam. The majority of EDGE species had data available in GBIF, and the lower percentage of occurrence records available outside protected areas suggest either a sampling bias within protected areas or a concentration of those species within protected areas. 
+
+**Climate**
+1. [UNFF Director Juliette Biao: 'Sustainable forest management critical to undoing centuries of damage'](https://climatechampions.unfccc.int/unff-director-juliette-biao-sustainable-forest-management-critical-to-undoing-centuries-of-damage/). Despite the immense value of forests, as carbon sinks, part of the hydrological cycle, and habitat to 80% of all land-based species, 420 million hectares of forest were lost over the last two decades. Over half of the loss is due to conversion of forest land into cropland and livestock grazing accounts for almost 40%. The key challenge is how to manage the ongoing increase in agricultural production, and improve food security, without reducing overall forest areas.
+
+**Oceans**
+1. [26 Ocean biodiversity and bycatch reduction projects recipients of annual MSC research grants](https://www.msc.org/media-centre/news-opinion/news/2023/05/10/ocean-biodiversity-and-bycatch-reduction-projects-among-recipients-of-annual-msc-research-grants) of nearly $1 million that will better protect the ocean and support sustainable fishing. One project will help the protection of loggerhead sea turtles in the waters around the island of Réunion, where to date more than 400 turtles have been rescued who got accidently injured by fishing.
+
+**News and updates about applications**
+1. MapTiler has been creating a comprehensive mapping ecosystem for businesses, including advanced processing tools like Desktop/Engine, data storage and processing services, QGIS plugins, geocoding and geolocation services, JavaScript libraries, map styling tools and more. Now they created their own software development kit, and [provide a comprehensive explanation and tutorial](https://www.maptiler.com/news/2023/05/maptiler-sdk-javascript-maps-on-steroids/). 
+
+**Indices and indicators**
+1. [The World Development Indicators, compiled from officially-recognised international sources, has been updated](https://datacatalog.worldbank.org/search/dataset/0037712). It presents the most current and accurate global development data available, and includes national, regional and global estimates. 
+
+**FAIR and CARE principles**
+1. [Zenodo celebrated its 10th anniversary](https://www.openaire.eu/zenodo-celebrating-our-10th-anniversary). It currently supports more than 300,000 researchers in more than 7500 research organisations in 153 countries, and is a core enabler of open science practice by providing trusted long-term storage. 
+
+2. [What is responsible knowledge exchange, engagement and impact?](https://blogs.lse.ac.uk/impactofsocialsciences/2023/05/03/what-is-responsible-knowledge-exchange-engagement-and-impact/) A framework was developed to understand and develop responsible knowledge exchange, engagement and impact, including: 1. integrity and ethics, by being attentive to whether there is sufficient formal or informal reflection and scrutiny of ethical issues in setting up, conducting and drawing benefits from projects, 2. equity, diversity and inclusion, such as the need for greater focus and scrutiny of the power asymmetries and barriers, 3. sustainability and reciprocity, 4. contextual sensitivity across different cultures and across experiential contexts, 5. sharing and openness, for example regarding the protection of the confidentiality of participants and preserving relationships of trust, and 6. support and recognition. These ideas will be developed into workshops, publications, resources and a follow-up project, and [ideas and collaborations are welcomed](https://www.education.ox.ac.uk/people/alis-oancea/).
+
+3. [Does generative AI contribute to more culturally inclusive higher education and research?](https://blogs.lse.ac.uk/impactofsocialsciences/2023/05/04/bridge-or-barrier-does-generative-ai-contribute-to-more-culturally-inclusive-higher-education-and-research/) Chat GPT is already a good translator across various languages, which holds promise for intercultural communication, as it might lower the publishing barrier for early researchers with lower levels of English proficiency. 
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. The [first FAQ Information Session](https://www.youtube.com/watch?v=Rag7muAm_UQ) and the [second FAQ Information Session](https://www.youtube.com/watch?v=DbPd884Prcs) by OceanDecade.
+
+## Agenda for upcoming conferences, webinars and events
+*16 May 2023*, 10:00 - 11.30 CET: [Monitoring species for conservation: lessons learned on data collection and use](https://iucnsos.org/register-now-for-our-next-webinar-in-may/), a Zoom seminar by the IUCN
+
+*16 May 2023*, 17:00 - 18:00 CET: [Artificial Intelligence and Conservation: Closing](https://wwfus.zoom.us/webinar/register/WN_nYemyMztQTq_an3cBgblJw), Session 9 of the Fuller Seminar Series on Artificial Intelligence and Conservation
+
+*17 May 2023*, 13:00 - 14:00: [Urban resilience in the context of food security](https://www.sparkblue.org/event/webinar-mcr2030-urban-resilience-in-the-context-of-food-security), the third webinar of the Building Resilience Urban Systems Webinar Series, organised by UNDRR, UNDP, WHO, FAO and UN-Habitat
+
+*17 May 2023*, 15:00 - 16:00: [Data use club practical sessions: Name matching and the GBIF taxonomic backbone](https://www.gbif.org/event/42jbz2tRyrjzTF5B8pClKa/data-use-club-practical-sessions-name-matching-and-the-gbif-taxonomic-backbone)
+
+*17 May 2023*, 21:00 - 22:00 CET: [Diversity, equity, and justice in environmental data science](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the first Zoom webinar for the annual Environmental Data Science seminar series
+
+*22 - 25 May 2023*: [Impact of human activities on Marine Functional Connectivity](https://oceandecade.org/news/a-large-international-symposium-dedicated-to-marine-connectivity-research/), in Sesimbra, Portugal. 
+
+*22 - 26 May 2023*: [3rd Open Science Train the trainer bootcamp](https://www.openaire.eu/3rd-open-science-train-the-trainer-bootcamp), an online training by OpenAIRE
+
+*31 May 2023*, 21:00 - 22:00 CET: [Doing the work to unsettle ecology: responsibility and accountability for non-Indigenous ecologists](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the second Zoom webinar for the annual Environmental Data Science seminar series
+
+*13 - 16 June 2023*: [Economic incentives that affect biodiversity conference](https://www.bfn.de/veranstaltungen-ina/economic-incentives-affect-biodiversity-06-2023) on the Isle of Vilm, Germany
+
+*13 - 17 June 2023*: [EcoSummit Building a sustainable and desirable future: adapting to a changing land and sea-scape](https://www.ecosummitcongress.com/) in Gold Coast, Australia. 
+
+*14 June 2023*: [Net zero energy pathways that center conservation and communities](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the third (and last) Zoom webinar for the annual Environmental Data Science seminar series
+
+*15 - 16 June, 2023*: [Embracing the Open Knowledge practices](https://www.earthobservations.org/odok2023.php) in Geneva, Switzerland
+
+*3 - 7 July, 2023*: [Ecosystem services symposium at Ecological Society of Australia](http://esa2023.org.au/) in Darwin, Australia.
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+*25 - 27 September 2023*: The Open Science Fair in Madrid, Spain: [Charting the course: Reimaging Open Science for next generations](https://www.opensciencefair.eu/). Registration opens in spring 2023. 
+
+*10 - 13 October 2023*: [Global Conference on Biodiversity and Monitoring by GEO BON](https://geobon.org/geo-bon-global-conference-monitoring-biodiversity-for-action/) in Montreal, Canada. Registration opens in April, call for abstracts: 10 April - 14 May 2023.
+
+*10 - 12 April 2024*: [The 2024 UN Ocean Decade Conference](https://oceandecade.org/news/barcelona-to-host-2024-un-ocean-decade-conference/) in Barcelona, Spain
+
+
 ### Issue 9
 
 Date: May 3rd, 2023
