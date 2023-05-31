@@ -4,6 +4,94 @@ Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
 
+### Issue 11
+
+Date: May 30th, 2023
+
+### News and articles
+**Biodiversity**
+1. On the 22nd of May it was the [international day for Biological Diversity](https://www.cbd.int/idb/). The theme this year was 'From agreement to action: build back biodiversity', and it called on communities at all scales to step up and show their commitment to moving from the agreement of new targets for nature to action, so that these commitments can be realised. [CITES sent its congratulations for the historical agreement on the Global Biodiversity Framework](https://www.youtube.com/watch?v=9V5dq_R9vB0). The director-general of [UNESCO addressed the urgency of tackling the challenge of preserving nature and its living fabric](https://whc.unesco.org/en/news/2565), as she points out that there are barely two years left to limit global warming to 1.5°C by the end of the century. Failure to do so would be a failure to preserve the habitability of our world and the diversity of species that inhabit it. 
+
+2. On Biodiversity Day 2023 the [vital links between biodiversity and global trade and how both impact the resilience and well-being of communities around the world](https://www.unep-wcmc.org/en/news/reflecting-on-the-crucial-co-dependance-of-biodiversity-and-international-trade) were explored. About 30 percent of threats to species globally are driven by international trade, and nearly 70 percent of tropical deforestation is due to commercial agriculture, from which most of the products are traded internationally. Although trade in natural and agricultural goods is a key driver of economic growth, it can also result in the depletion of wild animal and plant populations. For example, the palm oil industry has positively contributed to smallholders' wellbeing and financial security, but the commercial plantations in Southeast Asia, Latin America and Africa have resulted in land degradation, affecting other crops and wild species. The loss of biodiversity also exacerbates the effects of climate change, as deforestation releases greenhouse gasses and reduces the environment's ability to buffer and recover from extreme weather events.
+
+3. Also on Biodiversity Day, the [National Biodiversity Strategies and Action Plans Forum 2.0](https://www.learningfornature.org/en/nbsap-forum/elearning/) was [launched](https://www.unep-wcmc.org/en/news/nbsap-forum-2-0-launches-to-help-nations-meet-2030-targets-for-nature), an online platform for biodiversity experts working on national efforts towards the latest internationally agreed targets for nature. Via the Forum 2.0, UNEP-WCMC provides countries with technical support, learning and guidance materials to help them understand and incorporate new targets, develop clear financing plans for implementation and prepare for national monitoring.
+
+4. [WWF report highlights 380 new species discoveries in the Greater Mekon region](https://asiapacific.panda.org/our_work/wildlife/new_species_discoveries/new_species_discoveries_2021_2022/), Southeast Asia, in 2021 and 2022. Many of these new (to science) species are under threat of extinction, and [WWF is calling for an increase of protection for these species and their habitats](https://www.worldwildlife.org/press-releases/wwf-report-highlights-380-new-species-discoveries-in-the-greater-mekong-region). 
+
+5. Grasslands are essential to livelihoods and food security, and critical for biodiversity and nature, holding approximately one third of global terrestrial carbon stocks and providing critical resilience in the face of climate change. However, more than 70% of America's prairies have been destroyed. A [new brief from WWF](https://www.worldwildlife.org/publications/saving-our-grasslands-why-they-matter-why-we-are-losing-them-and-how-we-can-save-them) details [policy actions](https://www.worldwildlife.org/press-releases/wwf-outlines-policy-actions-to-save-grasslands) the US government must take to conserve grassland prairie habitats.
+
+6. [UNEP-WCMC welcomed the launch of new private sector guidance on setting targets for nature](https://www.unep-wcmc.org/en/news/unep-wcmc-welcomes-launch-of-nature-targets-and-guidance-for-businesses), released by a major global consortium of conservation and development organisations and finance and sustainability experts, called [the Science Based Targets Network](https://sciencebasedtargetsnetwork.org/). The new targets expand the existing Science Based Targets for climate, and address impacts on ecosystems through reducing conversion and land occupation, encouraging landscape level engagement and tackling water consumption and pollution. 
+
+7. The UK's largest insurance company, Aviva, demonstrates a [strong commitment to address environmental issues, particularly deforestation and biodiversity loss with a £38m to restore lost temperate rainforests in the UK](https://climatechampions.unfccc.int/avivas-biodiversity-efforts-continue-with-38m-pledge-to-restore-lost-uk-rainforests/), by planting a combination of native tree species and supporting the Woodland Carbon Scheme, which aims to deliver carbon removal, boost air quality and improve biodiversity through woodland creation and peat restoration. 
+
+**Climate**
+1. [Navigating the complex world of carbon markets: the path to high-quality credits for ecosystem restoration](https://www.unep-wcmc.org/en/news/navigating-the-complex-world-of-carbon-markets-the-path-to-high-quality-credits-for-ecosystem-restoration). The voluntary carbon market enables private actors to finance greenhouse gas removal or abatement activities outside regulated or mandatory carbon pricing instruments, and facilitates the generation and trading of carbon credits and offsetting of carbon emissions. Its increased popularity led to increased scrutiny and calls for transparency, to ensure that genuine contributions to climate change mitigation are being delivered.
+
+2. An international group of fourteen experts from different backgrounds are going [to prepare a report building the evidence base for how action tackling both the climate emergency and sustainable development challenges synergistically can be a win-win solution, maximizing impact](https://sdgs.un.org/blog/expert-group-prepare-report-analysing-climate-and-sdg-synergies-aiming-maximize-action-impact).
+
+3. [Major companies push for a net zero nature-positive world](https://climatechampions.unfccc.int/redefining-corporate-responsibility-major-companies-push-for-a-net-zero-nature-positive-world/) by recognising the importance of mitigating their own environmental impact, advocating for systemic change and inspiring others to follow suit. 
+
+**Oceans**
+1. California has one of the most extensive networks of Marine Protected Areas in the world. The important question now is: is it working? NCEAS (National Center for Ecological Analysis and Synthesis) is leading a [ten-year review of California's MPA network](https://www.nceas.ucsb.edu/news/MPA-decadal-review), which is also addressing the [legacy of exclusion of Indigenous perspectives and priorities](https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=207753&inline) as well as the [Nature Futures Framework](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10146), which is designed to emphasize positive human-nature relationships.  
+
+2. [Tropical cyclones: why we must observe the ocean to better protect people on land](https://www.goosocean.org/index.php?option=com_content&view=article&id=454:tropical-cyclones-why-we-must-observe-the-ocean-to-better-protect-people-on-land&catid=13&Itemid=125). In 2011 Hurricane Irene was supposed to be a devastating storm, but fizzled out. In 2012, when the alerts about Hurricane Sandy came up, it was very difficult to convince people of the powerfulness of the storm. Underwater vehicles collecting ocean observations were deployed during both these events. Since 2018, the data collected from these underwater vehicles is included into hurricane forecast models, contributing to timely and more accurate warnings. 
+
+3. The Fisherman Weather Field School, a project under the UN Ocean Decade Observing Together programme, helps fishermen to use ocean information to protect themselves and save lives in their communities by [bridging the gap between ocean data and users in local fishing communities, improving ocean literacy and enabling fishers to use ocean and weather information](https://www.goosocean.org/index.php?option=com_content&view=article&id=455:ocean-information-is-saving-lives-in-indonesian-coastal-communities&catid=13&Itemid=125) in their daily activities. 
+
+4. Sargassum, a type of free-floating seaweed typically found in the Sargasso Sea, has caused significant ecological and economic problems in recent years due to its rapid growth and spread. Changes in ocean currents have driven the seaweed to new areas, and the increase in dissolved carbon dioxide levels, an influx of nutrients from the Amazon and Congo Rivers and strong converging winds leading to exposure to high sunlight are possibly promoting their growth. Large accumulations of sargassum have been increasingly causing environmental and socio-economic problems in recent years, particularly along the Caribbean and West African coasts, as dense mats of seaweed smother coral reefs and seagrass beds, depriving them of sunlight and oxygen, which in turn declines marine life, such as fish, crustaceans and other organisms that rely on these habitats for food and shelter. The seaweed entangles fishing gear and boats and hinder the nesting of sea turtles. Additionally, thick layers of decaying seaweed release foul odours and produce hydrogen sulphide gas, which can be harmful to humans and wildlife, and deters tourists. The [Sargassum Operational Detection Algorithms (SODA) project, aims to monitor and track sargassum](https://marine.copernicus.eu/news/sargassum-invasion-combating-seaweed-crisis-copernicus-marine-data). Satellite imagery, provided by Copernicus, will be used for SODA, with the end goal to provide reliable and accurate data to stakeholders, so that informed decisions for sargassum management and mitigation efforts can be made.
+
+**New platforms and initiatives**
+1. The [Zero Food Waste Coalition](https://zerofoodwastecoalition.org/) released [Achieving Zero Food Waste: A State Policy Toolkit](https://zerofoodwastecoalition.org/state-toolkit/), highlighting [opportunities for state actors to accelerate their leadership on food waste reduction policy](https://www.worldwildlife.org/press-releases/zero-food-waste-coalition-highlights-state-policy-opportunities-to-reduce-food-waste). 
+
+2. [WWF is calling for a global ban on harmful and unnecessary single-use plastic items](https://www.worldwildlife.org/press-releases/wwf-calls-for-a-global-ban-on-harmful-and-unnecessary-single-use-plastic-items-such-as-vapes-cutlery-and-cosmetic-microplastics-ahead-of-key-un-plastic-pollution-treaty-talks), such as vapes, cutlery and cosmetic microplastics among others, ahead of the UN plastic pollution treaty talks taking place in Paris from May 29th to June 2nd 2023. 
+
+3. Modeled after the success of the Ocean Health Index, the [Western Wildlife Resilience Index](https://www.nceas.ucsb.edu/news/announcing-WWRI), the first holistic quantitative metric of wildfire resilience, was developed, to enhance decision making and improve the management and well-being of ecosystems and communities.
+
+4. Planet officially launched their [Startup Program](https://www.planet.com/startup/) which enables [early-stage startups to build novel applications powered by Planet's data](https://www.planet.com/startup/), by offering discounted access to Planet data for R&D, product development, and prototyping purposes to help make global change visible, accessible and actionable. 
+
+5. The 2022 SDG Progress Report suggested that progress toward many of the targets that underpin the SDGs has stalled or even gone backwards. One of the critical barriers has been that the level of investment and financial support for the SDGs has not been sufficient, the bap between required and delivered investment was estimated to approximately USD 3.9 trillion. [The private finance sector is increasingly interested in sustainability issues and the SDGs](https://sdg-action.org/learning-from-climate-finance/): over 4,500 asset owners and asset managers are signatories to the Principles for Responsible Investment and over 300 banks (representing almost half of the global banking industry) are signatories to the Principles for Responsible Banking, thereby committing to integrate environmental, social and governance (ESG) factors into their investment and lending practices, and to engage with companies to encourage better management of these ESG factors. Governments need to focus on addressing the barriers to capital investment in emerging economies and to establish and implement SDG delivery plans that encourage meaningful action on the SDGs across economic sectors. [Blended finance involves the targeted use of concessional financing to attract new sources of investment in projects that may otherwise be perceived as too risky for private finance](https://sdg-action.org/unlocking-the-potential-of-blended-finance/), as it improves the [risk-return characteristics of an investment by pooling capital with different financial and non-financial return expectations](https://climatechampions.unfccc.int/what-it-takes-to-attract-private-investment-to-climate-adaptation/) within an investment structure. The Global Environment Facility (GEF) provides a useful guide to the impact of blended finance and how its potential can be further unlocked. In addition to climate change mitigation, the GEF has applied blended finance to address and accelerate nature-based solutions related to land, water, biodiversity and resilience.   
+
+**News and updates about applications**
+1. [OpenMapTiles 3.14: New OpenStreetMap Style shows all the features](https://www.maptiler.com/news/2023/05/openmaptiles-3-14-new-osm-openmaptiles-style-shows-all-the-features/): New OpenStreetMap inspired map style, Natural Earth 5 data in basemaps, improved land use and land cover polygons information and PostgreSQL 14 compatibility.
+
+**FAIR and CARE principles**
+1. A new paper called '[Indigenous Peoples' rights in data: a contribution toward Indigenous research sovereignty](https://doi.org/10.3389/frma.2023.1173805)' by Maui Hudson et al. has been published in Frontiers in Research Metrics and Analytics.
+
+2. Plazi and the South African National Biodiversity Institute (SANBI) [trained local scientists on how to facilitate the access and reuse of scholarly published taxonomic data](http://plazi.org/posts/2023/05/training-s-african-scientists/) by themselves as well as the scientific community at large. 
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. The [ninth and last Fuller seminar on artificial intelligence and conservation by WWF](https://vimeo.com/827358215)
+
+2. [Name matching and the GBIF taxonomic backbone](https://vimeo.com/828931533?embedded=true&source=vimeo_logo&owner=8757851)
+
+3. [Advancing inclusion in the ecological sciences: insights from a decade of research and practice](https://www.youtube.com/watch?v=VjcHZckTk7k) by Sara Bombaci
+
+## Agenda for upcoming conferences, webinars and events
+*31 May 2023*, 21:00 - 22:00 CET: [Doing the work to unsettle ecology: responsibility and accountability for non-Indigenous ecologists](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the second Zoom webinar for the annual Environmental Data Science seminar series
+
+*13 - 16 June 2023*: [Economic incentives that affect biodiversity conference](https://www.bfn.de/veranstaltungen-ina/economic-incentives-affect-biodiversity-06-2023) on the Isle of Vilm, Germany
+
+*13 - 17 June 2023*: [EcoSummit Building a sustainable and desirable future: adapting to a changing land and sea-scape](https://www.ecosummitcongress.com/) in Gold Coast, Australia. 
+
+*14 June 2023*: [Net zero energy pathways that center conservation and communities](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the third (and last) Zoom webinar for the annual Environmental Data Science seminar series
+
+*15 - 16 June, 2023*: [Embracing the Open Knowledge practices](https://www.earthobservations.org/odok2023.php) in Geneva, Switzerland
+
+*3 - 7 July, 2023*: [Ecosystem services symposium at Ecological Society of Australia](http://esa2023.org.au/) in Darwin, Australia.
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+*25 - 27 September 2023*: The Open Science Fair in Madrid, Spain: [Charting the course: Reimaging Open Science for next generations](https://www.opensciencefair.eu/). Registration opens in spring 2023. 
+
+*10 - 13 October 2023*: [Global Conference on Biodiversity and Monitoring by GEO BON](https://geobon.org/geo-bon-global-conference-monitoring-biodiversity-for-action/) in Montreal, Canada. Registration opens in April, call for abstracts: 10 April - 14 May 2023.
+
+*17 October 2023*: [Thomas Lovejoy Science for Nature Symposium](https://www.worldwildlife.org/stories/announcing-the-thomas-lovejoy-science-for-nature-symposium), in Washington D.C. and online.
+
+*10 - 12 April 2024*: [The 2024 UN Ocean Decade Conference](https://oceandecade.org/news/barcelona-to-host-2024-un-ocean-decade-conference/) in Barcelona, Spain
+
+
 ### Issue 10
 
 Data: May 16th, 2023
