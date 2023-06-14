@@ -4,6 +4,74 @@ Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
 
+### Issue 12
+
+Date: June 14th, 2023
+
+### News and articles
+**Biodiversity**
+1. [CITES setting the agenda for global  conservation and trade regulation in over 34,000 plant species](https://cites.org/eng/node/136738), of which 800 tree species. [CITES and Forests](https://cites.org/eng/topics/flora/cites-and-forests) aims to strengthen partnerships with relevant organisations, mobilising resources for the timely implementation of mandates relevant to forest species and developing new flagship initiatives devoted to improving the sustainability, legality and traceability of the international trade of tree species. 
+
+2. The [updated practical guide on publishing dna-derived data through biodiversity data platforms](https://www.gbif.org/news/2VXK7tpe7wM9J9lghWmxQh/updated-guide-adds-details-on-how-to-publish-dna-derived-data-on-marine-life) includes recommendations for sharing occurrence records based on dna-based studies of the world's oceans and seas.
+
+**Climate**
+1. The Climate Champions highlight several case studies that exhibit how diversity companies, from fashion retailers to technology giants, [integrate external policy and engagement into their core strategies to accelerate the transition](https://climatechampions.unfccc.int/size-doesnt-matter-how-industries-of-all-scales-use-persuade-to-drive-towards-net-zero/) to halve global emission by 2030 and achieve net zero by 2050. 
+
+**Oceans**
+1. On the 8th of June, World Oceans Day, the [Ocean Decade announced the official endorsement of 47 new Decade Actions, strengthening the momentum for ocean knowledge-based solutions](https://oceandecade.org/news/a-new-wave-of-transformative-decade-actions-boosts-the-ocean-decade-global-movement-on-the-road-to-2030/), addressing priority ocean science  issues such as community resilience to ocean hazards, the creation of a digital representation of the ocean, sustainable ocean economy, ocean literacy and capacity development. There were also a number of events held to raise [awareness to the issues and risks of deoxygenation across the ocean](https://oceandecade.org/news/partner-news/highlighting-ocean-deoxygenation-on-world-oceans-day/). The increase of water bodies with very little or no oxygen, which are called dead zones, have a direct impact on the health of aquatic life and coastal communities that rely on the ocean for food and income. 
+
+2. [Ending overfishing could help tackle nutrient deficiencies for millions worldwide](https://www.msc.org/media-centre/news-opinion/news/2023/06/08/ending-overfishing-could-help-tackle-nutrient-deficiencies-for-millions-worldwide). The ocean provides protein for over 3 billion people worldwide. The UN projects that 96 million tonnes of catch can be produced by 2030, but that another 16 million tonnes could be made available if there was no overfishing. This increased catch could reduce iron deficiencies in 4 million people and vitamin B12 deficiencies in 18 million people as well as provide enough Omega-3 fatty acids for 38 million people, when not only the amount of seafood will be increased, but also the availability for the most under-nourished populations will be improved.
+
+**New platforms and initiatives**
+1. [UN Plastic Pollution Treaty 'one step closer' to being realised](https://www.worldwildlife.org/press-releases/un-plastic-pollution-treaty-one-step-closer-to-being-realized-as-negotiators-in-paris-agree-to-start-developing-a-draft-treaty-with-global-rules-to-curb-plastic-pollution). Progress has been made in the talks and agreement by states to develop a first iteration of the treaty text (a 'zero draft') ahead of the next round of negotiations in November in Kenya. [Many solutions have been proposed to address plastic pollution](https://www.unep-wcmc.org/en/news/world-environment-day-moving-towards-a-plastic-free-world), such as scaling up reusable products and making them more profitable, making recycling plastics more profitable by improving recycling and finding materials to replace plastics and ensuring these are better alternatives to plastics. On the 5th of June, [World Environment Day](https://www.un.org/en/observances/environment-day), the role of the environment in our lives and the need for a shift in our lifestyle to accommodate sustainable living in harmony with nature, in a plastic-free world, was recognised.
+
+2. The [action plan for a sustainable planet in the digital age](https://www.sparkblue.org/codesactionplanlaunch) has been launched, offering a vision on three systematic shifts (1. align vision values objectives, 2. sustainable digitalisation and 3. digitalisation for sustainability)with a set of 9 global Impact Initiatives to spark immediate collective action and multi-stakeholder collaboration.
+
+3. All human activity at sea will be revealed through the Global Fishing Watch, a [new initiative to apply AI and satellite data to help end illegal fishing](https://globalfishingwatch.org/press-release/global-fishing-watch-to-reveal-all-human-activity-at-sea-with-investment-through-the-audacious-project/) and safeguard the ocean, by combining GPS data and using machine learning to publicly display the activity of all industrial fishing vessels and small-scale fishing boats and cargo ships, as well as aquaculture pens, wind farms and oil rigs.
+
+4. The emergence of new Earth observation data has radically improved the ability to map tree cover, while automated methods and lower computing costs have accelerated the production of data sets to inform our understanding of the global distribution of trees. [Global Forest Watch hosts three tree cover data sets: Tree Canopy Cover, Tree Cover Height and Tropical Tree Cover](https://www.globalforestwatch.org/blog/data-and-research/tree-cover-data-comparison/), which vary in geographic and temporal coverage, resolution, the definition of tree cover and other characteristics to make each best suited for different use cases.
+
+5. A [new book review on the book 'How to engage policy makers with your research: the art of informing and impacting policy'](https://blogs.lse.ac.uk/impactofsocialsciences/2023/06/06/book-review-how-to-engage-policy-makers-with-your-research-the-art-of-informing-and-impacting-policy-edited-by-syahirah-abdul-rahman-et-al/) was published by the [LSE Review of Books](https://blogs.lse.ac.uk/lsereviewofbooks/), which was found to be a "valuable resource for academic researchers and policy makers, and the activities and debates that it documents deserve greater coverage in academic journals and mainstream media". 
+
+**News and updates about applications**
+1. [MapTiler Engine 2.1 enables the protection of maps with fully customisable watermarks](https://www.maptiler.com/news/2023/05/protect-your-maps-with-customizable-watermarks/), and provides accurate information about remaining and elapsed time while it converts data.
+
+**FAIR and CARE principles**
+1. [OpenAIRE Guidelines: paving the way to interoperability, FAIRness and EOSC](https://www.openaire.eu/openaire-guidelines-paving-the-way-to-interoperability-fairness-and-eosc) ([European Open Science Cloud](https://marketplace.eosc-portal.eu/)). By complying to the Guidelines, research products are more interconnected and interoperable and sufficiently FAIR. 
+
+2. [Why is CC0 a great choice for open data?](https://blog.datadryad.org/2023/05/30/good-data-practices-removing-barriers-to-data-reuse-with-cc0-licensing/) CC0 should be regarded as a waiver of the owner's copyright instead of a licence, as it dedicates a work to the public domain without restrictions for reuse, modification, or redistribution. 
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. [Doing the work to unsettle ecology: responsibility and accountability for non-Indigenous ecologists](https://www.youtube.com/watch?v=iWB56crPeQk) by Sara Cannon as part of the 2023 NCEAS DEIJ seminar series
+
+2. [Urbanization, biodiversity & mental health](https://www.linkedin.com/video/live/urn:li:ugcPost:7071463407098470401/), a discussion held by the Dynamic Coalition on Environment.
+
+## Agenda for upcoming conferences, webinars and events
+*13 - 16 June 2023*: [Economic incentives that affect biodiversity conference](https://www.bfn.de/veranstaltungen-ina/economic-incentives-affect-biodiversity-06-2023) on the Isle of Vilm, Germany
+
+*13 - 17 June 2023*: [EcoSummit Building a sustainable and desirable future: adapting to a changing land and sea-scape](https://www.ecosummitcongress.com/) in Gold Coast, Australia. 
+
+*14 June 2023*: [Net zero energy pathways that center conservation and communities](https://ucsb.zoom.us/webinar/register/WN_Zz4t1LVkQd6LUdkr1MkIdw), the third (and last) Zoom webinar for the annual Environmental Data Science seminar series
+
+*15 - 16 June, 2023*: [Embracing the Open Knowledge practices](https://www.earthobservations.org/odok2023.php) in Geneva, Switzerland
+
+*3 - 7 July, 2023*: [Ecosystem services symposium at Ecological Society of Australia](http://esa2023.org.au/) in Darwin, Australia.
+
+*6 - 7 July, 2023*: [AI for Good Global Summit](https://aiforgood.itu.int/summit23/registration/) in Geneva, Switzerland or online (in person tickets and online tickets are free). Prior to the summit there are [various machine learning workshops on the 4th and 5th of July](https://aiforgood.itu.int/event/programme/#ml-workshops). 
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+*25 - 27 September 2023*: The Open Science Fair in Madrid, Spain: [Charting the course: Reimaging Open Science for next generations](https://www.opensciencefair.eu/). Registration opens in spring 2023. 
+
+*10 - 13 October 2023*: [Global Conference on Biodiversity and Monitoring by GEO BON](https://geobon.org/geo-bon-global-conference-monitoring-biodiversity-for-action/) in Montreal, Canada. Registration opens in April, call for abstracts: 10 April - 14 May 2023.
+
+*17 October 2023*: [Thomas Lovejoy Science for Nature Symposium](https://www.worldwildlife.org/stories/announcing-the-thomas-lovejoy-science-for-nature-symposium), in Washington D.C. and online.
+
+*10 - 12 April 2024*: [The 2024 UN Ocean Decade Conference](https://oceandecade.org/news/barcelona-to-host-2024-un-ocean-decade-conference/) in Barcelona, Spain
+
+
 ### Issue 11
 
 Date: May 30th, 2023
