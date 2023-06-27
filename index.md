@@ -6,7 +6,7 @@ Curated by Renske
 
 ### Issue 13
 
-Date: June 28th, 2023
+Date: June 27th, 2023
 
 ### News and articles
 **Biodiversity**
