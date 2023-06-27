@@ -4,6 +4,82 @@ Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
 
+### Issue 13
+
+Date: June 28th, 2023
+
+### News and articles
+**Biodiversity**
+1. [Third calls for proposals for the Fondation Segré Conservation Action Fund](https://iucnsos.org/third-calls-for-proposals-for-the-fondation-segre-conservation-action-fund-now-open-apply-now/) specifically supports the conservation of threatened freshwater decapods, freshwater fishes, freshwater molluscs and all odonates. There are 2 calls for proposals: conservation action grants for Civil Society Organisations engaged in the conservation of threatened species, and research support grants for young and early scientists, for a maximum duration of 12 months. 
+
+2. Between 1975 and 1989, 96% of the internationally traded animals were taken from the wild. Now, 50 years after signing the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), the majority of international trade in animals are captive-bred. The [32nd Meeting fo the CITES Animals Committee took place from 19 - 23 June, 2023, in Geneva, Switzerland, where the trade in captive-bred animals was discussed](https://cites.org/eng/news/Review-of-international-trade-in-wild-and-captive-bred-animals-future-zoonotic-disease-emergence-among-discussion-topics-for-upcoming-CITES-meeting), and new species, including sharks and rays, West African vultures, pangolins and Saiga antelopes were reviewed under the [Review of Significant Trade Resolution](https://cites.org/eng/imp/sigtradereview) and the [Captive Breeding Resolution](https://cites.org/eng/prog/captive-breeding). 
+
+3. The International Consortium on Combating Wildlife Crime [launched](https://cites.org/eng/news/The-International-Consortium-on-Combating-Wildlife-Crime-launches-Biannual-Report-2021-2022) their [biannual report 2021 - 2022](https://iccwc-wildlifecrime.org/sites/default/files/files/2023-06/ICCWC%20Biannual%20Report%202021-2022.pdf), highlighting the successes and achievements in combating wildlife and forest crime. 
+
+4. The [26th Meeting of the CITES Plants Committee was held in Geneva, Switzerland, from 5 - 9 June 2023, where sustainable and legal trade in plant and other forest species were discussed](https://cites.org/eng/news/from-rosewood-tree-species-to-edible-orchids-CITES-Plants-Committee-sets-the-tone-for-the-next-two-years-of-sustainable-and-legal-trade-in-plant-and-other-forest-species) through a range of topics, including the identification of timber in trade, traceability of musical instruments and sustainability findings of rosewoods and tuberous orchids. 
+
+5. The [first economic valuation of GBIF's network, infrastructure and services](https://www2.deloitte.com/au/en/pages/economics/articles/total-economic-value-open-access-database-living-world.html) showed that every €1 invested in the Global Biodiversity Information Facility provides €3 in direct benefits to users and up to €12 in societal benefits. The annual value of GBIF to users is estimated to be €48 million on a total investment of €15 million, while indirect benefits to society may reach €185 million per year. This study critically expresses that the [benefits that are generated are not simply for researchers and policymakers, but for society at large](https://www.gbif.org/news/5WZThcL928vmPnSvrGhZfE/report-reveals-return-on-investments-in-gbif), while contributing to the solutions urgently needed to address biodiversity loss, climate change and other pressing environmental issues. 
+
+**Climate**
+1. [Banking on a better world: the finance sector's role in climate advocacy](https://climatechampions.unfccc.int/banking-on-a-better-world-the-finance-sectors-role-in-climate-advocacy/?_gl=1*1sk4j2e*_ga*Njc4MzQ2MjA3LjE2NzAyNTIxMDE.*_ga_7ZZWT14N79*MTY4Nzc4MTk5Ny4xLjAuMTY4Nzc4MjUwNC4wLjAuMA..), an exploration of how key members are establishing concrete climate action policies and are working to influence and reform the wider financial landscape.
+
+2. [Healthcare's role in influencing ambitious climate action](https://climatechampions.unfccc.int/healing-the-planet-healthcares-role-in-influencing-ambitious-climate-action/?_gl=1*1wnf664*_ga*Njc4MzQ2MjA3LjE2NzAyNTIxMDE.*_ga_7ZZWT14N79*MTY4Nzc4MTk5Ny4xLjEuMTY4Nzc4MjUwOS4wLjAuMA..), by playing an increasingly vital role in leading the way towards sustainable development, mitigating climate change and shrinking the sector's carbon footprint, while championing robust climate policies. 
+
+3. [How cities and regions across the globe are leading the charge in climate action](https://climatechampions.unfccc.int/from-mannheim-to-montreal-how-cities-and-regions-across-the-globe-are-leading-the-charge-in-climate-action/?_gl=1*ofre2t*_ga*Njc4MzQ2MjA3LjE2NzAyNTIxMDE.*_ga_7ZZWT14N79*MTY4Nzc4MTk5Ny4xLjEuMTY4Nzc4MjUxMy4wLjAuMA..): shifting towards sustainable practices, by monitoring and reducing emissions (Antioquia, Colombia), implementing carbon taxes (British Columbia, Canada), promoting regenerative ranching (Peru) and advancing sustainable practices in the hospitality industry (Spain).
+
+4. [How universities are helping the world Race to Zero](https://climatechampions.unfccc.int/learning-to-lead-how-universities-are-helping-the-world-race-to-zero/?_gl=1*l0kucm*_ga*Njc4MzQ2MjA3LjE2NzAyNTIxMDE.*_ga_7ZZWT14N79*MTY4Nzc4MTk5Ny4xLjEuMTY4Nzc4MjUxNS4wLjAuMA..): ranging from developing climate model emulators to influence legislation (University of Leeds, UK), shaping renewable energy policies (Cornell University, USA), and advocating for carbon-neutral commitments (Technológico de Monterrey, Mexico) to leading research on greenhouse gas emissions for shipping (University College London, UK). 
+
+5. [Innovative clean technologies can make energy-intensive industries climate neutral](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/innovative-clean-technologies-can-make-energy-intensive-industries-climate-neutral-2023-06-22_en). The European Commission published a report '[Scaling up innovative technologies for climate neutrality](https://research-and-innovation.ec.europa.eu/document/download/54a61c34-cdbb-49be-aead-7b6bcb17e6e7_en), which analyses 184 demonstrator projects, at different levels of technology readiness and not yet on the market, for climate neutrality in energy-intensive industries. 
+
+**Oceans**
+1. [Governments formally adopt High Seas Treaty, paving the way for greater ocean protection](https://www.worldwildlife.org/press-releases/governments-formally-adopt-high-seas-treaty-paving-the-way-for-greater-ocean-protection). The treaty is aimed at conserving marine life and restraining harmful activities, a key milestone on the path to conserve 30% of the ocean by 2030. 
+
+2. [The Marine Stewardship Council helps McDonald's deliver sustainable fast food](https://www.msc.org/media-centre/news-opinion/news/2023/06/16/msc-helps-mcdonald-s-deliver-sustainable-fast-food). For the first time, fish burgers in China will be carrying the MSC ecolabel, ensuring that the fish comes from fisheries certified to the MSC's world-leading standard for sustainable wild-capture fisheries. 
+
+3. The EU launched a mission to restore the ocean, seas and waters by 2030. A key element of this mission in the development of a new digital ocean knowledge system, known as [the European Digital Twin of the Ocean](https://marine.copernicus.eu/news/how-copernicus-marine-supports-european-digital-twin-ocean), a digital space that provides access to vast amounts of data, advanced models, AI and other tools, to allow the simulation of the properties and behaviours of marine systems, including marine life and impact of human activities.
+
+4. [Two projects and three postdoctoral research fellows were selected](https://www.nceas.ucsb.edu/news/new-horizon-inaugural-awards-gulf-ecosystem-initiative) from the 2023 call for proposals for the [Gulf Ecosystem Initiative](https://www.nceas.ucsb.edu/gulfeco), to support the sustainability of the Gulf of Mexico ecosytem by gaining a better understanding of the factors that influence the health of natural resources in the region. 
+
+5. [Vision 2030: Ocean Decade launches a new global process to set a clear and common ambition for the Ocean Decade challenges](https://oceandecade.org/news/vision-2030-ocean-decade-launches-new-global-ambition-setting-process/) by identifying a common measure of success for each of the Ocean Decade Challenges on the road to 2030 through concrete indicators and methodologies. 
+
+6. [Reef futures: exploring the ecosystem services and potential futures of coral reefs](https://www.unep-wcmc.org/en/news/reef-futures-exploring-the-ecosystem-services-and-potential-futures-of-coral-reefs). Many ecosystem services are at severe risk due to historic and ongoing overexploitation and the threats posed by climate change. The Reef Futures project has explored the delivery of five ecosystem services: biomass production, nutrient cycling, carbon cycling, cultural value and nutrition value, to more effectively plan for the future under different climate scenarios. 
+
+7. Recent estimates suggest that up to one million marine species exist, of which many are yet unknown. [Improving our knowledge and understanding of these species and the ecosystem they rely on with reliable and comparable data is critical for informing management policies that aim to protect and ensure sustainable use of ocean resources](https://www.obis.org/2023/06/14/aslo-marine-invertebrate/). In a paper that was recently published in Limnology and Oceanography Letters, '[Integrating ocean observations across body-size classes to deliver benthic invertebrate abundance and distribution information](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lol2.10332)', the following recommendations were made: 1. quantify individual body size, 2. identify the well-quantified portions of sampled body-size spectra, 3. take advantage of automated and semi-automated information processing via artificial intelligence and machine learning, 4. apply metadata standards, and 5. make data available through internationally recognized access points such as OBIS.
+
+8. [Sport and science: how the ocean race helps advance ocean and climate knowledge](https://www.goosocean.org/index.php?option=com_content&view=article&id=458:sport-and-science-how-the-ocean-race-helps-advance-ocean-and-climate-knowledge&catid=13&Itemid=125). [The Ocean Race](https://www.theoceanrace.com/en/home) features a fleet of high-performance racing yachts crewed by skilled sailors who embark on a series of legs spanning multiple continents, and is also being acknowledged for its contribution on the global ocean observing efforts. During this edition of the Race, teams have already collected around four million measurements, many from remote parts of the world where data is lacking. 2 participating yachts are equipped with an 'OceanPack' that continuously monitors variables such as CO2, water temperature and oxygen. Two other yachts collect samples for monitoring microplastic pollution, and a fifth team gathers information on ocean biodiversity. All five yachts have an on-board weather station. All of the valuable data collected are openly shared with the Ocean Race's science partners and fed into global databases and through a specially designed [interactive tool](https://theoceanracescience.com/). 
+
+**News and updates about applications**
+1. New alert: [Global tracking of coral bleaching events](https://allencoralatlas.org/blog/new-alert-global-tracking-of-coral-bleaching-events/). The Allen Coral Atlas launched bleaching alerts, emails that allow reef managers, decision makers, scientists, dive operators, environmental journalists and the general public to discover where corals are bleaching in near real-time. 
+
+**Recordings of previously held webinars and online/hybrid conferences**
+1. The third session of the 2023 NCEAS DEIJ seminar series on diversity, equity and justice in environmental data science: [Net zero energy pathways that center conservation and communities](https://www.youtube.com/watch?v=fEw3gwiEPNw) by Dr. Grace Wu.
+
+2. The [human rights-based approach to co-creating knowledge for biodiversity and ecosystem services webinar](https://www.youtube.com/watch?v=2fHot8ruLI4) by the Biodiversity and Ecosystem Services Network.
+
+
+## Agenda for upcoming conferences, webinars and events
+*29 June, 2023*, 13.30 - 15.00 CET: [The state of the art of biodiversity data and ecosystem monitoring](https://t.co/8QD2tWOn9Q). A session by UNEP-WCMC experts during the Land and Carbon Lab Summit (27 - 29 June)
+
+*3 July, 2023*, 14:00 - 15:00 CET: [Machine learning 5G challenge: Building a network digital twin using data from real networks](https://aiforgood.itu.int/event/graph-neural-networking-challenge-2023-building-a-network-digital-twin-using-data-from-real-networks/). This talk will introduce the Graph Neural Networking challenge 2023.
+
+*3 - 7 July, 2023*: [Ecosystem services symposium at Ecological Society of Australia](http://esa2023.org.au/) in Darwin, Australia.
+
+*6 - 7 July, 2023*: [AI for Good Global Summit](https://aiforgood.itu.int/summit23/registration/) in Geneva, Switzerland or online (in person tickets and online tickets are free). Prior to the summit there are [various machine learning workshops on the 4th and 5th of July](https://aiforgood.itu.int/event/programme/#ml-workshops). 
+
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+*25 - 27 September 2023*: The Open Science Fair in Madrid, Spain: [Charting the course: Reimaging Open Science for next generations](https://www.opensciencefair.eu/). Registration opens in spring 2023. 
+
+*10 - 13 October 2023*: [Global Conference on Biodiversity and Monitoring by GEO BON](https://geobon.org/geo-bon-global-conference-monitoring-biodiversity-for-action/) in Montreal, Canada. Registration opens in April, call for abstracts: 10 April - 14 May 2023.
+
+*17 October 2023*: [Thomas Lovejoy Science for Nature Symposium](https://www.worldwildlife.org/stories/announcing-the-thomas-lovejoy-science-for-nature-symposium), in Washington D.C. and online.
+
+*10 - 12 April 2024*: [The 2024 UN Ocean Decade Conference](https://oceandecade.org/news/barcelona-to-host-2024-un-ocean-decade-conference/) in Barcelona, Spain
+
+
+
 ### Issue 12
 
 Date: June 14th, 2023
