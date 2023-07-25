@@ -50,11 +50,11 @@ Date: July 25th, 2023
 
 *24 August, 2023*, 16:00 CET: [Traditional knowledge for financial stability - Focus on biodiversity](https://us02web.zoom.us/webinar/register/WN_FAZR81i5TvCEIEChmXIZVQ#/registration) webinar organised by Sustainable Finance for Biodiversity
 
-*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. 
 
-*25 - 27 September 2023*: The Open Science Fair in Madrid, Spain: [Charting the course: Reimaging Open Science for next generations](https://www.opensciencefair.eu/). Registration opens in spring 2023. 
+*25 - 27 September 2023*: The Open Science Fair in Madrid, Spain: [Charting the course: Reimaging Open Science for next generations](https://www.opensciencefair.eu/). 
 
-*10 - 13 October 2023*: [Global Conference on Biodiversity and Monitoring by GEO BON](https://geobon.org/geo-bon-global-conference-monitoring-biodiversity-for-action/) in Montreal, Canada. Registration opens in April, call for abstracts: 10 April - 14 May 2023.
+*10 - 13 October 2023*: [Global Conference on Biodiversity and Monitoring by GEO BON](https://geobon.org/geo-bon-global-conference-monitoring-biodiversity-for-action/) in Montreal, Canada. 
 
 *17 October 2023*: [Thomas Lovejoy Science for Nature Symposium](https://www.worldwildlife.org/stories/announcing-the-thomas-lovejoy-science-for-nature-symposium), in Washington D.C. and online.
 
