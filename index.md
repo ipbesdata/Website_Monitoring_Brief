@@ -4,6 +4,63 @@ Curated by Renske
 ([renske.gudde\@senckenberg.de](mailto:renske.gudde@senckenberg.de))
 
 
+### Issue 15
+
+Date: July 25th, 2023
+
+### News and articles
+**Biodiversity**
+1. The new EU-funded [MARine Coastal BiOdiversity Long-term Observations (MARCO-BOLO) project](https://marcobolo-project.eu/) aims to [structure, strengthen, and connect European coastal and marine biodiversity observation capabilities and link these to global efforts such as OBIS, in order to better understand and improve how biodiversity is monitored and protected in marine and coastal environments across Europe and beyond](https://www.obis.org/2023/07/19/mbo-survey-call/). They created [a survey with 25 questions (estimated 10 - 12 minutes to fill out) about experiences and challenges with biodiversity data](https://marcobolo-project.eu/cop-survey/) to assess the data and monitoring needs of diverse stakeholders. The survey closes on the 30st of August.
+
+2. A [new study](https://www.nature.com/articles/s41559-023-02115-8) into the safeguarding of wildlife threatened by international trade has revealed that [more than 900 at-risk animal and plant species (about 40% of species identified as likely threatened), including 370 (critically) endangered species, are not covered by global trade protections](https://www.unep-wcmc.org/en/news/more-than-900-at-risk-animal-and-plant-species-not-covered-by-global-trade-protections-new-research-shows).
+
+3. [UNESCO World Heritage Convention and CITES unite to cooperate on conservation and sustainable wildlife trade in species occurring in World Heritage sites](https://cites.org/eng/news/UNESCO-World-Heritage-Convention-and-CITES-unite-to-cooperate-on-conservation-and-sustainable-wildlife-trade-in-species-occurring-in-World-Heritage-sites) in a new effort to ensure the sustainability of trade in species of wild animals and plants occurring in areas of outstanding international importance inscribed on the UNESCO World Heritage List. Up to 1/3 of the remaining elephants, tigers and pandas and at least 1 in 10 great apes, lions and rhinos are found in these sites. Collaboration is essential to ensure the conservation and sustainable use of these species and to address illegal harvesting and associated illegal trade that threatens not only the species involved, but also the outstanding universal value of the sites. 
+
+4. [UNESCO provides crucial support to biodiversity in Africa in emergency situations](https://whc.unesco.org/en/news/2589). The [Rapid Response Facility (RFF)](https://whc.unesco.org/en/rapidresponse/) has quickly mobilised resources to partners on the ground to tackle emergency situations related to civil unrest and conflicts threatening biodiversity, including poaching, illegal logging and deliberate wildfires, massive solid waste accumulation, and the use of snare traps.
+
+5. A recent publication: [Ecosystem services as the silver bullet? A systematic review of how ecosystem services assessments impact biodiversity prioritisation in policy](https://www.sciencedirect.com/science/article/pii/S2589811623000150). Assessing ecosystem services and assigning an economic value to them has been thought of as a silver bullet to shed light on nature's immense value in a deepening environmental crisis, as they were thought to change policy-makers' minds to prioritise biodiversity in their agendas. This [study aims to provide an overview of the achieved policy impacts, enabling and hindering factors as well as lessons learnt](https://www.es-partnership.org/new-paper-impacts-of-ecosystem-services-and-their-assessments-on-policy/), and found that only 8% of the reviewed articles reported policy impacts, 8% assessed the potential enabling and 2% the hindering factors of their research to influence policy. 
+
+**Climate**
+1. Planting the seeds of resilience: [how agroforestry is redefining cocoa farming in Central Africa](https://climatechampions.unfccc.int/planting-the-seeds-of-resilience-how-agroforestry-is-redefining-cocoa-farming-in-central-africa/). A new era of sustainable farming is dawning in the heart of Africa, where farmers have pioneered the landscape-level adoption of agroforestry techniques. A notable outcome of this transformation is visible in cocoa production. Traditionally, cocoa farming is often associated with deforestation and forest degradation. The new approach has increased cocoa production while promoting forest restoration; more than 100 hectares have been cultivated following these sustainable guidelines, offering ecological benefits such as carbon sequestration, soil moisture preservation and pest control.
+
+2. [An international financial system at the service of sustainable development](https://sdg-action.org/an-international-financial-system-at-the-service-of-sustainable-development/). The 2030 Agenda of the Sustainable Development Goals very much incorporates climate, not only through a specific objective (SDG 13: to limit and adapt to climate change), but also through its relevance to the other goals. Yet, the agenda reaches beyond climate for good reason: not everything needed to accomplish it falls under the rubric of climate action or, correspondingly, climate finance. Developed countries' narrow emphasis on climate - and, within it, mitigation more specifically - to the detriment of everything else is reflected most sharply in the financing agendas. The international financial system has become outdated and fragmented, and fails to help developing countries to improve the lives of their citizens, to support the fight against 'new challenges' such as climate change and the digital revolution, and to advance reforms to prevent future global financial crises. 
+
+**Oceans**
+1. The [Aral Sea Disaster over a 60-year period](https://storymaps.arcgis.com/stories/75e4cb0a8a1a4e06995ad8466915c8de): a story map. The Aral Sea, between Kazakhstan and Uzbekistan, was the world's fourth largest saline lake, and was home to several endemic fish, marine animals and plants, and held significant importance for transport, fisheries, climate and society. Since 1964, the water level has decreased by 75% of its original size, as the waters of its source rivers were diverted for irrigation for cotton cultivation.
+
+**New platforms and initiatives**
+1. The [registration](https://challenge.aiforgood.itu.int/match/matchitem/83) for the [new global challenge promoting artificial intelligence for water, agriculture and energy sustainability](https://www.itu.int/hub/2023/07/new-competitions-to-advance-climate-action-with-ai/) is open until the 30th of September 2023. The climate action challenge aims to create an innovation ecosystem where collaborative problem-solving will help bring promising AI solutions to global scale.
+
+2. [Earthquakes, landslides, flooding, cyber-attacks, and avian flu outbreaks were all on deck for emergency drills testing the preparedness](https://appliedsciences.nasa.gov/our-impact/news/insights-gained-regional-disaster-drill-and-workshop-panama) of local disaster response agencies and, for the first-time, private companies, during the third Regional Simulation of Disaster Response and Humanitarian Assistance in Panama City, Panama, 13 - 16 June. Central America is known for its rich culture and biodiversity, and also for standing in the crosshairs of threats from an array of natural hazards, such as hurricanes, tropical storms, extensive flooding, mudslides, wind damage, seismic activities, earthquakes and volcanic eruptions.   
+
+3. More than 700 million people are exposed to tsunamis. [New technological advancements and international cooperation efforts will make future tsunami warnings more timely, accurate and accessible to all those at risk](https://www.goosocean.org/index.php?option=com_content&view=article&id=459:new-ocean-observing-technologies-to-advance-vital-tsunami-warning-systems&catid=13&Itemid=125). Tsunameters, instruments that detect and measure tsunamis by monitoring changes in ocean bottom pressure caused by tsunami waves. A new noise-filtering mechanism developed allows placing the tsunameters as close as 10 minutes away from the earthquake source, greatly reducing the delay in tsunami warnings.
+
+**News and updates about applications**
+1. [Copernicus Marine improves Ocean Monitoring Indicator Portal](https://marine.copernicus.eu/news/copernicus-marine-improves-ocean-monitoring-indicator-portal). The new version of the page is more user-friendly, enabling users to easily selected the indicator category they want to examine and featuring new and updated 'families' of indicators which include both global and regional products, such as Ocean Circulation, Ocean Climate, Ocean Variability and Extremes, and Ocean Health, and includes free downloadable trend indicators and data sets spanning the past nearly thirty years for key variables, which enable monitoring of changes in the ocean related to global warming, as well as natural variability. 
+
+**FAIR and CARE principles**
+1. [Leaders in Open Data: journal editors boost standards for data sharing](https://blog.datadryad.org/2023/07/14/leaders-in-open-data-journal-editors-boost-standards-for-data-sharing/): as the American Association for the Advancement of Science (AAAS) strengthens the scientific record by requiring all data underlying the results in published papers to be publicly and immediately available. 
+
+2. The [current momentum building for 'no pays' academic publishing models and establishing the 'reasonable costs' of publication](https://blogs.lse.ac.uk/impactofsocialsciences/2023/07/20/open-access-at-any-cost-cannot-support-scholarly-publishing-communities/), present opportunities to rebalance the inequities, costs, and power dynamics initially bred by the push towards Open Access 'at any cost' over the past two decades. 
+
+## Agenda for upcoming conferences, webinars and events
+*31 July - 4 August, 2023*: [FSCI 2023 Call for Courses (online): Enhancing the global impact of Open Scholarship](https://force11.org/fsci/2023/)
+
+*1 - 2 August, 2023*: [Session 1: 10:00 CET](https://us02web.zoom.us/webinar/register/WN_R5pAa6qIQjKrMel9bdgEwQ#/registration) and [Session 2: 19:00 CET](https://us02web.zoom.us/webinar/register/WN_VYGAmtgrTJ2CJDzYZIUbZQ) introducing the Value Commission project, its objectives and the pivotal role of the Transparency Criteria for the project to drive transparency and accountability across the application and use of value factors. 
+
+*24 August, 2023*, 16:00 CET: [Traditional knowledge for financial stability - Focus on biodiversity](https://us02web.zoom.us/webinar/register/WN_FAZR81i5TvCEIEChmXIZVQ#/registration) webinar organised by Sustainable Finance for Biodiversity
+
+*14 - 16 September 2023*: [Ecosystem services in transdisciplinary approach](https://ecoservpol.amu.edu.pl/en/ecoserv-2023-2/) in Poznań, Poland. Registration and call for abstracts will open in February 2023.
+
+*25 - 27 September 2023*: The Open Science Fair in Madrid, Spain: [Charting the course: Reimaging Open Science for next generations](https://www.opensciencefair.eu/). Registration opens in spring 2023. 
+
+*10 - 13 October 2023*: [Global Conference on Biodiversity and Monitoring by GEO BON](https://geobon.org/geo-bon-global-conference-monitoring-biodiversity-for-action/) in Montreal, Canada. Registration opens in April, call for abstracts: 10 April - 14 May 2023.
+
+*17 October 2023*: [Thomas Lovejoy Science for Nature Symposium](https://www.worldwildlife.org/stories/announcing-the-thomas-lovejoy-science-for-nature-symposium), in Washington D.C. and online.
+
+*10 - 12 April 2024*: [The 2024 UN Ocean Decade Conference](https://oceandecade.org/news/barcelona-to-host-2024-un-ocean-decade-conference/) in Barcelona, Spain
+
+
 ### Issue 14
 
 Date: July 11th, 2023
